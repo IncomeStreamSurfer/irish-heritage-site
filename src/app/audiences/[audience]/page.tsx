@@ -10,13 +10,19 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ audience: string }> }) {
   const { audience } = await params;
   const aud = getAllAudiences().find((a) => a.slug === audience);
-  const title = aud
-    ? `${formatLabel(aud.audience)} | ${aud.count} sites | Éire Heritage`
-    : "Audiences | Éire Heritage";
-  return {
-    title,
-    description: aud ? `Discover ${aud.count} site(s) suitable for ${aud.audience}.` : "Sites by audience suitability"
-  };
+
+  if (!aud) {
+    return {
+      title: "Audiences | Éire Heritage",
+      description: "Find Irish heritage sites by visitor type"
+    };
+  }
+
+  const audienceLabel = formatLabel(aud.audience);
+  const title = `${audienceLabel}: Best Irish Heritage Sites (${aud.count} Perfect ${aud.count === 1 ? 'Spot' : 'Spots'}) | Ireland Travel Guide`;
+  const description = `Planning a trip to Ireland? Find ${aud.count} amazing heritage ${aud.count === 1 ? 'site' : 'sites'} perfect for ${aud.audience}. Complete visitor guides with tickets, hours & family-friendly tips.`;
+
+  return { title, description };
 }
 
 export default async function AudiencePage({ params }: { params: Promise<{ audience: string }> }) {

@@ -10,11 +10,19 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ tag: string }> }) {
   const { tag: tagParam } = await params;
   const tag = getAllTags().find((t) => t.slug === tagParam);
-  const title = tag ? `${formatLabel(tag.tag)} | ${tag.count} sites | Éire Heritage` : "Tags | Éire Heritage";
-  return {
-    title,
-    description: tag ? `Explore ${tag.count} site(s) tagged with ${tag.tag}.` : "Sites by tag"
-  };
+
+  if (!tag) {
+    return {
+      title: "Tags | Éire Heritage",
+      description: "Browse Irish heritage sites by tag"
+    };
+  }
+
+  const tagLabel = formatLabel(tag.tag);
+  const title = `Best ${tagLabel} Sites in Ireland (${tag.count} ${tag.count === 1 ? 'Location' : 'Locations'}) | Irish Heritage Guide`;
+  const description = `Discover ${tag.count} incredible ${tagLabel.toLowerCase()} heritage ${tag.count === 1 ? 'site' : 'sites'} across Ireland. Explore historic ${tagLabel.toLowerCase()} locations with visitor info, opening times & admission prices.`;
+
+  return { title, description };
 }
 
 export default async function TagPage({ params }: { params: Promise<{ tag: string }> }) {

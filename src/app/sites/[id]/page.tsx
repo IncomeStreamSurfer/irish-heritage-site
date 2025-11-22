@@ -21,10 +21,26 @@ export async function generateMetadata({ params }: { params: Promise<Params> }) 
   const { id } = await params;
   const site = getSiteById(id);
   if (!site) return {};
-  return {
-    title: `${site.name} | ${formatLocation(site)} | Éire Heritage`,
-    description: site.tagline ?? site.description?.short ?? site.description?.full?.slice(0, 140)
-  };
+
+  const location = formatLocation(site);
+  const siteType = site.type ? formatLabel(site.type) : "Heritage Site";
+
+  const title = `${site.name}: ${siteType} in ${location} | Tickets, Hours & Visitor Guide`;
+
+  let description = "";
+  if (site.tagline && site.description?.short) {
+    description = `${site.tagline}. ${site.description.short.slice(0, 120)}`;
+  } else if (site.tagline) {
+    description = site.tagline;
+  } else if (site.description?.short) {
+    description = site.description.short;
+  } else if (site.description?.full) {
+    description = site.description.full.slice(0, 155);
+  }
+
+  description = description.length > 155 ? description.slice(0, 152) + "..." : description;
+
+  return { title, description };
 }
 
 const InfoRow = ({ label, value }: { label: string; value?: string | number | boolean }) => {
