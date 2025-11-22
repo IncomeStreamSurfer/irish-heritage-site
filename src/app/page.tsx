@@ -17,6 +17,7 @@ import {
 } from "@/lib/heritage-data";
 import { HeritageSite } from "@/lib/heritage-schema";
 import { SiteCard } from "@/components/heritage/SiteCard";
+import { HeaderSearch, HeroSearch } from "@/components/SearchBar";
 
 const dataset = getDataset();
 const featuredSite = getFeaturedSite();
@@ -30,15 +31,6 @@ const seasonal = getSeasonalAccess().slice(0, 3);
 
 const harpPath =
   "M145.6 32C127.4 50.2 112 76.1 102.4 108.1C93.1 138.9 88 173.8 88 211.6c0 176.4 114.6 319.7 256 319.7c19.8 0 38.6-3 56-8.3c15.2-4.7 24.6-20.9 20-36.1s-20.9-24.6-36.1-20c-12.8 3.9-26.5 6.1-41.1 6.1c-106 0-192-107.5-192-239.8c0-31.9 5.2-61 14-86.8c8.5-24.9 21.7-46 38.6-60.2C219.1 70.7 246.2 64 276 64c6.6 0 13.1 .3 19.5 1c28.3 3.1 54.6 12.3 77.9 26.1c14 8.3 32.2 3.7 40.5-10.3s3.7-32.2-10.3-40.5C370.4 20.6 328.7 6.7 284.3 1.5C281.5 1.2 278.8 1 276 1c-38.4 0-73.9 9.2-104.4 23.8c-8.7 4.1-17.3 8.5-26 13.2zM392.6 115.9c-13.8-8.1-31.9-3.4-40 10.5s-3.4 31.9 10.5 40c18.7 10.9 33.6 26.4 43.8 44.4c9.1 16.1 15 34.1 17.4 52.7c1.8 13.8 13.5 24.5 27.4 24.5c1.9 0 3.8-.2 5.6-.6c15.9-3.7 25.8-19.7 22-35.6c-3.4-14.2-8.4-27.7-14.9-40.2c-1.8-3.5-3.8-6.9-5.9-10.2C446.9 172 425 134.8 392.6 115.9zM428.9 315c-15.9 2.9-26.8 18.2-23.9 34.1c3.6 19.7 5.5 40.3 5.5 61.4c0 13.9-1 27.5-3 40.6c-2.4 15.9 8.6 30.7 24.4 33.1s30.7-8.6 33.1-24.4c2.7-17.4 4.1-35.6 4.1-54.3c0-28-2.6-55.2-7.4-81.4C458.8 308.3 444.8 297.6 428.9 315zM344 128c-17.7 0-32 14.3-32 32V329.4c0 31.1-25.2 56.4-56.3 56.4c-8 0-15.6-1.7-22.5-4.6c-16.4-7-28-23.3-28-42.4c0-8.8 7.2-16 16-16h40c8.8 0 16-7.2 16-16V160c0-17.7-14.3-32-32-32c-3.8 0-7.4 .7-10.8 1.9c-34 12.5-58.2 44.9-58.2 82.9c0 38.5 24.6 71.2 59.2 83.3c9.6 3.4 19.8 5.2 30.6 5.2c48.8 0 88.3-39.6 88.3-88.3V160c0-17.7-14.3-32-32-32zm-48 64v91.4c-5.4 6.1-13.3 10-22.2 10c-6.4 0-12.2-2-17.1-5.5c-5.2-3.7-8.7-9.8-8.7-16.8V203.9c4.1-6.1 11-10.2 18.8-10.2c4.5 0 8.8 1.3 12.4 3.7C288 203.3 296 215.3 296 229.5v5.6c0-7.1 1.7-13.9 4.9-20.1c-5.5-7.6-8.8-16.8-8.8-26.9c0-14.1 6.4-26.6 16.5-35.2c-7.7-4.4-16.6-6.9-26.1-6.9c-5.2 0-10.1 .8-14.8 2.2C274.3 155.5 282.3 168.8 288 183.9V192z";
-
-const SearchIcon = ({ color = "currentColor", className }: { color?: string; className?: string }) => (
-  <svg className={className ?? "icon"} viewBox="0 0 24 24" aria-hidden>
-    <path
-      d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5z"
-      fill={color}
-    />
-  </svg>
-);
 
 const CalendarIcon = () => (
   <svg className="icon" viewBox="0 0 24 24" aria-hidden>
@@ -144,10 +136,7 @@ export default function HomePage() {
             </ul>
           </nav>
           <div className="header-actions">
-            <div className="search-container">
-              <input type="text" className="search-input" placeholder="Search..." />
-              <SearchIcon color="var(--color-text-grey)" className="search-icon-abs" />
-            </div>
+            <HeaderSearch />
             <button className="btn btn-gold">Sign Up/Login</button>
           </div>
         </div>
@@ -176,12 +165,7 @@ export default function HomePage() {
               <CalendarIcon /> Updated {dataset.metadata?.lastUpdated ?? "recently"}
             </span>
           </div>
-          <div className="hero-search-box">
-            <input type="text" className="hero-search-input" placeholder={heroPlaceholder} />
-            <button className="hero-search-btn" aria-label="Search heritage sites">
-              <SearchIcon color="var(--color-white)" />
-            </button>
-          </div>
+          <HeroSearch placeholder={heroPlaceholder} />
         </div>
       </section>
 
