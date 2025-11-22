@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllAudiences, getAllTags, getDataset, getSites } from "@/lib/heritage-data";
 
-const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://irishheritagesites.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const { metadata } = getDataset();

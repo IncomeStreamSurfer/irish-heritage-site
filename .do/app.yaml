@@ -1,0 +1,33 @@
+name: irish-heritage-site
+region: nyc
+
+domains:
+  - domain: irishheritagesites.com
+    type: PRIMARY
+  - domain: www.irishheritagesites.com
+    type: ALIAS
+
+services:
+  - name: web
+    github:
+      repo: IncomeStreamSurfer/irish-heritage-site
+      branch: main
+      deploy_on_push: true
+
+    build_command: npm run build
+    run_command: npm start
+
+    environment_slug: node-js
+    instance_count: 1
+    instance_size_slug: basic-xxs
+
+    http_port: 3000
+
+    envs:
+      - key: NODE_ENV
+        value: production
+      - key: NEXT_PUBLIC_SITE_URL
+        value: https://irishheritagesites.com
+
+    routes:
+      - path: /
