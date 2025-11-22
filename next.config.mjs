@@ -16,6 +16,12 @@ const nextConfig = {
       { protocol: "https", hostname: "www.carrowkeel.com" },
       { protocol: "https", hostname: "www.worldheritageireland.ie" },
       { protocol: "https", hostname: "www.aranislands.ie" },
+      { protocol: "https", hostname: "kingjohnscastle.ie" },
+      { protocol: "https", hostname: "malahidecastleandgardens.ie" },
+      { protocol: "https", hostname: "muckross-house.ie" },
+      { protocol: "https", hostname: "powerscourt.com" },
+      { protocol: "https", hostname: "www.dunguairecastle.com" },
+      { protocol: "https", hostname: "www.nationalparks.ie" },
       { protocol: "https", hostname: "example.com" },
       { protocol: "https", hostname: "en.wikipedia.org" }
     ]
