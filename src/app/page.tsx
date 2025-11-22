@@ -66,11 +66,15 @@ const buildStories = (sourceSites: HeritageSite[], count = 3) =>
     const dateLabel = monthsAgo === 1 ? "1 month ago" : `${monthsAgo} months ago`;
     const image =
       site.images?.gallery?.[0]?.url ?? site.images?.heroImage?.url ?? site.images?.gallery?.[1]?.url;
-    const description =
+    const fullDescription =
       site.description?.history ??
       site.description?.significance ??
       site.description?.short ??
-      site.description?.full?.slice(0, 160);
+      site.description?.full ?? "";
+
+    const description = fullDescription.length > 120
+      ? fullDescription.slice(0, 120) + "..."
+      : fullDescription;
 
     const title = site.tagline ? `${site.name}: ${site.tagline}` : site.name;
     return {
