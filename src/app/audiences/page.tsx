@@ -7,8 +7,8 @@ const audiences = getAllAudiences();
 const spotlightSites = getPreviewSites(3);
 
 export const metadata = {
-  title: "Audiences | Éire Heritage",
-  description: "Browse heritage sites by suitability and audience."
+  title: "Find Irish Heritage Sites Perfect for You | Family, Couples & Group Travel",
+  description: "Planning an Ireland trip? Discover heritage sites tailored for families, couples, history enthusiasts, photographers & more. Get personalized recommendations with tickets & visitor tips."
 };
 
 export default function AudiencesIndexPage() {

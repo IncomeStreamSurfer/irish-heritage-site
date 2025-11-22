@@ -7,8 +7,8 @@ const tags = getAllTags();
 const spotlightSites = getPreviewSites(3);
 
 export const metadata = {
-  title: "Tags | Éire Heritage",
-  description: "Browse heritage sites by tag."
+  title: "Browse Irish Heritage Sites by Category & Tag | Complete Ireland Travel Guide",
+  description: "Explore Ireland's best castles, monasteries, gardens & historic sites by category. Find medieval ruins, UNESCO sites, coastal landmarks & family attractions across all 32 counties."
 };
 
 export default function TagsIndexPage() {

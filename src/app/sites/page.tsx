@@ -22,14 +22,32 @@ const matchesQuery = (value: string | undefined, q: string) =>
 
 export async function generateMetadata({ searchParams }: { searchParams: Promise<SearchParams> }) {
   const { q, region, tag, audience } = await searchParams;
-  const filters = [q && `query: ${q}`, region && `region: ${region}`, tag && `tag: ${tag}`, audience && `audience: ${audience}`]
-    .filter(Boolean)
-    .join(" · ");
 
-  return {
-    title: `Sites | ${filters || "All"} | Éire Heritage`,
-    description: `Browse heritage sites${filters ? ` filtered by ${filters}` : ""}.`
-  };
+  // Build SEO-friendly title
+  let title = "";
+  let description = "";
+
+  if (q) {
+    title = `"${q}" - Irish Heritage Sites Search Results | Ireland Travel Guide`;
+    description = `Find Irish heritage sites matching "${q}". Search results include castles, monasteries, historic houses & attractions with visitor information.`;
+  } else if (region) {
+    const regionName = formatLabel(region);
+    title = `Best Heritage Sites in ${regionName}, Ireland | Complete Visitor Guide`;
+    description = `Discover the top historic sites, castles & attractions in ${regionName}. Get tickets, opening hours & travel tips for Ireland's best ${regionName} landmarks.`;
+  } else if (tag) {
+    const tagName = formatLabel(tag);
+    title = `${tagName} Heritage Sites in Ireland | Visitor Information & Tickets`;
+    description = `Explore Irish ${tagName.toLowerCase()} sites with complete visitor guides. Find opening times, admission prices & travel directions.`;
+  } else if (audience) {
+    const audienceName = formatLabel(audience);
+    title = `Irish Heritage Sites for ${audienceName} | Personalized Ireland Travel`;
+    description = `Heritage sites in Ireland perfect for ${audience}. Handpicked locations with visitor info, family tips & booking details.`;
+  } else {
+    title = "All Irish Heritage Sites | Complete Database with Visitor Information";
+    description = "Browse Ireland's complete heritage sites collection. Explore castles, monasteries, gardens & historic landmarks with tickets, hours & travel guides.";
+  }
+
+  return { title, description };
 }
 
 export default async function SitesPage({ searchParams }: { searchParams: Promise<SearchParams> }) {
