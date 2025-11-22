@@ -1,0 +1,327 @@
+{
+  "id": "king-johns-castle-limerick",
+  "name": "King John's Castle",
+  "tagline": "Limerick's most iconic landmark on King's Island",
+  "type": "castle",
+  "categories": ["castle", "norman-fortification", "interactive-museum", "visitor-centre", "courtyard-activities"],
+  "era": "norman-viking",
+  "dateBuilt": "1200-1210",
+  "unescoWorldHeritageSite": false,
+  "managedBy": "Limerick City and County Council - Discover Limerick",
+
+  "description": {
+    "short": "Located at the heart of Limerick's medieval quarter, King John's Castle brings to life over 800 years of dramatic local history on the banks of the River Shannon.",
+    "full": "Step inside the walls of Limerick's most iconic landmark on King's Island in the heart of medieval Limerick City. King John's Castle brings to life over 800 years of dramatic local history. Discover the stories of ruthless King John, the noble knights, and rebellious natives. Explore the spacious outdoor courtyard where you'll get a sense of the bustling activity that took place many years ago. Venture into the visitor centre with state of the art interpretive activities and exhibitions. 21st century touch screen technology, 3D models and discovery drawers are among the exciting techniques that will connect you to tales of siege and warfare. Visitors will love the dazzling array of computer generated animations and ghostly projections as they travel back through time. The site has been occupied for over 1000 years, with a turbulent history dating back to Viking times and having undergone several sieges, battles and triumphs throughout its long history.",
+    "history": "The site on which King John's Castle stands has been occupied for over 1000 years. Viking settlers established a fortified settlement on King's Island around 922 AD. Following the Norman invasion of Ireland, King John of England ordered the construction of a royal castle on this strategic location overlooking the River Shannon between 1200-1210. The castle was built to command the crossing point of the Shannon and protect the newly conquered Norman settlement. The fortress features five massive drum towers and impressive curtain walls. Throughout the medieval period, the castle served as the center of English administrative and military power in the region. It endured numerous sieges during the Irish Confederate Wars in the 1640s and during the Williamite War in the 1690s. The castle underwent a major conservation and development project completed in 2013, opening a new €5.5 million visitor experience that brings together the castle's remarkable archaeology and 21st century technology.",
+    "significance": "One of Ireland's best-preserved Norman castles and Limerick's signature landmark, representing over 800 years of Irish history from Viking settlement through Norman conquest to modern times. The castle is a centerpiece of Limerick's Medieval Quarter."
+  },
+
+  "location": {
+    "address": {
+      "street": "Nicholas Street, King's Island",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "region": "Mid-West - Wild Atlantic Way",
+      "country": "Ireland",
+      "postcode": "V95 FX25"
+    },
+    "coordinates": {
+      "latitude": 52.6686,
+      "longitude": -8.6270
+    },
+    "directions": {
+      "general": "Located on King's Island in Limerick City centre, on the banks of the River Shannon",
+      "byCar": "Limerick City is accessible via the M7 from Dublin (2.5 hours), N20 from Cork (1 hour), and N18 from Galway (1 hour). Public parking available nearby at Arthur's Quay Shopping Centre and on-street parking",
+      "byBus": "Limerick City is served by Bus Éireann services from all major cities. The castle is a 5-minute walk from Limerick Bus Station",
+      "byTrain": "Limerick Colbert Station is approximately 1.5km from the castle (15-minute walk or short taxi ride). Regular services from Dublin, Cork, Galway and other cities",
+      "parking": "Public car parks nearby at Arthur's Quay and on-street parking available. Coach parking can be arranged"
+    }
+  },
+
+  "contact": {
+    "phone": "+353 61 370500",
+    "email": "reservations@kingjohnscastle.ie",
+    "website": "https://kingjohnscastle.ie",
+    "bookingUrl": "https://ie.patronbase.com/_KingJohnsCastle/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/KingJohnsCastle/",
+      "twitter": "https://twitter.com/kingjohnscastle",
+      "instagram": "https://www.instagram.com/kingjohnscastle/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year round, 7 days a week",
+      "seasonal": [
+        {
+          "season": "Summer Hours (March - October)",
+          "days": "7 days a week",
+          "hours": "09:30 - 18:00",
+          "lastAdmission": "17:00"
+        },
+        {
+          "season": "Winter Hours (November - February)",
+          "days": "7 days a week",
+          "hours": "09:30 - 17:00",
+          "lastAdmission": "16:00"
+        }
+      ],
+      "specialClosures": ["Check website for any special event closures"]
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "adult": 15.00,
+        "senior": 12.00,
+        "student": 12.00,
+        "child4to14": 8.00,
+        "child0to3": 0.00,
+        "family2Adults2Children": 38.00,
+        "family2Adults3Children": 42.00,
+        "family2Adults4Children": 46.00,
+        "family2Adults5Children": 50.00,
+        "family2Adults6Children": 54.00
+      },
+      "notes": "Advance booking recommended. Family tickets offer significant savings. Children 0-3 years free. Special group rates available for pre-booked groups of 15+"
+    },
+
+    "tourOptions": [
+      {
+        "type": "Self-Guided Interactive Experience",
+        "duration": "1.5-2 hours",
+        "included": ["Interactive exhibitions", "Touch-screen technology", "3D models", "Discovery drawers", "Computer animations", "Ghostly projections", "Medieval courtyard games", "Access to towers with panoramic views", "Blacksmith's forge", "Medieval campaign tent", "17th century siege scenes"],
+        "bookingRequired": true,
+        "notes": "All included in standard admission price"
+      },
+      {
+        "type": "Medieval Courtyard Games",
+        "duration": "30-45 minutes",
+        "included": ["Noughts and Crosses", "Horseshoe Throwing", "Medieval Seesaw", "Tug O War", "Archery demonstrations"],
+        "bookingRequired": false,
+        "notes": "Included in ticket price, suitable for all ages"
+      },
+      {
+        "type": "Abseiling Experience",
+        "duration": "1 hour",
+        "included": ["Professional instruction", "All equipment", "Abseil from castle gatehouse turret", "Castle admission included"],
+        "bookingRequired": true,
+        "notes": "Operated in association with Nevsail Watersports & Adventures. Additional fee applies. Advance booking essential"
+      }
+    ],
+
+    "averageVisitDuration": "1.5-2 hours (recommended 2-3 hours to fully enjoy all experiences)",
+    "busyPeriods": ["Summer months (June-August)", "School holidays", "Weekends", "Public holidays"],
+    "adviceForVisitors": "Book tickets online in advance to guarantee entry. Allow 2-3 hours minimum to fully explore the castle, exhibitions, and courtyard activities. Comfortable walking shoes recommended for climbing towers. The café offers stunning views of the courtyard and River Shannon - perfect for refreshments. Special events including concerts are held throughout the summer months."
+  },
+
+  "features": {
+    "highlights": [
+      "Five massive Norman drum towers",
+      "800+ years of continuous occupation",
+      "Interactive 21st century exhibitions with touch-screen technology",
+      "3D models and computer-generated animations",
+      "Ghostly projections bringing history to life",
+      "Medieval courtyard with games and activities",
+      "Blacksmith's forge with demonstrations",
+      "Medieval campaign tent",
+      "17th century siege re-enactments",
+      "Panoramic views from castle towers over Limerick City and River Shannon",
+      "Viking excavations and archaeology displays",
+      "Norman fortifications and curtain walls",
+      "Visitor centre with state-of-the-art exhibitions",
+      "Unique abseiling experience from castle walls",
+      "Historic costumed interpreters",
+      "Discovery drawers with hands-on artifacts"
+    ],
+
+    "facilities": [
+      "Visitor Centre",
+      "Interactive Exhibitions",
+      "Café with river and courtyard views",
+      "Gift Shop",
+      "Toilets",
+      "Baby Changing Facilities",
+      "Free WiFi",
+      "Coach Parking (by arrangement)",
+      "Educational Resources",
+      "Group Facilities",
+      "Event Venue (concerts and special events)",
+      "Picnic Areas",
+      "Wheelchair Accessible Toilets",
+      "Card Payments Accepted"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "accessibilityLevel": "Mixed - Ground floor and courtyard accessible, towers not accessible",
+      "restrictions": [
+        "Castle towers not accessible for wheelchair users",
+        "Steep stairs to tower tops",
+        "Some uneven medieval surfaces in courtyard",
+        "Assistance dogs welcome"
+      ],
+      "accessibilityNotes": "The ground floor exhibition areas and courtyard are wheelchair accessible. The visitor centre, café, shop, and toilets are all accessible. However, access to the castle towers involves steep medieval spiral staircases and is not suitable for visitors with mobility issues. Please contact in advance to discuss specific accessibility needs."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://kingjohnscastle.ie/wp-content/uploads/2022/01/news2-scaled-1.jpg",
+      "alt": "King John's Castle with five drum towers on the banks of the River Shannon",
+      "caption": "King John's Castle - Limerick's iconic Norman fortress on King's Island"
+    },
+    "gallery": [
+      {
+        "url": "https://kingjohnscastle.ie/wp-content/uploads/2022/01/historybg4.jpg",
+        "alt": "King John's Castle courtyard with towers, green grass and flag",
+        "caption": "The castle courtyard - heart of 800 years of activity"
+      },
+      {
+        "url": "https://kingjohnscastle.ie/wp-content/uploads/2022/01/interactive2.jpg",
+        "alt": "Visitors observing interactive diorama depicting historical battle scene",
+        "caption": "21st century interactive exhibitions bring history to life"
+      },
+      {
+        "url": "https://kingjohnscastle.ie/wp-content/uploads/2022/01/castlelife2.jpg",
+        "alt": "Visitors exploring medieval castle life exhibition with audio-visual displays",
+        "caption": "Discover castle life through cutting-edge technology"
+      },
+      {
+        "url": "https://kingjohnscastle.ie/wp-content/uploads/2022/01/courtyard1.jpg",
+        "alt": "Family practicing archery in front of castle towers",
+        "caption": "Medieval courtyard games suitable for all ages"
+      },
+      {
+        "url": "https://kingjohnscastle.ie/wp-content/uploads/2022/03/KJC_MAY_DRONE_2021-12-scaled.jpg",
+        "alt": "Aerial drone view of King John's Castle on the River Shannon",
+        "caption": "Aerial view showing the castle's strategic position on King's Island"
+      },
+      {
+        "url": "https://kingjohnscastle.ie/wp-content/uploads/2022/03/cafe.jpg",
+        "alt": "Castle café interior with views of courtyard",
+        "caption": "Café with spectacular views of courtyard and River Shannon"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "St. Mary's Cathedral",
+      "distance": "0.3 km",
+      "type": "cathedral"
+    },
+    {
+      "name": "Hunt Museum",
+      "distance": "0.8 km",
+      "type": "museum"
+    },
+    {
+      "name": "Thomond Park Stadium",
+      "distance": "1.5 km",
+      "type": "sports-venue"
+    },
+    {
+      "name": "Treaty Stone",
+      "distance": "0.4 km",
+      "type": "historic-monument"
+    },
+    {
+      "name": "Milk Market",
+      "distance": "1.0 km",
+      "type": "market"
+    },
+    {
+      "name": "Georgian Quarter",
+      "distance": "1.2 km",
+      "type": "historic-district"
+    },
+    {
+      "name": "Bunratty Castle & Folk Park",
+      "distance": "13.5 km",
+      "type": "castle"
+    }
+  ],
+
+  "resources": {
+    "educationalResources": [
+      {
+        "name": "Primary School Tours Programme",
+        "description": "Curriculum-linked educational tours for primary schools",
+        "url": "https://kingjohnscastle.ie/en_us/primary-school-tours-2/"
+      },
+      {
+        "name": "Secondary School Tours Programme",
+        "description": "Historical education programmes for secondary students",
+        "url": "https://kingjohnscastle.ie/en_us/secondary-school-tours-2/"
+      },
+      {
+        "name": "Teachers Resources",
+        "description": "Downloadable educational materials for teachers",
+        "url": "https://kingjohnscastle.ie/en_us/teachers-resources-2/"
+      }
+    ],
+    "visitorsGuides": [
+      {
+        "language": "English",
+        "format": "Interactive digital displays throughout castle"
+      },
+      {
+        "language": "Irish",
+        "format": "Available on request"
+      }
+    ],
+    "languageResources": {
+      "available": true,
+      "url": "https://kingjohnscastle.ie/en_us/language-resources/",
+      "note": "Multi-language support available"
+    }
+  },
+
+  "specialExperiences": {
+    "abseiling": {
+      "available": true,
+      "description": "Abseil from the amazing vantage point of the castle gatehouse turret and absorb the view of Limerick's rooftop while descending the historic walls",
+      "operator": "Nevsail Watersports & Adventures",
+      "notes": "One of Europe's most unique abseiling experiences from a preserved Norman castle"
+    },
+    "events": {
+      "concerts": true,
+      "description": "Live at the Castle concert series featuring international artists",
+      "pastArtists": ["The Human League", "Pixies", "Kasabian", "Bell X1", "Kraftwerk", "Madness", "The Stunning"],
+      "notes": "Summer concert series in castle courtyard - check website for upcoming events"
+    },
+    "costumedInterpreters": {
+      "available": true,
+      "description": "Living history interpretation and re-enactment with costumed guides who reveal the secrets and scandals of castle life"
+    }
+  },
+
+  "historicalSignificance": {
+    "vikingEra": "The site was originally settled by Vikings around 922 AD who established a fortified settlement on King's Island at the strategic crossing point of the River Shannon.",
+    "normanEra": "Built 1200-1210 on orders of King John of England as a royal fortress to command the Shannon crossing and protect the Norman settlement. Features five massive drum towers and curtain walls.",
+    "medievalPeriod": "Served as the center of English administrative and military power in the region throughout the medieval period.",
+    "confederateWars": "Endured sieges during the Irish Confederate Wars (1640s) when it was used as an arsenal under Irish forces.",
+    "williamiteWar": "Further sieges during the Williamite War (1690s) as control of Limerick changed hands.",
+    "modernEra": "€5.5 million conservation and development project completed in 2013, creating a world-class visitor experience combining archaeology and 21st century technology."
+  },
+
+  "tags": ["castle", "norman", "viking", "medieval", "interactive-museum", "family-friendly", "limerick", "river-shannon", "kings-island", "fortification", "siege-history", "courtyard-activities", "abseiling", "concerts", "living-history"],
+  "suitableFor": ["families", "history-enthusiasts", "school-groups", "tourists", "photographers", "adventure-seekers", "architecture-lovers", "medieval-history-buffs"],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "uniqueFeatures": [
+    "One of Europe's best-preserved Norman castles",
+    "Over 1000 years of continuous occupation from Viking times",
+    "State-of-the-art 21st century interactive exhibitions",
+    "Medieval courtyard games included in admission",
+    "Unique abseiling experience from castle walls",
+    "Summer concert venue hosting international artists",
+    "Strategic location on King's Island overlooking River Shannon",
+    "Living history with costumed interpreters",
+    "Combines authentic medieval architecture with modern museum technology"
+  ]
+}
