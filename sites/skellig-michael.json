@@ -1,0 +1,152 @@
+{
+  "id": "skellig-michael",
+  "name": "Skellig Michael",
+  "tagline": "Ancient monastery on a dramatic Atlantic island",
+  "type": "monastic-settlement",
+  "categories": ["monastery", "unesco-world-heritage", "early-christian", "island"],
+  "era": "Early Medieval",
+  "dateBuilt": "6th-8th century",
+  "unescoWorldHeritageSite": true,
+  "managedBy": "Office of Public Works - Heritage Ireland",
+
+  "description": {
+    "short": "A UNESCO World Heritage Site featuring a remarkably preserved 6th-8th century monastic settlement perched 180 metres above the Atlantic Ocean.",
+    "full": "Skellig Michael is one of Ireland's most extraordinary heritage sites, located 11.6 kilometres off the Kerry coast. This rocky island rises 218 metres above the Atlantic and is home to one of the world's best-preserved early Christian monastic settlements.",
+    "history": "Founded between 6th-8th centuries by monks seeking spiritual isolation. Raided by Vikings in 823 and 838 AD. Continuously occupied until 12th-13th century. Featured as Luke Skywalker's exile location in Star Wars films.",
+    "significance": "UNESCO World Heritage Site representing extremes of Christian monasticism. Outstanding example of early religious settlement on a pyramidal ocean rock."
+  },
+
+  "location": {
+    "address": {
+      "street": "Skellig Michael Island",
+      "town": "Portmagee (departure point)",
+      "county": "Kerry",
+      "region": "South West Ireland",
+      "country": "Ireland",
+      "postcode": "V23 PN93"
+    },
+    "coordinates": {
+      "latitude": 51.7710,
+      "longitude": -10.5400
+    },
+    "directions": {
+      "general": "Accessible only by boat from Portmagee or Ballinskelligs. 11.6 km off the Iveragh Peninsula.",
+      "publicTransport": "Boat access only. Journey time 45-50 minutes each way.",
+      "parking": "Free parking at Portmagee village"
+    }
+  },
+
+  "contact": {
+    "phone": "+353 46 942 3130",
+    "email": "info@heritageireland.ie",
+    "website": "https://heritageireland.ie/visit/places-to-visit/skellig-michael/",
+    "bookingUrl": "https://heritageireland.ie/visit/places-to-visit/skellig-michael/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/HeritageIreland",
+      "instagram": "https://www.instagram.com/heritageireland/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Seasonal - weather dependent",
+      "seasonal": [
+        {
+          "season": "Main Season",
+          "days": "Daily (weather permitting)",
+          "hours": "June - September. Boat departures 8:00am - 10:30am",
+          "lastAdmission": "Weather dependent"
+        }
+      ],
+      "specialClosures": ["October to May - site closed"]
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "adult": 130.00,
+        "senior": 130.00,
+        "child": 130.00
+      },
+      "notes": "Landing tour price includes boat transfer and 2.5 hours on island. Children under 12 not permitted. Book 6-12 months in advance."
+    },
+
+    "tourOptions": [
+      {
+        "type": "Landing Tour",
+        "duration": "5-6 hours total (2.5 hours on island)",
+        "included": ["Return boat journey", "OPW guide service", "View Little Skellig gannet colony"],
+        "bookingRequired": true
+      }
+    ],
+
+    "averageVisitDuration": "5-6 hours including boat journey",
+    "busyPeriods": ["July-August", "Good weather windows"],
+    "adviceForVisitors": "CRITICAL: 618 steep steps. Requires excellent fitness. Children under 12 NOT permitted. Wear hiking boots. Weather cancellations extremely common."
+  },
+
+  "features": {
+    "highlights": [
+      "Six beehive huts (clocháns) built 6th-8th century",
+      "618 ancient stone steps",
+      "Two boat-shaped oratories and medieval church",
+      "180-metre elevation above Atlantic",
+      "Star Wars filming location (Ahch-To planet)",
+      "Second-largest gannet colony in world on Little Skellig",
+      "Thousands of Atlantic puffins (May-August)"
+    ],
+
+    "facilities": [
+      "OPW guided tour service",
+      "Basic toilet facilities",
+      "No food or water available",
+      "No shelter from weather"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "accessibilityLevel": "Extremely Difficult - Not Accessible",
+      "restrictions": [
+        "618 steep, uneven steps",
+        "180-metre vertical climb",
+        "No handrails on many sections",
+        "Children under 12 prohibited",
+        "Requires excellent physical fitness"
+      ],
+      "accessibilityNotes": "One of the most physically challenging heritage sites. Only suitable for fit, able-bodied adults and teenagers over 12."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/images/skellig-michael.jpg",
+      "alt": "Skellig Michael monastery",
+      "caption": "Skellig Michael's 6th-8th century monastic settlement"
+    },
+    "gallery": []
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Little Skellig",
+      "distance": "1.6 km",
+      "type": "seabird-sanctuary"
+    },
+    {
+      "name": "Valentia Island",
+      "distance": "12 km",
+      "type": "island"
+    }
+  ],
+
+  "resources": {
+    "socialGuides": [],
+    "educationalResources": []
+  },
+
+  "tags": ["unesco-world-heritage", "monastery", "beehive-huts", "island", "star-wars-location"],
+  "suitableFor": ["fit-adults", "adventure-seekers", "history-enthusiasts"],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true
+}

@@ -1,0 +1,148 @@
+{
+  "id": "cliffs-of-moher",
+  "name": "Cliffs of Moher",
+  "tagline": "Ireland's Most Visited Natural Attraction",
+  "type": "natural-landmark",
+  "categories": ["natural-wonder", "coastal-attraction", "unesco-geopark", "wildlife-sanctuary"],
+  "era": "Carboniferous Period",
+  "dateBuilt": "320 million years ago",
+  "unescoWorldHeritageSite": false,
+  "managedBy": "Clare County Council",
+
+  "description": {
+    "short": "The Cliffs of Moher are Ireland's most spectacular sea cliffs, rising up to 214 meters above the Atlantic Ocean.",
+    "full": "The Cliffs of Moher stand as one of Ireland's most iconic natural wonders, attracting over 1.5 million visitors annually. These magnificent sea cliffs rise dramatically from the Atlantic Ocean, reaching heights of up to 214 meters and stretching for 8 kilometers along the County Clare coastline.",
+    "history": "Formed over 320 million years ago during the Carboniferous Period. O'Brien's Tower was built in 1835 by Cornelius O'Brien as a viewing platform for Victorian tourists.",
+    "significance": "Part of the Burren and Cliffs of Moher UNESCO Global Geopark, home to over 30,000 breeding seabirds."
+  },
+
+  "location": {
+    "address": {
+      "street": "Cliffs of Moher",
+      "town": "Liscannor",
+      "county": "County Clare",
+      "region": "West Ireland",
+      "country": "Ireland",
+      "postcode": "V95 KN9T"
+    },
+    "coordinates": {
+      "latitude": 52.9715,
+      "longitude": -9.4265
+    },
+    "directions": {
+      "general": "Located on Ireland's west coast, 75km from Galway City",
+      "publicTransport": "Bus Éireann Route 350 from Galway",
+      "parking": "On-site parking included with admission"
+    }
+  },
+
+  "contact": {
+    "phone": "+353 65 708 6141",
+    "email": "cliffsofmoher@claretourismdev.ie",
+    "website": "https://www.cliffsofmoher.ie",
+    "bookingUrl": "https://bookings.cliffsofmoher.ie/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/CliffsofMoher",
+      "instagram": "https://www.instagram.com/cliffsofmoher"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open",
+      "seasonal": [
+        {
+          "season": "Summer (May-August)",
+          "days": "Daily",
+          "hours": "8:00 AM - 9:00 PM",
+          "lastAdmission": "One hour before closing"
+        }
+      ],
+      "specialClosures": ["December 24-26"]
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "adult": 10.00,
+        "senior": 8.00,
+        "child": 6.00,
+        "family": 28.00
+      },
+      "notes": "Discounts available when booking online in advance."
+    },
+
+    "tourOptions": [
+      {
+        "type": "Self-Guided Visit",
+        "duration": "2-3 hours",
+        "included": ["Cliff pathways", "O'Brien's Tower", "Visitor Centre"],
+        "bookingRequired": false
+      }
+    ],
+
+    "averageVisitDuration": "2-3 hours",
+    "busyPeriods": ["July-August", "Weekends", "11:00 AM - 3:00 PM"],
+    "adviceForVisitors": "Dress in layers, bring waterproof clothing, stay behind safety barriers."
+  },
+
+  "features": {
+    "highlights": [
+      "214-meter high sea cliffs",
+      "O'Brien's Tower viewing platform",
+      "Award-winning Visitor Centre",
+      "Over 30,000 breeding seabirds",
+      "8-kilometer clifftop walking trail",
+      "Views of Aran Islands and Galway Bay"
+    ],
+
+    "facilities": [
+      "Visitor Centre",
+      "Café",
+      "Gift shop",
+      "Toilets",
+      "Parking",
+      "Free WiFi"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "accessibilityLevel": "Good",
+      "restrictions": ["Some clifftop paths uneven"],
+      "accessibilityNotes": "Visitor Centre fully accessible. Southern viewing platform paved and accessible."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://www.cliffsofmoher.ie/images/cliffs.jpg",
+      "alt": "Cliffs of Moher",
+      "caption": "The Cliffs of Moher"
+    },
+    "gallery": []
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "The Burren",
+      "distance": "15 km",
+      "type": "natural-landscape"
+    },
+    {
+      "name": "Doolin Village",
+      "distance": "7 km",
+      "type": "village"
+    }
+  ],
+
+  "resources": {
+    "socialGuides": [],
+    "educationalResources": []
+  },
+
+  "tags": ["cliffs", "wild-atlantic-way", "unesco-geopark", "seabirds", "county-clare"],
+  "suitableFor": ["families", "nature-lovers", "photographers", "hikers"],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true
+}

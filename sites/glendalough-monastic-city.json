@@ -1,0 +1,169 @@
+{
+  "id": "glendalough-monastic-city",
+  "name": "Glendalough Monastic City",
+  "tagline": "A valley of sanctuary for saints and scholars",
+  "type": "monastic-settlement",
+  "categories": ["monastery", "early-medieval", "religious-heritage", "national-monument", "archaeological-site"],
+  "era": "Early Medieval",
+  "dateBuilt": "6th century (founded circa 545 AD)",
+  "unescoWorldHeritageSite": false,
+  "managedBy": "Heritage Ireland (Office of Public Works)",
+
+  "description": {
+    "short": "Glendalough is one of Ireland's most important monastic settlements, founded by St. Kevin in the 6th century in a stunning glaciated valley in County Wicklow.",
+    "full": "In a stunning glaciated valley in County Wicklow, one of Ireland's most revered saints, St. Kevin, founded a monastery in the 6th century that would become one of the most famous religious centres in Europe. The foundation at Glendalough, meaning 'Valley of Two Lakes', flourished for over six centuries as a beacon of learning, spirituality, and artistic achievement. The remains of this 'Monastic City' include a superb 30-meter round tower, numerous medieval stone churches including St. Kevin's Church (known as St. Kevin's Kitchen), a cathedral, decorated Celtic crosses, and the mysterious St. Kevin's Bed - a small cave in the cliff face above the Upper Lake.",
+    "history": "St. Kevin, a descendant of one of the ruling families in Leinster, was born around 498 AD. Seeking solitude, Kevin came to the remote glaciated valley of Glendalough where he initially lived as a hermit in a cave. By 545 AD he had established a monastery where disciples could live, study, and pray. The settlement grew rapidly, becoming one of the most important centres of Celtic Christianity. The monastery flourished for six centuries until it was destroyed by English forces in 1398, though it continued as a place of pilgrimage.",
+    "significance": "Glendalough stands as one of the most important and best-preserved Early Medieval monastic sites in Ireland. The site's round tower, cathedral, churches, and decorated crosses represent masterpieces of Irish medieval architecture. The settlement exemplifies the Irish monastic tradition which combined deep spirituality with practical learning and artistic achievement."
+  },
+
+  "location": {
+    "address": {
+      "street": "Glendalough Valley",
+      "town": "Laragh",
+      "county": "County Wicklow",
+      "region": "Ireland's Ancient East",
+      "country": "Ireland",
+      "postcode": "A98 HC80"
+    },
+    "coordinates": {
+      "latitude": 53.010461,
+      "longitude": -6.327371
+    },
+    "directions": {
+      "general": "Located in County Wicklow, approximately 50km south of Dublin. The monastic site is in a glaciated valley in the Wicklow Mountains National Park, accessed via the R756 road from Laragh village.",
+      "publicTransport": "St. Kevin's Bus Service operates daily from Dublin city centre. Local Link buses run from Wicklow Town to Laragh. From Laragh, it's a short walk to the monastic site.",
+      "parking": "Three main car parks available: Visitor Centre Car Park (nearest to site, charged), Upper Lake Car Park (charged), and free car park in Laragh village."
+    }
+  },
+
+  "contact": {
+    "phone": "+353 404 45325",
+    "email": "glendaloughbookings@opw.ie",
+    "website": "https://heritageireland.ie/visit/places-to-visit/glendalough/",
+    "bookingUrl": "https://heritageireland.ie/visit/places-to-visit/glendalough/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/glendaloughopw/",
+      "instagram": "https://www.instagram.com/heritageirelandopw/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "season": "Mid March - 14 October",
+          "days": "Daily",
+          "hours": "09:30 - 18:00",
+          "lastAdmission": "17:15"
+        },
+        {
+          "season": "15 October - Mid March",
+          "days": "Daily",
+          "hours": "09:30 - 17:00",
+          "lastAdmission": "16:15"
+        }
+      ],
+      "specialClosures": ["Closed 23-29 December inclusive"]
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "adult": 5.00,
+        "senior": 4.00,
+        "child": 3.00,
+        "family": 13.00
+      },
+      "notes": "Admission prices are for the Visitor Centre exhibition. The monastic site itself is free to enter. Heritage Card holders receive free admission."
+    },
+
+    "tourOptions": [
+      {
+        "type": "Self-Guided Visit",
+        "duration": "1-1.5 hours for monastic site; 2-4 hours including walking trails",
+        "included": ["Access to all monastic buildings", "Gateway", "Round Tower", "Cathedral", "St Kevin's Church"],
+        "bookingRequired": false
+      }
+    ],
+
+    "averageVisitDuration": "1-1.5 hours for the monastic site; 2-4 hours if including walking trails",
+    "busyPeriods": ["Summer months (June-August)", "Weekends year-round", "Bank holidays", "11:00 AM - 3:00 PM daily"],
+    "adviceForVisitors": "Wear comfortable walking shoes. Dress appropriately for Irish weather. Early morning or late afternoon visits offer quieter experiences and better photography light. The site remains atmospheric in all weather conditions."
+  },
+
+  "features": {
+    "highlights": [
+      "30-meter Round Tower dating from 10th-11th century",
+      "St. Kevin's Church (Kitchen) with distinctive round bell tower",
+      "Cathedral of St. Peter and St. Paul",
+      "Original monastic gateway - unique surviving example in Ireland",
+      "St. Kevin's Bed - cave dwelling in cliff face above Upper Lake",
+      "Ancient Celtic crosses with intricate carvings",
+      "Upper and Lower Lakes in glaciated valley",
+      "Wicklow Mountains National Park setting"
+    ],
+
+    "facilities": [
+      "Visitor Centre with interpretive exhibition",
+      "Audio-visual presentation",
+      "Museum displays",
+      "Bookshop",
+      "Public toilets (wheelchair accessible)",
+      "Baby changing facilities",
+      "Car parking",
+      "Picnic areas",
+      "Walking trail maps available"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "accessibilityLevel": "Partial - Visitor Centre fully accessible; monastic site challenging",
+      "restrictions": [
+        "Access to graveyard and some ruins very difficult for wheelchair users",
+        "Uneven walkways throughout monastic site",
+        "Many buildings have steps",
+        "No wheelchair access to Upper Lake area"
+      ],
+      "accessibilityNotes": "The Visitor Centre is fully wheelchair accessible. However, the monastic site presents challenges due to historic nature and terrain. Some viewing is possible from accessible paths. Contact the site in advance for specific assistance."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2020/03/Glendalough-Round-Tower.jpg",
+      "alt": "The 30-meter Round Tower at Glendalough",
+      "caption": "The Round Tower at Glendalough, built between the 10th-11th century"
+    },
+    "gallery": []
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Wicklow Mountains National Park",
+      "distance": "0 km (within the park)",
+      "type": "national-park"
+    },
+    {
+      "name": "Powerscourt House and Gardens",
+      "distance": "25 km",
+      "type": "historic-house"
+    },
+    {
+      "name": "Avondale House",
+      "distance": "20 km",
+      "type": "historic-house"
+    }
+  ],
+
+  "resources": {
+    "socialGuides": [],
+    "educationalResources": []
+  },
+
+  "tags": ["monastic-settlement", "st-kevin", "round-tower", "early-medieval", "celtic-christianity", "wicklow-mountains", "pilgrimage-site"],
+  "suitableFor": ["history-enthusiasts", "pilgrims", "photographers", "hikers", "families", "school-groups"],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true
+}

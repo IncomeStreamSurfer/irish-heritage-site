@@ -1,0 +1,334 @@
+{
+  "id": "carrowmore-megalithic-cemetery",
+  "name": "Carrowmore Megalithic Cemetery",
+  "tagline": "Ireland's oldest megalithic tombs set in a dramatic neolithic landscape",
+  "type": "megalithic-cemetery",
+  "categories": ["passage-tomb", "dolmen", "prehistoric-monument", "neolithic-site", "unesco-tentative-list"],
+  "era": "neolithic",
+  "dateBuilt": "3700-3000 BC",
+  "unescoWorldHeritageSite": false,
+  "unescoTentativeList": true,
+  "managedBy": "Office of Public Works - Heritage Ireland",
+
+  "description": {
+    "short": "Carrowmore Megalithic Cemetery is the oldest and the densest concentration of Neolithic tombs in Ireland, with over 30 surviving passage tombs constructed almost 6,000 years ago.",
+    "full": "Carrowmore Megalithic Cemetery is the oldest and the densest concentration of Neolithic tombs in Ireland. The site is located near Sligo town on the Cúil Íorra Peninsula, at the heart of Neolithic north-west Ireland. Remains of over 35 passage tombs are found here, constructed between 3700 and 3000 BC - making them among the oldest megalithic monuments in Ireland and Europe. A restored cottage houses an exhibition that will inspire your tour through this landscape. The monuments consist of central dolmen-like megaliths with upright orthostats bearing conical capstones, each enclosed by boulder circles of 12 to 15 metres in diameter. The cemetery is dominated by Listoghil (Tomb 51), the largest monument with a distinctive box-like chamber and restored cairn, which appears to have been the focal point around which the entire cemetery developed. Many of the satellite tombs face toward this central monument, creating an intricate web of connections across the ritual landscape.",
+    "history": "Carrowmore represents one of the foundation points of the Irish passage tomb tradition. Archaeological excavations led by Swedish archaeologist Göran Burenhult in 1977-1982 and 1994-1998 revealed that the monuments were erected and used by Neolithic farming communities between approximately 3750 BC and 3000 BC. The central tomb, Listoghil, was erected around 3500 BC. There may have been over 60 monuments originally, but many fell victim to quarrying and field clearance during the 18th, 19th and early 20th centuries. The chambers contained the remains of multiple individuals, most appearing to have been cremations, and the burial assemblage includes antler and bone pins, beads, pendants, and stone balls. Recent ancient DNA analysis has revealed a web of kinship connections between occupants of Carrowmore and other major Irish passage tomb sites including Newgrange and Carrowkeel, suggesting a dynastic elite lineage buried in these prestigious locations. The site was first documented by Gabriel Beranger in 1779, and early excavations were conducted by George Petrie in 1837 and William Gregory Wood-Martin in the 1880s.",
+    "significance": "Carrowmore is one of Ireland's most important prehistoric sites and forms part of 'The Passage Tomb Landscape of County Sligo', which has been placed on Ireland's Tentative List of UNESCO World Heritage Sites. It is one of the 'big four' passage tomb complexes in Ireland, along with Carrowkeel, Loughcrew and Brú na Bóinne. The site represents the most westerly and dramatic expression of the remarkable flourishing of ritual monuments that spread across Europe five to six millennia ago. The monuments were consciously merged with the physical topography, creating strong intervisibility between sites and forming an intricate sacred geography. Carrowmore possesses the most extensive Neolithic cemetery in Ireland and is among the oldest, predating even the great monuments of Newgrange. The 1989 Supreme Court case regarding the site marked the first explicit legal recognition in Ireland of the concept of an architectural landscape, extending legal protection to include the surrounding area of a national monument."
+  },
+
+  "location": {
+    "address": {
+      "street": "Carrowmore",
+      "town": "Sligo",
+      "county": "Sligo",
+      "region": "Wild Atlantic Way",
+      "country": "Ireland",
+      "postcode": "F91 E638"
+    },
+    "coordinates": {
+      "latitude": 54.2507095,
+      "longitude": -8.5197194
+    },
+    "directions": {
+      "general": "5km from Sligo/Dublin road off the N4 at N4-R292 junction. 4km from Sligo town centre.",
+      "byCar": "From Sligo town centre, follow R292 toward Strandhill. Carrowmore is signposted from the main road. Public car park available on site.",
+      "publicTransport": "Accessible by bus to Sligo town, then 4km (approximately 2.5 miles) from town centre",
+      "parking": "Free car parking available at visitor centre"
+    }
+  },
+
+  "contact": {
+    "phone": "071 916 1534",
+    "email": "carrowmoretomb@opw.ie",
+    "website": "https://heritageireland.ie/visit/places-to-visit/carrowmore-megalithic-cemetery/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/carrowmoreopw"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Seasonal opening",
+      "seasonal": [
+        {
+          "season": "16 September - 3 December",
+          "days": "Daily",
+          "hours": "09:30 - 16:30",
+          "lastAdmission": "16:30",
+          "notes": "Hours vary during season - check website for exact dates"
+        }
+      ],
+      "specialClosures": ["Closed December to mid-March", "Check website for exact seasonal opening dates"]
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "adult": 5.00,
+        "groupSenior": 4.00,
+        "childStudent": 3.00,
+        "family": 13.00
+      }
+    },
+
+    "tourOptions": [
+      {
+        "type": "Self-Guided Tour",
+        "duration": "1-1.5 hours",
+        "included": ["Access to megalithic tombs", "Interpretive exhibition", "Visitor centre", "Restored cottage display", "Grass pathways through monuments"],
+        "bookingRequired": false
+      },
+      {
+        "type": "Guided Tour",
+        "duration": "1 hour",
+        "included": ["Expert guide", "Historical insights into Neolithic Ireland", "Access to all monuments", "Archaeological context"],
+        "bookingRequired": false,
+        "availability": "Available during opening hours"
+      }
+    ],
+
+    "averageVisitDuration": "1-1.5 hours",
+    "busyPeriods": ["Summer months", "Weekends", "Bank holidays"],
+    "adviceForVisitors": "Wear appropriate footwear for grass paths and uneven terrain. The site is largely outdoors, so dress for Irish weather. Allow time to visit the exhibition in the restored cottage before exploring the monuments. For best experience, visit during good weather to appreciate the dramatic landscape setting with views of Knocknarea and Ben Bulben mountains."
+  },
+
+  "features": {
+    "highlights": [
+      "Over 30 surviving Neolithic passage tombs dating to 3700-3000 BC",
+      "Listoghil (Tomb 51) - the central monument with restored cairn",
+      "Dolmen structures with massive capstones",
+      "Stone circles surrounding tomb chambers",
+      "Tomb 7 - iconic dolmen within stone circle",
+      "Tomb 27 - cruciform passage tomb plan",
+      "Interpretive exhibition in restored cottage",
+      "Dramatic setting with views of Knocknarea Mountain",
+      "Views of Queen Maeve's Cairn on Knocknarea",
+      "Ben Bulben mountain in the background",
+      "Part of UNESCO Tentative List site",
+      "One of Ireland's oldest megalithic sites",
+      "Evidence of Neolithic art and carvings",
+      "Archaeological landscape of international importance"
+    ],
+
+    "facilities": [
+      "Visitor Centre",
+      "Interpretive Exhibition",
+      "Restored Cottage Display",
+      "Car Park",
+      "Toilets",
+      "Card Payments Accepted",
+      "Guided Tours Available",
+      "Multi-lingual Information",
+      "Grass Pathways"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "accessibilityLevel": "Limited Access",
+      "restrictions": [
+        "Limited access for wheelchair users",
+        "Assistance dogs only",
+        "Uneven walkways",
+        "Grass paths throughout site",
+        "Challenging access to some monuments"
+      ],
+      "accessibilityNotes": "The site consists of grass pathways across uneven ground. While the visitor centre is accessible, the outdoor monuments present challenges for visitors with mobility issues. Terrain can be difficult after rain."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2020/03/Carrowmore-3.jpg",
+      "alt": "Carrowmore megalithic tombs with Queen Maeve's Cairn on Knocknarea in background",
+      "caption": "Carrowmore Megalithic Cemetery with Queen Maeve's Cairn visible on Knocknarea Mountain in the distance"
+    },
+    "gallery": [
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Carrowmore-Circle.jpg",
+        "alt": "Aerial view of Carrowmore passage tomb showing stone circle",
+        "caption": "Aerial view revealing the circular layout of a Carrowmore tomb"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Carrowmore-Listoghil-Chamber.jpg",
+        "alt": "Interior of Listoghil central chamber",
+        "caption": "Listoghil (Tomb 51) - the central monument of Carrowmore with distinctive box-like chamber"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Carrowmore-1.jpg",
+        "alt": "Carrowmore dolmen with cloud covered Ben Bulben in background",
+        "caption": "Megalithic tomb with Ben Bulben mountain in the background"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Carrowmore-Snow.jpg",
+        "alt": "Carrowmore covered in snow with Ben Bulben in background",
+        "caption": "Carrowmore in winter - a magical landscape transformation"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Capstone-carvings-320x213.jpg",
+        "alt": "Close up of capstone with possible megalithic carvings",
+        "caption": "Ancient capstone showing possible Neolithic markings"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Carrowmore-2-160x106.jpg",
+        "alt": "Close up of passage tomb entrance",
+        "caption": "Detail of a Carrowmore passage tomb structure"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Knocknarea Mountain and Queen Maeve's Cairn",
+      "distance": "3 km",
+      "type": "prehistoric-monument",
+      "description": "327m mountain with massive Neolithic cairn at summit, legendary burial place of Queen Maeve"
+    },
+    {
+      "name": "Sligo Abbey",
+      "distance": "3.9 km",
+      "type": "religious-site",
+      "description": "Dominican friary founded in 1253, beautifully preserved medieval ruins"
+    },
+    {
+      "name": "Parke's Castle",
+      "distance": "12.1 km",
+      "type": "castle",
+      "description": "17th-century fortified manor house beautifully restored on shores of Lough Gill"
+    },
+    {
+      "name": "Carrowkeel Megalithic Cemetery",
+      "distance": "23 km",
+      "type": "passage-tomb",
+      "description": "Hilltop passage tomb complex, part of the UNESCO tentative list with Carrowmore"
+    },
+    {
+      "name": "Seán Mac Diarmada Cottage",
+      "distance": "33.8 km",
+      "type": "historic-house",
+      "description": "Birthplace of 1916 Rising leader Seán Mac Diarmada"
+    }
+  ],
+
+  "resources": {
+    "visitorsGuides": [
+      {
+        "language": "English",
+        "format": "On-site exhibition and interpretation panels"
+      }
+    ],
+    "educationalResources": [
+      {
+        "name": "The Passage Tomb Landscape of County Sligo",
+        "url": "https://www.worldheritageireland.ie/tentative-list/the-passage-tomb-landscape/",
+        "description": "UNESCO Tentative List nomination document"
+      }
+    ],
+    "externalLinks": [
+      {
+        "name": "Carrowmore.com - Detailed Site Information",
+        "url": "http://www.carrowmore.com/",
+        "description": "Comprehensive resource on Carrowmore monuments and archaeology"
+      },
+      {
+        "name": "Carrowkeel.com - Carrowmore Section",
+        "url": "http://www.carrowkeel.com/sites/carrowmore/index.html",
+        "description": "Archaeological information and research"
+      }
+    ]
+  },
+
+  "archaeologicalInformation": {
+    "excavations": [
+      "Gabriel Beranger documented site in 1779",
+      "George Petrie surveyed and numbered tombs in 1837",
+      "William Gregory Wood-Martin excavated in 1880s",
+      "Göran Burenhult led major excavations 1977-1982 and 1994-1998",
+      "National Roads Authority excavations at nearby Maugheraboy causewayed enclosure"
+    ],
+    "findings": [
+      "Antler and bone pins with mushroom-shaped heads",
+      "Stone and clay beads and pendants",
+      "Carrowkeel ware pottery fragments",
+      "Quartz fragments (ritual significance)",
+      "Cremated human remains from multiple individuals",
+      "Evidence of re-use in Bronze Age and Iron Age",
+      "Ancient DNA showing kinship with Newgrange and Carrowkeel burials"
+    ],
+    "dateRange": "3750 BC - 3000 BC (main construction period)",
+    "culturalContext": "Early Neolithic farming communities, Atlantic Megalithic Zone, Irish Passage Tomb Tradition"
+  },
+
+  "tags": [
+    "megalithic",
+    "neolithic",
+    "passage-tomb",
+    "dolmen",
+    "stone-circle",
+    "prehistoric",
+    "burial-chamber",
+    "unesco-tentative",
+    "archaeology",
+    "listoghil",
+    "sligo",
+    "wild-atlantic-way",
+    "ancient-ireland",
+    "ritual-landscape",
+    "queen-maeve",
+    "knocknarea",
+    "oldest-tombs"
+  ],
+
+  "suitableFor": [
+    "archaeology-enthusiasts",
+    "history-buffs",
+    "photographers",
+    "prehistory-lovers",
+    "school-groups",
+    "cultural-tourists",
+    "heritage-tourists",
+    "walking-enthusiasts"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "heritage": {
+    "nationalMonument": true,
+    "nationalMonumentNumber": 153,
+    "protectedStatus": "National Monument of Ireland",
+    "unescoTentativeListName": "The Passage Tomb Landscape of County Sligo",
+    "culturalSignificance": "International",
+    "archaeologicalPeriod": "Neolithic (New Stone Age)"
+  },
+
+  "interestingFacts": [
+    "Carrowmore contains some of the oldest megalithic monuments in Ireland and potentially in Western Europe",
+    "Originally there may have been over 60 monuments, but about half were destroyed by quarrying and development",
+    "The monuments are older than the Egyptian pyramids and Stonehenge",
+    "Ancient DNA analysis revealed that a man buried in Listoghil was related to people buried in Newgrange, showing an elite dynastic lineage",
+    "The 1989 Supreme Court case over Carrowmore established the legal concept of protecting the landscape setting around monuments",
+    "Most tombs face toward the central monument Listoghil, showing careful astronomical and ritual planning",
+    "The monuments were built without metal tools - all construction used stone, wood, and bone implements",
+    "Carrowmore forms the heart of a ritual landscape dominated by Knocknarea mountain with its massive Queen Maeve's Cairn",
+    "The site is part of a serial UNESCO tentative listing covering approximately 100 passage tombs across County Sligo"
+  ],
+
+  "visitPlanning": {
+    "bestTimeToVisit": "Spring through autumn for best weather and opening hours",
+    "seasonalHighlights": {
+      "spring": "Wildflowers and fresh green landscape, equinox alignments",
+      "summer": "Long daylight hours, best weather for photography",
+      "autumn": "Dramatic lighting, fewer crowds, equinox alignments",
+      "winter": "Snow-covered landscape can be spectacular, but site may be closed"
+    },
+    "recommendedDuration": "Allow 1.5 to 2 hours minimum",
+    "combinationVisits": [
+      "Combine with hike up Knocknarea to Queen Maeve's Cairn (half day)",
+      "Visit Sligo Abbey in town (add 1 hour)",
+      "Explore Parke's Castle and Lough Gill (full day itinerary)",
+      "Ancient Sligo tour including Carrowkeel passage tombs (full day)"
+    ]
+  }
+}

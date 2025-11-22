@@ -1,0 +1,162 @@
+{
+  "id": "clonmacnoise-monastic-site",
+  "name": "Clonmacnoise",
+  "tagline": "A monastic city on the banks of the Shannon",
+  "type": "monastic-settlement",
+  "categories": ["monastery", "early-christian", "medieval", "archaeological-site", "religious-heritage"],
+  "era": "Early Medieval",
+  "dateBuilt": "544 AD",
+  "unescoWorldHeritageSite": false,
+  "managedBy": "Office of Public Works - Heritage Ireland",
+
+  "description": {
+    "short": "Founded by Saint Ciarán in 544 AD, Clonmacnoise was one of Europe's great centers of learning, religion, and trade, featuring Ireland's finest collection of Early Christian graveslabs.",
+    "full": "Clonmacnoise is one of Ireland's most important monastic sites, founded by Saint Ciarán in 544 AD on the banks of the River Shannon. For over 600 years, this 'Monastic City' flourished as a major European center of religion, learning, craftsmanship, and trade. The site includes the remains of a cathedral, 9 churches, 2 round towers, 3 high crosses, and over 700 Early Christian graveslabs - the largest collection in Western Europe. The monastery's strategic location where the River Shannon meets the ancient Eiscir Riada east-west route made it a crossroads of medieval Ireland.",
+    "history": "Saint Ciarán Mac a tSaor founded the monastery in 544 AD, though he died just months later. Despite his brief tenure, Clonmacnoise grew to become one of the most important monasteries in Ireland and Europe. Between the 8th and 12th centuries, it was a thriving community of 1,500-2,000 people including monks, scholars, craftsmen, and their families. The monastery produced important manuscripts, metalwork, and stone carvings. It was raided by Vikings and Norman invaders but continued to flourish until English forces destroyed it in 1552.",
+    "significance": "Clonmacnoise represents the golden age of Irish monasticism and preserves the largest collection of Early Christian graveslabs in Western Europe. The site was visited by Pope John Paul II in 1979 and remains one of Ireland's most important heritage attractions."
+  },
+
+  "location": {
+    "address": {
+      "street": "Clonmacnoise",
+      "town": "Shannonbridge",
+      "county": "County Offaly",
+      "region": "Ireland's Ancient East",
+      "country": "Ireland",
+      "postcode": "N37 RK52"
+    },
+    "coordinates": {
+      "latitude": 53.3252,
+      "longitude": -7.9875
+    },
+    "directions": {
+      "general": "Located near Shannonbridge, County Offaly, approximately 21km from Athlone. Accessible via the R444 and R357 regional roads.",
+      "publicTransport": "Limited public transport. Nearest major town is Athlone (21km) which has bus and rail connections. Taxi or car rental recommended from Athlone.",
+      "parking": "Free on-site parking available at the visitor center."
+    }
+  },
+
+  "contact": {
+    "phone": "+353 90 967 4195",
+    "email": "clonmacnoise@opw.ie",
+    "website": "https://heritageireland.ie/visit/places-to-visit/clonmacnoise/",
+    "bookingUrl": "https://heritageireland.ie/visit/places-to-visit/clonmacnoise/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/HeritageIreland",
+      "instagram": "https://www.instagram.com/heritageireland/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open",
+      "seasonal": [
+        {
+          "season": "Summer (mid-March to October)",
+          "days": "Daily",
+          "hours": "09:00 - 18:30",
+          "lastAdmission": "17:45"
+        },
+        {
+          "season": "Winter (November to mid-March)",
+          "days": "Daily",
+          "hours": "10:00 - 17:00",
+          "lastAdmission": "16:15"
+        }
+      ],
+      "specialClosures": ["Closed December 24-26"]
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "adult": 8.00,
+        "senior": 6.00,
+        "child": 4.00,
+        "family": 20.00
+      },
+      "notes": "Heritage Card holders receive free admission. Group rates available."
+    },
+
+    "tourOptions": [
+      {
+        "type": "Self-Guided with Visitor Centre",
+        "duration": "1.5-2 hours",
+        "included": ["Visitor center exhibition", "Access to monastic ruins", "High crosses", "Round towers"],
+        "bookingRequired": false
+      }
+    ],
+
+    "averageVisitDuration": "1.5-2 hours",
+    "busyPeriods": ["Summer months (June-August)", "Weekends", "Public holidays"],
+    "adviceForVisitors": "Wear comfortable walking shoes. The site is outdoors so dress appropriately for Irish weather. Visit the visitor center first to gain context about the site's history."
+  },
+
+  "features": {
+    "highlights": [
+      "Over 700 Early Christian graveslabs - largest collection in Western Europe",
+      "Cross of the Scriptures (914 AD) - one of Ireland's finest high crosses",
+      "Two round towers",
+      "Cathedral and 9 churches",
+      "Nun's Church with Hiberno-Romanesque architecture",
+      "Strategic location where River Shannon meets ancient Eiscir Riada route"
+    ],
+
+    "facilities": [
+      "Visitor center with museum",
+      "Café",
+      "Gift shop",
+      "Toilets",
+      "Free parking",
+      "WiFi"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "accessibilityLevel": "Partially accessible",
+      "restrictions": [
+        "Visitor center fully accessible",
+        "Some areas of monastic site have uneven ground"
+      ],
+      "accessibilityNotes": "The visitor center is fully wheelchair accessible. The monastic site itself has some uneven ground but many areas are accessible."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2020/03/Clonmacnoise-Cathedral-Cross-of-Scriptures.jpg",
+      "alt": "Cathedral and Cross of the Scriptures at Clonmacnoise",
+      "caption": "The Cathedral and famous Cross of the Scriptures at Clonmacnoise"
+    },
+    "gallery": []
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Athlone Castle",
+      "distance": "21 km",
+      "type": "castle"
+    },
+    {
+      "name": "Portumna Castle and Gardens",
+      "distance": "30.9 km",
+      "type": "castle"
+    },
+    {
+      "name": "Birr Castle Gardens",
+      "distance": "35 km",
+      "type": "castle-gardens"
+    }
+  ],
+
+  "resources": {
+    "socialGuides": [],
+    "educationalResources": []
+  },
+
+  "tags": ["monastery", "early-christian", "round-tower", "high-crosses", "shannon", "medieval", "saint-ciaran"],
+  "suitableFor": ["history-enthusiasts", "spiritual-pilgrims", "photographers", "families", "school-groups"],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true
+}

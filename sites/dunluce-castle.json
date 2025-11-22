@@ -1,0 +1,163 @@
+{
+  "id": "dunluce-castle",
+  "name": "Dunluce Castle",
+  "tagline": "Perched dramatically on the Antrim Coast",
+  "type": "castle",
+  "categories": ["castle", "medieval", "ruins", "coastal-attraction", "film-location"],
+  "era": "Medieval",
+  "dateBuilt": "circa 1500",
+  "unescoWorldHeritageSite": false,
+  "managedBy": "Department for Communities Northern Ireland",
+
+  "description": {
+    "short": "Dunluce Castle is one of Ireland's most iconic ruins, perched dramatically on a cliff edge on the Causeway Coast, with connections to the Spanish Armada and Game of Thrones.",
+    "full": "Dunluce Castle stands as one of the most dramatically situated castles in Ireland, perched precariously on a cliff edge 100 feet above the crashing Atlantic waves. Built around 1500 by the McQuillan clan, the castle later became the stronghold of the powerful MacDonnell family. The site incorporates materials from the Spanish Armada ship Girona, which wrecked nearby in 1588. The castle is perhaps best known for the legend of its kitchen collapsing into the sea in 1639, along with several servants. Today, the spectacular ruins have gained new fame as a filming location for Game of Thrones, serving as inspiration for House Greyjoy's Pyke Castle.",
+    "history": "Built circa 1500 by the McQuillan clan, Dunluce Castle was captured in the 1550s by Sorley Boy MacDonnell, who incorporated materials from the Spanish Armada ship Girona (wrecked 1588) into the castle's improvements. The MacDonnells established Dunluce Town in 1608, but the castle began to decline after the famous kitchen collapse of 1639. The castle was abandoned by the late 17th century and has remained a romantic ruin ever since.",
+    "significance": "Dunluce Castle is one of Northern Ireland's most iconic landmarks and an important example of medieval Irish castle architecture. Its dramatic clifftop location and romantic ruins have made it one of the most photographed sites in Ireland. The castle's connection to the Spanish Armada adds to its historical significance."
+  },
+
+  "location": {
+    "address": {
+      "street": "87 Dunluce Road",
+      "town": "Bushmills",
+      "county": "County Antrim",
+      "region": "Northern Ireland",
+      "country": "Ireland",
+      "postcode": "BT57 8UY"
+    },
+    "coordinates": {
+      "latitude": 55.210664,
+      "longitude": -6.579670
+    },
+    "directions": {
+      "general": "Located on the Causeway Coastal Route between Portrush and Bushmills in County Antrim. Clearly signposted from the main road.",
+      "publicTransport": "Accessible via the Causeway Rambler bus service which operates along the Causeway Coast. Nearest towns are Portrush (5 miles) and Bushmills (2 miles).",
+      "parking": "On-site parking available."
+    }
+  },
+
+  "contact": {
+    "phone": "+44 28 2073 1938",
+    "email": "dunluce.castle@communities-ni.gov.uk",
+    "website": "https://www.discovernorthernireland.com/things-to-do/attractions/dunluce-castle",
+    "bookingUrl": "https://www.discovernorthernireland.com/things-to-do/attractions/dunluce-castle",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/HistoricEnvironmentNI",
+      "instagram": "https://www.instagram.com/historicenvironmentni/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open",
+      "seasonal": [
+        {
+          "season": "Summer (March-October)",
+          "days": "Daily",
+          "hours": "9:30 AM - 5:00 PM",
+          "lastAdmission": "4:30 PM"
+        },
+        {
+          "season": "Winter (November-February)",
+          "days": "Daily",
+          "hours": "9:00 AM - 4:00 PM",
+          "lastAdmission": "3:30 PM"
+        }
+      ],
+      "specialClosures": ["Check website for Christmas closures"]
+    },
+
+    "admissionPrices": {
+      "currency": "GBP",
+      "standard": {
+        "adult": 6.00,
+        "senior": 4.50,
+        "child": 4.00,
+        "family": 18.00
+      },
+      "notes": "Prices subject to change. Concessions available for seniors and students. Family ticket covers 2 adults and up to 3 children."
+    },
+
+    "tourOptions": [
+      {
+        "type": "Self-Guided Tour",
+        "duration": "1 hour",
+        "included": ["Castle ruins exploration", "Information panels", "Clifftop views"],
+        "bookingRequired": false
+      }
+    ],
+
+    "averageVisitDuration": "1 hour",
+    "busyPeriods": ["Summer months (July-August)", "Weekends", "Game of Thrones fan visits"],
+    "adviceForVisitors": "Wear sturdy footwear. Be cautious near cliff edges. The site is exposed to wind and weather - dress appropriately. Great for photography, especially during golden hour."
+  },
+
+  "features": {
+    "highlights": [
+      "Dramatic clifftop location 100 feet above the Atlantic",
+      "16th-century castle ruins",
+      "Connection to Spanish Armada (Girona shipwreck 1588)",
+      "Famous kitchen collapse legend (1639)",
+      "Game of Thrones filming location (House Greyjoy's Pyke)",
+      "Spectacular Causeway Coast views",
+      "Cave system beneath the castle"
+    ],
+
+    "facilities": [
+      "Visitor information",
+      "Parking",
+      "Toilets",
+      "Gift shop"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "accessibilityLevel": "Limited",
+      "restrictions": [
+        "Cobbled paths",
+        "Steps throughout the site",
+        "Clifftop location with uneven terrain",
+        "Not suitable for wheelchairs"
+      ],
+      "accessibilityNotes": "Due to the historic nature and clifftop location, Dunluce Castle has limited accessibility. The site features cobbled paths, steps, and uneven terrain that make it unsuitable for wheelchair users."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://example.com/dunluce-castle-hero.jpg",
+      "alt": "Dunluce Castle perched on cliff edge",
+      "caption": "Dunluce Castle on the dramatic Causeway Coast"
+    },
+    "gallery": []
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Giant's Causeway",
+      "distance": "6 miles",
+      "type": "natural-landmark"
+    },
+    {
+      "name": "Carrick-a-Rede Rope Bridge",
+      "distance": "8 miles",
+      "type": "tourist-attraction"
+    },
+    {
+      "name": "Old Bushmills Distillery",
+      "distance": "2 miles",
+      "type": "distillery"
+    }
+  ],
+
+  "resources": {
+    "socialGuides": [],
+    "educationalResources": []
+  },
+
+  "tags": ["castle", "medieval", "clifftop", "causeway-coast", "game-of-thrones", "spanish-armada", "northern-ireland"],
+  "suitableFor": ["history-enthusiasts", "photographers", "game-of-thrones-fans", "couples", "families"],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true
+}

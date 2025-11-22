@@ -1,0 +1,177 @@
+{
+  "id": "bunratty-castle-folk-park",
+  "name": "Bunratty Castle & Folk Park",
+  "tagline": "Ireland's Most Complete and Authentic Medieval Castle",
+  "type": "castle",
+  "categories": ["castle", "living-history-museum", "cultural-heritage", "tourist-attraction"],
+  "era": "Medieval",
+  "dateBuilt": "1425",
+  "unescoWorldHeritageSite": false,
+  "managedBy": "The Clare Collection (Shannon Heritage DAC), a subsidiary of Clare County Council",
+
+  "description": {
+    "short": "Bunratty Castle is Ireland's most complete and authentic 15th-century medieval castle, featuring the country's finest collection of medieval furniture and a 26-acre living folk park recreating 19th-century Irish village life.",
+    "full": "Bunratty Castle & Folk Park offers visitors an unparalleled journey through Irish history, combining the magnificence of a fully restored 15th-century tower house with an immersive 19th-century folk park experience. The castle, built around 1425, stands as the most complete and authentic medieval fortress in Ireland, featuring remarkable architectural integrity and housing the nation's finest collection of medieval furniture and tapestries.\n\nThe Folk Park, set on 26 acres of pristine Clare countryside, brings 19th-century Ireland to life through over 30 authentically recreated buildings. Visitors can explore a complete village street with working shops, traditional farmhouses representing various social classes, the elegant Bunratty House (a Georgian mansion built in 1804), and beautiful Regency walled gardens. The park features costumed characters demonstrating traditional crafts, farm animals, a fairy trail for children, and a Viking playground.\n\nThe site is also renowned for its world-famous Medieval Banquets, established in 1963, where guests feast in the castle's Great Hall while being entertained by the celebrated Bunratty Castle Singers. Over 3 million people have experienced these legendary banquets, which have hosted international dignitaries, celebrities, and US Presidents. Located just off the N18 between Limerick and Ennis, and minutes from Shannon International Airport, Bunratty serves as an ideal gateway to Ireland's Wild Atlantic Way.",
+    "history": "The site on which Bunratty Castle stands was originally a Viking trading camp established in 970 AD. The present structure is the fourth castle built on this strategic location. Robert De Muscegros, a Norman, constructed the first defensive fortress in 1250 - an earthen mound topped with a strong wooden tower. His lands were later granted to Thomas De Clare, who built the first stone castle on the site, and Bunratty became a thriving town of 1,000 inhabitants.\n\nIn 1318, Richard De Clare, son of Thomas, was killed in battle between the Irish and Normans. His followers were routed, and both castle and town were completely destroyed. The castle was restored for the King of England but was laid waste again in 1332 by the Irish Chieftains of Thomond under the O'Briens and MacNamaras. It lay in ruins for 21 years until rebuilt by Sir Thomas Rokeby, but was once again attacked by the Irish, after which the castle remained in Irish hands.\n\nThe current castle was built around 1425 by the MacNamara family and later passed to the O'Brien dynasty, who became the Earls of Thomond. The castle reached its zenith under the O'Briens, serving as their principal seat of power. Following the Cromwellian wars, the castle passed to various plantation families. By the mid-20th century, Bunratty Castle was in ruins and faced demolition. Viscount Gort, a medievalist, purchased the castle in 1953 for a nominal sum, saving it for posterity. With encouragement from archaeologist John Hunt and others, they embarked on an ambitious restoration, returning the castle to its former splendor and assembling one of Ireland's finest collections of medieval art and furniture.",
+    "significance": "Bunratty Castle stands as Ireland's most complete and authentic medieval fortress, offering an unparalleled window into 15th-century aristocratic life. Its exceptional state of preservation, comprehensive restoration, and outstanding collection of medieval furnishings make it a site of international significance for understanding medieval Irish architecture and culture. The Folk Park represents one of Ireland's most important open-air museums, preserving and interpreting 19th-century rural and village life with remarkable authenticity. The site's Medieval Banquets, running continuously since 1963, pioneered Irish heritage tourism and have become a cultural institution in their own right, hosting millions of visitors and numerous world leaders. As part of Ireland's Wild Atlantic Way and managed by The Clare Collection, Bunratty plays a vital role in County Clare's cultural tourism infrastructure and serves as an educational resource for understanding Ireland's layered history from Viking times through the medieval period to 19th-century folk life."
+  },
+
+  "location": {
+    "address": {
+      "street": "Bunratty",
+      "town": "Bunratty Village",
+      "county": "County Clare",
+      "region": "Munster",
+      "country": "Ireland",
+      "postcode": "V95"
+    },
+    "coordinates": {
+      "latitude": 52.6995682,
+      "longitude": -8.8119226
+    },
+    "directions": {
+      "general": "Located just off the N18 motorway between Limerick and Ennis in County Clare. The castle is highly visible from the motorway and impossible to miss when traveling on this route.",
+      "publicTransport": "Shannon International Airport is located just 10 minutes away by car. Bus services operate from Limerick and Ennis with stops near Bunratty. The site is approximately 15km from Limerick city and 22km from Ennis.",
+      "parking": "Free parking is available at the castle year-round for all visitors."
+    }
+  },
+
+  "contact": {
+    "phone": "+353 61 711222",
+    "email": "bunratty@claretourismdev.ie",
+    "website": "https://www.bunrattycastle.ie",
+    "bookingUrl": "https://www.bunrattycastle.ie/book-tickets/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/bunrattycastlefolkpark/",
+      "instagram": "https://www.instagram.com/bunrattycastle.ie/",
+      "twitter": ""
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open",
+      "seasonal": [
+        {
+          "season": "Summer Season (April - September)",
+          "days": "7 days per week",
+          "hours": "9:00 AM - 5:30 PM",
+          "lastAdmission": "Last admission to castle strictly at 4:00 PM"
+        },
+        {
+          "season": "Winter Season (October - March)",
+          "days": "7 days per week",
+          "hours": "9:30 AM - 5:00 PM",
+          "lastAdmission": "Last admission to castle strictly at 4:00 PM"
+        }
+      ],
+      "specialClosures": ["December 24", "December 25", "December 26", "Good Friday"]
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "adult": 22.00,
+        "senior": 16.00,
+        "child": 16.00,
+        "family": 52.00
+      },
+      "notes": "Prices are approximate and subject to change. Children under 4 are free. Family ticket covers 2 adults and up to 4 children. Online booking recommended and may offer discounts. Annual memberships available."
+    },
+
+    "tourOptions": [
+      {
+        "type": "Self-Guided Castle Tour",
+        "duration": "30-45 minutes",
+        "included": ["Access to all castle rooms", "Medieval furniture collection viewing", "Panoramic views from battlements"],
+        "bookingRequired": false
+      },
+      {
+        "type": "Folk Park Experience",
+        "duration": "1.5-2 hours",
+        "included": ["19th-century village street", "Traditional farmhouses", "Bunratty House and Regency Walled Garden", "Fairy trail", "Viking playground"],
+        "bookingRequired": false
+      },
+      {
+        "type": "Medieval Banquet",
+        "duration": "2.5 hours",
+        "included": ["Four-course medieval feast", "Bunratty mead welcome drink", "Entertainment by Bunratty Castle Singers"],
+        "bookingRequired": true
+      }
+    ],
+
+    "averageVisitDuration": "2.5 to 4 hours for a comprehensive visit including both castle and folk park",
+    "busyPeriods": ["Summer months (June-August)", "Easter weekend", "Halloween weekend", "Weekends"],
+    "adviceForVisitors": "Pre-booking tickets online is highly recommended, especially during peak season. Wear comfortable walking shoes suitable for outdoor exploration. Allow at least 2.5-3 hours for a full visit."
+  },
+
+  "features": {
+    "highlights": [
+      "Ireland's most complete and authentic 15th-century medieval castle",
+      "Finest collection of medieval furniture and tapestries in Ireland",
+      "26-acre living Folk Park with over 30 authentic 19th-century buildings",
+      "World-famous Medieval Banquets running continuously since 1963",
+      "Bunratty House - elegant Georgian mansion built in 1804",
+      "Beautiful Regency Walled Garden",
+      "Traditional Irish farmhouses representing various social classes"
+    ],
+
+    "facilities": [
+      "Free parking",
+      "Gift shop",
+      "Multiple restaurants",
+      "Accessible toilet facilities",
+      "Baby changing facilities",
+      "Picnic areas",
+      "Free WiFi in certain areas"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "accessibilityLevel": "Partially Accessible",
+      "restrictions": [
+        "Bunratty Castle itself is NOT wheelchair accessible - 19 steps to main entrance",
+        "Multiple staircases throughout castle interior"
+      ],
+      "accessibilityNotes": "While Bunratty Castle is not wheelchair accessible, the Folk Park offers a more inclusive experience with wheelchair-friendly pathways throughout much of the 26-acre site. Wheelchair accessible toilet facilities are available."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://www.bunrattycastle.ie/getmedia/8c545593-3f07-48db-b5f2-fd960ee68d44/Village-St-BCFP.jpg.aspx",
+      "alt": "Bunratty Castle towering over the recreated 19th-century village street",
+      "caption": "Bunratty Castle & Folk Park - Ireland's most complete medieval castle"
+    },
+    "gallery": []
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Cliffs of Moher",
+      "distance": "40 km",
+      "type": "natural-landmark"
+    },
+    {
+      "name": "Shannon Airport",
+      "distance": "10 km",
+      "type": "transport-hub"
+    },
+    {
+      "name": "Limerick City",
+      "distance": "15 km",
+      "type": "city"
+    }
+  ],
+
+  "resources": {
+    "socialGuides": [],
+    "educationalResources": []
+  },
+
+  "tags": ["medieval-castle", "folk-park", "living-history", "medieval-banquet", "county-clare", "family-attraction"],
+  "suitableFor": ["families", "children", "history-enthusiasts", "school-groups", "cultural-tourists"],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true
+}

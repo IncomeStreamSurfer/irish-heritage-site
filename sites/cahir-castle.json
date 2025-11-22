@@ -1,0 +1,140 @@
+{
+  "id": "cahir-castle",
+  "name": "Cahir Castle",
+  "tagline": "One of Ireland's largest medieval castles",
+  "type": "castle",
+  "categories": ["castle", "medieval", "fortification"],
+  "era": "Medieval",
+  "dateBuilt": "1142",
+  "unescoWorldHeritageSite": false,
+  "managedBy": "Heritage Ireland",
+
+  "description": {
+    "short": "One of Ireland's largest and best-preserved medieval castles, built on a rocky island in the River Suir.",
+    "full": "Cahir Castle stands on a rocky island in the River Suir. Built in 1142, it was granted to the Butler family in 1375 and is one of Ireland's largest medieval fortifications.",
+    "history": "Built in 1142, granted to Butlers in 1375, survived 1599 siege by Earl of Essex, surrendered to Cromwell in 1650.",
+    "significance": "One of Ireland's largest and best-preserved medieval castles with a functioning portcullis."
+  },
+
+  "location": {
+    "address": {
+      "street": "Castle Street",
+      "town": "Cahir",
+      "county": "Tipperary",
+      "region": "Ireland's Ancient East",
+      "country": "Ireland",
+      "postcode": "E21 P652"
+    },
+    "coordinates": {
+      "latitude": 52.3745,
+      "longitude": -7.9272
+    },
+    "directions": {
+      "general": "In Cahir town center",
+      "publicTransport": "Bus Éireann services",
+      "parking": "Town car parks"
+    }
+  },
+
+  "contact": {
+    "phone": "052 744 1011",
+    "email": "cahircastle@opw.ie",
+    "website": "https://heritageireland.ie/visit/places-to-visit/cahir-castle/",
+    "bookingUrl": "https://heritageireland.ie/visit/places-to-visit/cahir-castle/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/HeritageIreland",
+      "instagram": "https://www.instagram.com/heritageireland/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "Variable",
+          "lastAdmission": "Check website"
+        }
+      ],
+      "specialClosures": []
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "adult": 5.00,
+        "senior": 4.00,
+        "child": 3.00,
+        "family": 13.00
+      }
+    },
+
+    "tourOptions": [
+      {
+        "type": "Guided Tour",
+        "duration": "30-40 minutes",
+        "included": ["Castle tour"],
+        "bookingRequired": false
+      }
+    ],
+
+    "averageVisitDuration": "1 hour",
+    "busyPeriods": ["Summer", "Weekends"],
+    "adviceForVisitors": "Guided tours recommended."
+  },
+
+  "features": {
+    "highlights": [
+      "Medieval castle",
+      "Functioning portcullis",
+      "River island location"
+    ],
+
+    "facilities": [
+      "Toilets",
+      "Guided tours"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "accessibilityLevel": "Limited",
+      "restrictions": ["Steps", "Medieval structure"],
+      "accessibilityNotes": "Limited accessibility due to medieval structure."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/images/cahir-castle.jpg",
+      "alt": "Cahir Castle",
+      "caption": "Cahir Castle"
+    },
+    "gallery": []
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Swiss Cottage",
+      "distance": "1.9 km",
+      "type": "cottage"
+    },
+    {
+      "name": "Rock of Cashel",
+      "distance": "16.4 km",
+      "type": "ecclesiastical-site"
+    }
+  ],
+
+  "resources": {
+    "socialGuides": [],
+    "educationalResources": []
+  },
+
+  "tags": ["castle", "medieval", "tipperary"],
+  "suitableFor": ["history-enthusiasts", "families"],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true
+}

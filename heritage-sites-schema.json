@@ -1,0 +1,1116 @@
+{
+  "sites": [
+    {
+      "id": "kilkenny-castle",
+      "name": "Kilkenny Castle",
+      "tagline": "The jewel in the crown of an enchanting medieval city",
+      "type": "castle",
+      "categories": ["castle", "historic-house", "gardens", "art-collection"],
+      "era": "medieval-norman",
+      "dateBuilt": "1195",
+      "unescoWorldHeritageSite": false,
+      "managedBy": "Office of Public Works - Heritage Ireland",
+
+      "description": {
+        "short": "Built in the twelfth century, Kilkenny Castle was the principal seat of the Butlers, earls, marquesses and dukes of Ormond for almost 600 years.",
+        "full": "Built in the twelfth century, Kilkenny Castle was the principal seat of the Butlers, earls, marquesses and dukes of Ormond for almost 600 years. Under the powerful Butler family, Kilkenny grew into a thriving and vibrant city. Its lively atmosphere can still be felt today. The castle, set in extensive parkland, was remodelled in Victorian times. It was formally taken over by the Irish State in 1969 and since then has undergone ambitious restoration works. It now welcomes thousands of visitors a year. The central block includes a library, drawing room, nursery and bedrooms decorated in 1830s splendour. The magnificent Picture Gallery is situated in the east wing of Kilkenny Castle. This stunning space dates from the 19th century and was built primarily to house the Butler Family's fine collection of paintings.",
+        "history": "Originally built by the Norman conqueror Richard de Clare (Strongbow) in 1195, Kilkenny Castle became the principal Irish residence of the powerful Butler family in 1391. The Butlers were one of the most powerful families in Ireland for nearly 600 years. The castle underwent major remodelling in the Victorian era, creating the structure visitors see today.",
+        "significance": "One of Ireland's most visited heritage sites, representing nearly 800 years of Irish history from Norman conquest through Anglo-Irish aristocracy to modern Irish statehood."
+      },
+
+      "location": {
+        "address": {
+          "street": "The Parade",
+          "town": "Kilkenny City",
+          "county": "Kilkenny",
+          "region": "Ireland's Ancient East",
+          "country": "Ireland",
+          "postcode": "R95 YRK1"
+        },
+        "coordinates": {
+          "latitude": 52.6504624,
+          "longitude": -7.2492979
+        },
+        "directions": {
+          "general": "Located in Kilkenny City",
+          "publicTransport": "Take the X8 bus to Kilkenny, walk 500m from city centre",
+          "parking": "Public car parks nearby"
+        }
+      },
+
+      "contact": {
+        "phone": "046 942 3249",
+        "email": "kilkennycastleinfo@opw.ie",
+        "website": "https://heritageireland.ie/visit/places-to-visit/kilkenny-castle/",
+        "bookingUrl": "https://onlinecinematickets.com/?s=OPW_KILL",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/kilkennycastle/",
+          "twitter": "https://twitter.com/kkcastleOPW",
+          "instagram": "https://www.instagram.com/kilkennycastleopw/"
+        }
+      },
+
+      "visitingInformation": {
+        "openingTimes": {
+          "currentStatus": "Open all year",
+          "seasonal": [
+            {
+              "season": "April - September",
+              "days": "Daily",
+              "hours": "09:15 - 17:30",
+              "lastAdmission": "17:00"
+            },
+            {
+              "season": "October - March",
+              "days": "Daily",
+              "hours": "09:30 - 17:00",
+              "lastAdmission": "16:30"
+            }
+          ],
+          "parklands": {
+            "january": "09:00 - 16:30",
+            "february": "09:00 - 17:30",
+            "march": "08:30 - 18:00",
+            "april": "08:30 - 19:30",
+            "may": "08:30 - 20:30",
+            "june": "08:30 - 20:30",
+            "july": "08:30 - 20:30",
+            "august": "08:30 - 20:30",
+            "september": "08:30 - 19:30",
+            "october": "08:30 - 18:00",
+            "november": "09:00 - 17:00",
+            "december": "09:00 - 16:30"
+          },
+          "specialClosures": ["Closed 26-30 January 2026 for essential works"]
+        },
+
+        "admissionPrices": {
+          "currency": "EUR",
+          "selfGuided": {
+            "adult": 8.00,
+            "seniorGroup": 6.00,
+            "childStudent": 4.00,
+            "family": 20.00
+          },
+          "guided": {
+            "adult": 12.00,
+            "senior": 10.00,
+            "childStudent": 6.00,
+            "family": 30.00,
+            "availability": "New summer offering"
+          }
+        },
+
+        "tourOptions": [
+          {
+            "type": "Self-Guided",
+            "duration": "60-90 minutes",
+            "included": ["Castle rooms", "Picture Gallery", "Parklands"],
+            "bookingRequired": true
+          },
+          {
+            "type": "Guided Tour",
+            "duration": "90 minutes",
+            "included": ["Expert guide", "Castle rooms", "Picture Gallery", "Historical insights"],
+            "bookingRequired": true,
+            "seasonal": "Summer months"
+          }
+        ],
+
+        "averageVisitDuration": "1.5-2 hours",
+        "busyPeriods": ["Summer months", "Weekends"],
+        "adviceForVisitors": "This is a very busy site and visitors may experience a delay during the summer months. Book online in advance."
+      },
+
+      "features": {
+        "highlights": [
+          "Picture Gallery with Butler family art collection",
+          "Victorian-era State Rooms",
+          "Library and Drawing Room from 1830s",
+          "Extensive parklands and gardens",
+          "Rose Garden",
+          "Playground",
+          "Castle grounds"
+        ],
+
+        "facilities": [
+          "Café",
+          "Gift Shop",
+          "Toilets",
+          "Baby Changing Facilities",
+          "WiFi",
+          "Picnic Areas",
+          "Playground",
+          "Exhibition Spaces",
+          "Art Collections",
+          "Guided Tours",
+          "Card Payments Accepted"
+        ],
+
+        "accessibility": {
+          "wheelchairAccessible": false,
+          "accessibilityLevel": "Limited Access",
+          "restrictions": [
+            "Assistance dogs only",
+            "Hold hand rail",
+            "Limited Access"
+          ],
+          "accessibilityNotes": "Some areas have limited access for visitors with mobility issues"
+        }
+      },
+
+      "images": {
+        "heroImage": {
+          "url": "https://heritageireland.ie/assets/uploads/2020/03/Kilkenny-Castle-Aerial-View.jpg",
+          "alt": "Aerial view of Kilkenny Castle with River Nore",
+          "caption": "Kilkenny Castle sits majestically beside the River Nore"
+        },
+        "gallery": [
+          {
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/Kilkenny-Castle-Park-Winter.jpg",
+            "alt": "Kilkenny Castle park during a crisp winter morning",
+            "caption": "The castle parklands in winter"
+          },
+          {
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/Kilkenny-Castle-River.jpg",
+            "alt": "View of Kilkenny Castle from the River Nore",
+            "caption": "Castle viewed from River Nore"
+          },
+          {
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/Kilkenny-Castle-View-From-Rose-Garden.jpg",
+            "alt": "View of Kilkenny Castle from the Rose Garden",
+            "caption": "The Rose Garden offers beautiful views"
+          }
+        ]
+      },
+
+      "nearbyAttractions": [
+        {
+          "name": "Dunmore Cave",
+          "distance": "9.3 km",
+          "type": "cave"
+        },
+        {
+          "name": "Kells Priory",
+          "distance": "12.5 km",
+          "type": "religious-site"
+        },
+        {
+          "name": "St. Mary's Church Gowran",
+          "distance": "12.7 km",
+          "type": "religious-site"
+        }
+      ],
+
+      "resources": {
+        "socialGuides": [
+          {
+            "type": "Adult",
+            "url": "https://heritageireland.ie/assets/uploads/2022/04/Social-Story-for-Adults-April-2022-kilkenny.pdf"
+          },
+          {
+            "type": "Child",
+            "url": "https://heritageireland.ie/assets/uploads/2022/04/Social-Story-Children-April-2022-Kilkenny.pdf"
+          }
+        ],
+        "educationalResources": [
+          {
+            "name": "Kilkenny Castle Nature Trail",
+            "url": "https://heritageireland.ie/assets/uploads/2022/05/KK-Castle-Nature-Trail.pdf"
+          }
+        ]
+      },
+
+      "tags": ["castle", "butler-family", "norman", "victorian", "art-gallery", "gardens", "parklands", "medieval", "kilkenny", "family-friendly"],
+      "suitableFor": ["families", "history-enthusiasts", "art-lovers", "photographers", "school-groups"],
+      "weatherDependent": false,
+      "indoorActivities": true,
+      "outdoorActivities": true
+    },
+
+    {
+      "id": "rock-of-cashel",
+      "name": "The Rock of Cashel",
+      "tagline": "The high king of Irish monuments",
+      "type": "ecclesiastical-site",
+      "categories": ["religious-site", "round-tower", "cathedral", "abbey", "medieval-architecture"],
+      "era": "medieval",
+      "dateBuilt": "12th-13th century",
+      "unescoWorldHeritageSite": false,
+      "managedBy": "Office of Public Works - Heritage Ireland",
+
+      "description": {
+        "short": "Set on a dramatic outcrop of limestone in the Golden Vale, The Rock of Cashel possesses the most impressive cluster of medieval buildings in Ireland.",
+        "full": "Set on a dramatic outcrop of limestone in the Golden Vale, The Rock of Cashel, iconic in its historic significance, possesses the most impressive cluster of medieval buildings in Ireland. Among the monuments to be found there is a round tower, a high cross, a Romanesque chapel, a Gothic cathedral, an abbey, the Hall of the Vicars Choral and a fifteenth-century Tower House. Originally the seat of the kings of Munster, according to legend St. Patrick himself came here to convert King Aenghus to Christianity. Brian Boru was crowned High King at Cashel in 978 and made it his capital. In 1101 the site was granted to the church and Cashel swiftly rose to prominence as one of the most significant centres of ecclesiastical power in the country. The surviving buildings are remarkable. Cormac's Chapel, for example, contains the only surviving Romanesque frescoes in Ireland.",
+        "history": "Originally a royal seat of the Kings of Munster, the Rock of Cashel has been a significant site for over 1,000 years. St. Patrick baptized King Aenghus here in the 5th century. Brian Boru, the most famous High King of Ireland, was crowned here in 978. The site was granted to the Church in 1101 and became one of Ireland's most important ecclesiastical centers.",
+        "significance": "One of Ireland's most spectacular and visited tourist attractions, representing the intersection of Irish royal and ecclesiastical history."
+      },
+
+      "location": {
+        "address": {
+          "street": "St. Patrick's Rock of Cashel",
+          "town": "Cashel",
+          "county": "Tipperary",
+          "region": "Ireland's Ancient East",
+          "country": "Ireland",
+          "postcode": "E25 KX44"
+        },
+        "coordinates": {
+          "latitude": 52.5200763,
+          "longitude": -7.8904522
+        },
+        "directions": {
+          "byCar": "Public car park close to site",
+          "byBus": "Take the X8 to Cashel and walk 500m from the centre of Cashel town off the Dublin Road",
+          "byTrain": "The nearest train station is Thurles"
+        }
+      },
+
+      "contact": {
+        "phone": "062 61437",
+        "email": "rockofcashel@opw.ie",
+        "website": "https://heritageireland.ie/visit/places-to-visit/rock-of-cashel/",
+        "bookingUrl": "https://rockofcashel.admit-one.eu/?p=calendar&s=OPW_ROCK&ev=SELFGUIDED",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/therockofcashel/",
+          "instagram": "https://www.instagram.com/therockofcashelopw/"
+        }
+      },
+
+      "visitingInformation": {
+        "openingTimes": {
+          "currentStatus": "Open year round",
+          "seasonal": [
+            {
+              "season": "17 March - 15 October",
+              "days": "Daily",
+              "hours": "09:00 - 17:30",
+              "lastAdmission": "16:45",
+              "lastGuidedTour": "15:45"
+            },
+            {
+              "season": "16 October - 16 March",
+              "days": "Daily",
+              "hours": "09:00 - 16:30",
+              "lastAdmission": "15:45",
+              "lastGuidedTour": "14:30"
+            }
+          ],
+          "specialClosures": ["Closed 24-26 December inclusive", "Cormac's Chapel only open on selected dates in November 2025: 22, 23, 29, 30"]
+        },
+
+        "admissionPrices": {
+          "currency": "EUR",
+          "guidedSelfGuided": {
+            "adult": 8.00,
+            "senior": 6.00,
+            "studentChild": 4.00,
+            "family": 20.00,
+            "group": 6.00
+          }
+        },
+
+        "tourOptions": [
+          {
+            "type": "Self-Guided Tour",
+            "duration": "1-1.5 hours",
+            "included": ["Round Tower", "High Cross", "Cathedral", "Hall of Vicars Choral", "Tower House"],
+            "bookingRequired": true
+          },
+          {
+            "type": "Guided Tour",
+            "duration": "1-1.5 hours",
+            "included": ["Expert guide", "All monuments", "Historical insights"],
+            "bookingRequired": true,
+            "notes": "Tour times can change due to weather and conservation work"
+          },
+          {
+            "type": "Cormac's Chapel Guided Tour",
+            "duration": "30 minutes",
+            "included": ["Interior access to Romanesque chapel", "Fresco viewing"],
+            "bookingRequired": false,
+            "notes": "Limited tickets available at site only. By guided tour only. Check availability before visiting."
+          }
+        ],
+
+        "averageVisitDuration": "1-1.5 hours",
+        "busyPeriods": ["Summer months", "Weekends"],
+        "adviceForVisitors": "All groups must be pre-booked. Ring ahead for tour times as these can change at short notice. Wear appropriate footwear for uneven surfaces."
+      },
+
+      "features": {
+        "highlights": [
+          "12th century Round Tower",
+          "High Cross",
+          "Cormac's Chapel with Romanesque frescoes",
+          "Gothic Cathedral ruins",
+          "Hall of Vicars Choral",
+          "15th century Tower House",
+          "12th century Sarcophagus",
+          "Dramatic limestone outcrop setting",
+          "Panoramic views of Golden Vale"
+        ],
+
+        "facilities": [
+          "Audio Visual Show",
+          "Museum",
+          "Exhibition",
+          "Gift Shop",
+          "Guided Tours",
+          "Coach Parking",
+          "Card Payments Accepted",
+          "Brochure available in multiple languages"
+        ],
+
+        "accessibility": {
+          "wheelchairAccessible": false,
+          "accessibilityLevel": "Difficult - Multiple restrictions",
+          "restrictions": [
+            "Appropriate footwear required",
+            "Assistance dogs only",
+            "Hold hand rail",
+            "Low doorways",
+            "No climbing",
+            "Uneven walkways"
+          ],
+          "accessibilityNotes": "The site is built on a rocky outcrop with many steps and uneven surfaces. Not suitable for those with mobility issues."
+        }
+      },
+
+      "images": {
+        "heroImage": {
+          "url": "https://heritageireland.ie/assets/uploads/2020/03/Rock-of-Cashel-Large.jpg",
+          "alt": "Rock of Cashel at sunset",
+          "caption": "The Rock of Cashel rises dramatically from the Golden Vale"
+        },
+        "gallery": [
+          {
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/Rock-credit-Waterford-County-Council-exp.-Oct-2028.png",
+            "alt": "A castle stands on top of a rocky, grassy cliff",
+            "caption": "The spectacular setting of the Rock"
+          },
+          {
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/Rock-of-Cashel-Cormacs-Chapel-Interior.jpg",
+            "alt": "Interior of Cormac's Chapel",
+            "caption": "Cormac's Chapel contains Ireland's only surviving Romanesque frescoes"
+          },
+          {
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/Rock-of-Cashel-Interior.jpg",
+            "alt": "12th Century Sarcophagus",
+            "caption": "Ancient sarcophagus within the cathedral"
+          }
+        ]
+      },
+
+      "nearbyAttractions": [
+        {
+          "name": "Cahir Castle",
+          "distance": "16.4 km",
+          "type": "castle"
+        },
+        {
+          "name": "The Swiss Cottage",
+          "distance": "18.2 km",
+          "type": "cottage"
+        },
+        {
+          "name": "The Main Guard",
+          "distance": "22.6 km",
+          "type": "courthouse"
+        }
+      ],
+
+      "resources": {
+        "socialGuides": [
+          {
+            "type": "General",
+            "url": "https://heritageireland.ie/assets/uploads/2020/11/rock-of-cashel-social-guide.pdf"
+          }
+        ],
+        "visitorsGuides": [
+          {
+            "language": "English",
+            "url": "https://heritageireland.ie/assets/uploads/2023/11/6560-OPW-A5-Site-Leaflet_Rock-of-cashel_LR_Digital-1.pdf"
+          },
+          {
+            "language": "French",
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/Rock-of-Cashel-French.pdf"
+          },
+          {
+            "language": "German",
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/Rock-of-Cashel-German.pdf"
+          },
+          {
+            "language": "Irish",
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/6560-OPW-A5_GAELIGE_Rock-of-Cashel_HR-proof-1.pdf"
+          },
+          {
+            "language": "Italian",
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/Rock-of-Cashel-Italian.pdf"
+          },
+          {
+            "language": "Polish",
+            "url": "https://heritageireland.ie/assets/uploads/2024/07/Rock-of-Cashel-Polish.pdf"
+          },
+          {
+            "language": "Spanish",
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/Rock-of-Cashel-Spanish.pdf"
+          }
+        ]
+      },
+
+      "tags": ["cathedral", "chapel", "round-tower", "high-cross", "abbey", "medieval", "romanesque", "gothic", "st-patrick", "brian-boru", "kings-of-munster", "ecclesiastical"],
+      "suitableFor": ["history-enthusiasts", "photographers", "architecture-lovers", "pilgrims", "cultural-tourists"],
+      "weatherDependent": true,
+      "indoorActivities": true,
+      "outdoorActivities": true
+    },
+
+    {
+      "id": "blarney-castle",
+      "name": "Blarney Castle",
+      "tagline": "Home of the legendary Blarney Stone",
+      "type": "castle",
+      "categories": ["castle", "gardens", "grounds", "tourist-attraction"],
+      "era": "medieval",
+      "dateBuilt": "1446",
+      "unescoWorldHeritageSite": false,
+      "managedBy": "Privately owned - Colthurst family",
+
+      "description": {
+        "short": "Built nearly six hundred years ago by one of Ireland's greatest chieftains, Cormac MacCarthy, Blarney Castle is home to the world-famous Blarney Stone.",
+        "full": "Built nearly six hundred years ago by one of Ireland's greatest chieftains, Cormac MacCarthy, Blarney Castle has been attracting attention ever since. Over the last few hundred years, millions have flocked to Blarney making it a world landmark and one of Ireland's greatest treasures. That might have something to do with the Blarney Stone, the legendary Stone of Eloquence, found at the top of our tower. Kiss it and you'll never be lost for words again. But Blarney is so much more than just the stone. The castle gardens are among the most spectacular in Ireland, featuring the Poison Garden, Rock Close with its ancient druid caves, woodland walks, waterfalls, a lake, and exceptional specimen trees - some the largest of their kind in Ireland.",
+        "history": "The present castle is the third to be built on the site. The first was a timber structure built before 1200 AD. Around 1210, this was replaced by a stone fortification. The current castle, built by Dermot McCarthy, King of Munster, dates from 1446. The Blarney Stone was built into the battlements in 1446.",
+        "significance": "One of Ireland's most popular tourist attractions, visited by millions seeking the gift of eloquence promised by kissing the Blarney Stone. The castle and gardens represent over 600 years of Irish history."
+      },
+
+      "location": {
+        "address": {
+          "street": "Blarney",
+          "town": "Blarney Village",
+          "county": "Cork",
+          "region": "South Ireland",
+          "country": "Ireland",
+          "postcode": "T23 Y598"
+        },
+        "coordinates": {
+          "latitude": 51.9292,
+          "longitude": -8.5697
+        },
+        "directions": {
+          "fromCorkAirport": "From Airport follow signs for City Centre. From City Centre follow signs for Limerick (N20). Travel for 7 km; exit left (signposted Blarney). Arrive at Blarney.",
+          "fromShannon": "Follow the road to Limerick. Then follow signs for Mallow and take the turn off before Cork City to Blarney.",
+          "fromDublin": "Take the N8 motorway and follow the signs south for Cork, then on to Blarney. Journey time: 3-4 hours.",
+          "distance": "8 km northwest from Cork city"
+        }
+      },
+
+      "contact": {
+        "phone": "+353 21 438 5252",
+        "email": "info@blarneycastle.ie",
+        "website": "https://www.blarneycastle.ie",
+        "bookingUrl": "https://blarneycastle.retailint-tickets.com/Home",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/blarneycastle",
+          "instagram": "https://www.instagram.com/blarneycastle",
+          "twitter": "https://twitter.com/blarneycastle"
+        }
+      },
+
+      "visitingInformation": {
+        "openingTimes": {
+          "currentStatus": "Open year round except Christmas",
+          "seasonal": [
+            {
+              "season": "January/February/March",
+              "hours": "09:00 - 17:00",
+              "lastAdmission": "16:00"
+            },
+            {
+              "season": "April",
+              "hours": "09:00 - 17:30",
+              "lastAdmission": "16:30"
+            },
+            {
+              "season": "May/June/July/August/September",
+              "hours": "09:00 - 18:00",
+              "lastAdmission": "17:00"
+            },
+            {
+              "season": "October",
+              "hours": "09:00 - 17:30",
+              "lastAdmission": "16:30"
+            },
+            {
+              "season": "November/December",
+              "hours": "09:00 - 17:00",
+              "lastAdmission": "16:00"
+            }
+          ],
+          "specialClosures": ["December 24th", "December 25th"],
+          "specialOpenings": [
+            {
+              "date": "December 26th & January 1st",
+              "hours": "10:00 - 17:00",
+              "lastAdmission": "16:00"
+            }
+          ]
+        },
+
+        "admissionPrices": {
+          "currency": "EUR",
+          "standard": {
+            "adult": 23.00,
+            "studentSenior65Plus": 18.00,
+            "children6to16": 11.00,
+            "children5andUnder": 0.00,
+            "family2Adults2Children": 60.00
+          },
+          "notes": "Children must be accompanied by an adult. Buy tickets online in advance or at ticket office on arrival. No timed slots."
+        },
+
+        "tourOptions": [
+          {
+            "type": "Self-Guided",
+            "duration": "3-4 hours recommended",
+            "included": ["Castle", "Blarney Stone", "Gardens", "Rock Close", "Poison Garden", "Dungeons", "Caves", "Lake Walk", "Woodland Walks"],
+            "bookingRequired": false
+          }
+        ],
+
+        "averageVisitDuration": "3-4 hours",
+        "busyPeriods": ["Summer months", "Weekends", "Public holidays"],
+        "adviceForVisitors": "Come for the stone, stay for the gardens! Allow 3-4 hours minimum to explore the extensive grounds. Wear comfortable shoes and bring water."
+      },
+
+      "features": {
+        "highlights": [
+          "The Blarney Stone (Stone of Eloquence)",
+          "Medieval castle tower",
+          "Dungeons",
+          "The Kitchen and Great Hall",
+          "Chapel and Banqueting Hall",
+          "Poison Garden",
+          "Rock Close with ancient Druid caves",
+          "The Seven Sisters standing stones",
+          "Arboretum with specimen trees",
+          "100-meter herbaceous border",
+          "80-meter rose pergola",
+          "Fern Garden",
+          "Lake and waterfall",
+          "Woodland walks",
+          "Bee keeping area"
+        ],
+
+        "facilities": [
+          "Blarney Castle Shop",
+          "Café",
+          "Toilets",
+          "Parking",
+          "Gift Shop",
+          "Card Payments Accepted",
+          "Gardens",
+          "Picnic Areas"
+        ],
+
+        "accessibility": {
+          "wheelchairAccessible": "Partial - Gardens accessible, castle tower not accessible",
+          "accessibilityLevel": "Mixed",
+          "restrictions": [
+            "Castle tower has narrow spiral staircases",
+            "Not suitable for those with mobility issues",
+            "Gardens largely accessible"
+          ],
+          "accessibilityNotes": "The castle itself involves climbing narrow spiral staircases and is not wheelchair accessible. However, the extensive gardens are largely accessible."
+        }
+      },
+
+      "images": {
+        "heroImage": {
+          "url": "https://blarneycastle.ie/wp-content/uploads/2022/06/blarney_castle_pic.jpg",
+          "alt": "Blarney Castle tower rising above the trees",
+          "caption": "Blarney Castle - home of the legendary Blarney Stone"
+        },
+        "gallery": [
+          {
+            "url": "https://www.gettyimages.com/photos/blarney-castle",
+            "alt": "Blarney Castle exterior",
+            "caption": "The medieval castle dates from 1446",
+            "source": "Getty Images"
+          },
+          {
+            "url": "https://pixabay.com/images/search/blarney%20castle/",
+            "alt": "Blarney Castle gardens",
+            "caption": "The spectacular gardens feature thousands of plant species",
+            "source": "Pixabay"
+          }
+        ]
+      },
+
+      "nearbyAttractions": [
+        {
+          "name": "Cork City",
+          "distance": "8 km",
+          "type": "city"
+        },
+        {
+          "name": "Blarney Woollen Mills",
+          "distance": "0.5 km",
+          "type": "shopping"
+        }
+      ],
+
+      "resources": {
+        "reviews": [
+          {
+            "author": "Juli Harland",
+            "rating": 5,
+            "text": "This place was stunning. There is SO much more to Blarney Castle than the stone. You can easily spend an entire day here exploring the grounds. The druid caves are mystical, the gardens are gorgeous, the castle itself is huge and wild."
+          },
+          {
+            "author": "Kat W",
+            "rating": 5,
+            "text": "The castle and the grounds are wonderful to experience. There is so much more to this than 'kissing the Blarney stone'. Beautiful flowers, statues, woods, and rock formations. Can easily take 3-4 hours to see it all."
+          },
+          {
+            "author": "Karolina J",
+            "rating": 5,
+            "text": "Come for the stone, stay for the gardens! No but seriously, the gardens are the main attraction. You could easily spend half a day exploring them. One of the most impressive botanical gardens we've ever visited."
+          }
+        ]
+      },
+
+      "tags": ["castle", "blarney-stone", "gardens", "poison-garden", "rock-close", "medieval", "dungeons", "druid", "botanical-gardens", "family-friendly", "cork"],
+      "suitableFor": ["families", "garden-enthusiasts", "photographers", "nature-lovers", "tourists", "couples"],
+      "weatherDependent": true,
+      "indoorActivities": true,
+      "outdoorActivities": true
+    },
+
+    {
+      "id": "trim-castle",
+      "name": "Trim Castle",
+      "tagline": "The ultimate symbol of Norman glory",
+      "type": "castle",
+      "categories": ["castle", "norman-fortification", "historic-film-location"],
+      "era": "norman",
+      "dateBuilt": "1176-1206",
+      "unescoWorldHeritageSite": false,
+      "managedBy": "Office of Public Works - Heritage Ireland",
+
+      "description": {
+        "short": "The largest Anglo-Norman fortification in Ireland, Trim Castle took 30 years to build and stands as the ultimate symbol of Norman power.",
+        "full": "Few places in Ireland contain more medieval buildings than the heritage town of Trim. Trim Castle is foremost among those buildings. In fact, the castle is the largest Anglo-Norman fortification in Ireland. Hugh de Lacy and his successors took 30 years to build it. The central fortification is a monumental three-storey keep. This massive 20-sided tower, which is cruciform in shape, was all but impregnable in its day. It was protected by a ditch, curtain wall and water-filled moat. Modern walkways now allow you to look down over the interior of the keep - a chance to appreciate the sheer size and thickness of the mighty castle walls. The castle is often called King John's Castle although when he visited the town he preferred to stay in his tent on the other side of the river. Richard II visited Trim in 1399 and left Prince Hal, later Henry V, as a prisoner in the castle.",
+        "history": "Built by Hugh de Lacy from 1176 onwards, Trim Castle served as the principal stronghold of the Lordship of Meath. Construction took 30 years. The castle played a significant role in Irish medieval history and was used as a film location for Mel Gibson's 'Braveheart' in 1994.",
+        "significance": "The largest and one of the best-preserved Norman castles in Ireland, representing the height of Norman military architecture and power."
+      },
+
+      "location": {
+        "address": {
+          "street": "Castle Street",
+          "town": "Trim",
+          "county": "Meath",
+          "region": "Ireland's Ancient East",
+          "country": "Ireland",
+          "postcode": "C15 HN90"
+        },
+        "coordinates": {
+          "latitude": 53.5544205,
+          "longitude": -6.7893993
+        },
+        "directions": {
+          "general": "Located in Trim Town Centre",
+          "parking": "Public parking available nearby"
+        }
+      },
+
+      "contact": {
+        "phone": "046 9438619",
+        "email": "trimcastle@opw.ie",
+        "website": "https://heritageireland.ie/visit/places-to-visit/trim-castle/",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/trimcastleopw"
+        }
+      },
+
+      "visitingInformation": {
+        "openingTimes": {
+          "currentStatus": "Seasonal opening",
+          "seasonal": [
+            {
+              "season": "January",
+              "days": "Weekends only",
+              "hours": "09:00 - 16:00"
+            },
+            {
+              "season": "1 February - 16 March",
+              "days": "Daily",
+              "hours": "09:00 - 16:00"
+            },
+            {
+              "season": "17 March - 30 September",
+              "days": "Daily",
+              "hours": "10:00 - 17:00"
+            },
+            {
+              "season": "1 October - 31 October",
+              "days": "Daily",
+              "hours": "09:00 - 16:00"
+            },
+            {
+              "season": "November - December",
+              "days": "Weekends only",
+              "hours": "09:00 - 16:00"
+            }
+          ]
+        },
+
+        "admissionPrices": {
+          "currency": "EUR",
+          "guidedTourOfKeep": {
+            "adult": 5.00,
+            "groupSenior": 4.00,
+            "childStudent": 3.00,
+            "family": 13.00
+          },
+          "castleGrounds": {
+            "admission": "Free"
+          }
+        },
+
+        "tourOptions": [
+          {
+            "type": "Guided Tour of the Keep",
+            "duration": "45 minutes",
+            "included": ["Interior of keep", "Expert guide", "Historical insights"],
+            "bookingRequired": true,
+            "notes": "Access cannot be guaranteed. Arrive early to avoid disappointment."
+          },
+          {
+            "type": "Self-Guided Grounds",
+            "duration": "30 minutes",
+            "included": ["Castle exterior", "Interpretation panels", "Grounds"],
+            "bookingRequired": false,
+            "admission": "Free"
+          }
+        ],
+
+        "averageVisitDuration": "1-1.5 hours",
+        "busyPeriods": ["Summer months", "Weekends"],
+        "adviceForVisitors": "This is a very busy site and visitors may experience a delay during summer months. Access cannot be guaranteed. Please arrive early to avoid disappointment."
+      },
+
+      "features": {
+        "highlights": [
+          "Largest Anglo-Norman castle in Ireland",
+          "Massive 20-sided keep",
+          "Three-storey medieval tower",
+          "Curtain walls and fortifications",
+          "Film location for 'Braveheart'",
+          "Medieval town setting",
+          "River Boyne views"
+        ],
+
+        "facilities": [
+          "Guided Tours",
+          "Toilets",
+          "Card Payments Accepted",
+          "Interpretation Panels"
+        ],
+
+        "accessibility": {
+          "wheelchairAccessible": false,
+          "accessibilityLevel": "Very Limited",
+          "restrictions": [
+            "Keep not accessible for visitors with disabilities",
+            "Steep and narrow stairs",
+            "Assistance dogs only",
+            "Limited access - grounds only for wheelchair users",
+            "No climbing",
+            "No picnics allowed on site"
+          ],
+          "accessibilityNotes": "Access for visitors with disabilities is very restricted. The keep is not accessible. Restricted access to grounds only. Some stairs are very steep and narrow."
+        }
+      },
+
+      "images": {
+        "heroImage": {
+          "url": "https://heritageireland.ie/assets/uploads/2020/03/Trim-Castle.jpg",
+          "alt": "Trim Castle viewed from across the River Boyne",
+          "caption": "Ireland's largest Norman castle"
+        },
+        "gallery": [
+          {
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/Trim-Castle-River.jpg",
+            "alt": "View of castle from across the River Boyne",
+            "caption": "The castle reflected in the River Boyne"
+          },
+          {
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/Trim-Castle-Interior-1st-Floor.jpg",
+            "alt": "Looking down from the third floor of the Keep",
+            "caption": "Interior view from the keep"
+          },
+          {
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/Trim-Castle-at-sunset.jpg",
+            "alt": "Trim Castle at sunset",
+            "caption": "The castle at golden hour"
+          }
+        ]
+      },
+
+      "nearbyAttractions": [
+        {
+          "name": "Hill of Tara",
+          "distance": "12.0 km",
+          "type": "prehistoric-monument"
+        },
+        {
+          "name": "Maynooth Castle",
+          "distance": "23.2 km",
+          "type": "castle"
+        },
+        {
+          "name": "Brú na Bóinne (Newgrange)",
+          "distance": "27.2 km",
+          "type": "prehistoric-monument"
+        }
+      ],
+
+      "resources": {
+        "socialGuides": [
+          {
+            "type": "General",
+            "url": "https://heritageireland.ie/assets/uploads/2024/02/Social-Guide-to-Trim-Castle.pdf"
+          }
+        ]
+      },
+
+      "tags": ["castle", "norman", "medieval", "fortification", "hugh-de-lacy", "braveheart", "film-location", "meath", "trim"],
+      "suitableFor": ["history-enthusiasts", "photographers", "medieval-history-buffs", "film-fans"],
+      "weatherDependent": true,
+      "indoorActivities": true,
+      "outdoorActivities": true,
+      "filmLocations": ["Braveheart (1995)"]
+    },
+
+    {
+      "id": "dublin-castle",
+      "name": "Dublin Castle",
+      "tagline": "The nerve centre of historical power in Ireland",
+      "type": "castle",
+      "categories": ["castle", "government-building", "state-apartments", "chapel", "museum"],
+      "era": "medieval-georgian",
+      "dateBuilt": "1204",
+      "unescoWorldHeritageSite": false,
+      "managedBy": "Office of Public Works - Heritage Ireland",
+
+      "description": {
+        "short": "For 700 years, from 1204 until independence, Dublin Castle was the seat of English and British rule in Ireland. Today it serves as a government complex and venue for state ceremonies.",
+        "full": "Just a short walk from Trinity College, on the way to Christchurch, Dublin Castle is well situated for visiting on foot. The history of this city-centre site stretches back to the Viking Age and the castle itself was built in the thirteenth century. The building served as a military fortress, a prison, a treasury and courts of law. For 700 years, from 1204 until independence, it was the seat of English (and then British) rule in Ireland. Rebuilt as the castle we now know in the seventeenth, eighteenth, nineteenth and twentieth centuries, Dublin Castle is now a government complex and an arena of state ceremony. The state apartments, undercroft, chapel royal, heritage centre and restaurant are now open to visitors.",
+        "history": "Built on the site of a Viking settlement, Dublin Castle was established in 1204 on the orders of King John. It served as the center of British administration in Ireland for over 700 years. The current buildings largely date from the 18th century Georgian reconstruction.",
+        "significance": "The symbolic heart of British rule in Ireland for seven centuries, now a working government complex hosting state visits, presidential inaugurations, and EU meetings."
+      },
+
+      "location": {
+        "address": {
+          "street": "Dame Street",
+          "town": "Dublin 2",
+          "county": "Dublin",
+          "region": "Dublin",
+          "country": "Ireland",
+          "postcode": "D02 XN27"
+        },
+        "coordinates": {
+          "latitude": 53.3428861,
+          "longitude": -6.2674284
+        },
+        "directions": {
+          "general": "Located in Dublin City Centre off Dame Street, behind City Hall",
+          "walking": "5 minutes walk from Trinity College en-route to Christchurch",
+          "publicTransport": "Served by multiple Dublin Bus routes"
+        }
+      },
+
+      "contact": {
+        "phone": "01 645 8813",
+        "email": "dublincastle@opw.ie",
+        "website": "https://heritageireland.ie/visit/places-to-visit/dublin-castle/",
+        "bookingUrl": "https://dublincastle.admit-one.eu/",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/opwdublincastle/",
+          "twitter": "https://twitter.com/dublincastleOPW",
+          "instagram": "https://www.instagram.com/dublincastleopw/"
+        }
+      },
+
+      "visitingInformation": {
+        "openingTimes": {
+          "currentStatus": "Open all year round",
+          "standard": {
+            "days": "Monday - Sunday and Public Holidays",
+            "hours": "09:45 - 17:45",
+            "lastAdmission": "17:15"
+          },
+          "specialClosures": ["May be subject to closure for state events - check website before visiting"]
+        },
+
+        "admissionPrices": {
+          "currency": "EUR",
+          "guidedTour1Hour": {
+            "adult": 12.00,
+            "senior": 10.00,
+            "student": 10.00,
+            "child": 6.00,
+            "family": 30.00,
+            "included": "State Apartments, Medieval Undercroft, Chapel Royal, Exhibitions"
+          },
+          "selfGuide30Min": {
+            "adult": 8.00,
+            "senior": 6.00,
+            "student": 6.00,
+            "child": 4.00,
+            "family": 20.00,
+            "included": "State Apartments and Exhibitions"
+          }
+        },
+
+        "tourOptions": [
+          {
+            "type": "Guided Tour",
+            "duration": "1 hour",
+            "included": ["State Apartments", "Medieval Undercroft", "Chapel Royal", "Exhibitions", "Expert guide"],
+            "bookingRequired": true
+          },
+          {
+            "type": "Self-Guided Tour",
+            "duration": "30 minutes",
+            "included": ["State Apartments", "Exhibitions"],
+            "bookingRequired": true
+          }
+        ],
+
+        "averageVisitDuration": "1 hour (guided) or 30 minutes (self-guided)",
+        "adviceForVisitors": "As Dublin Castle is a working Government building, security, access to rooms and opening arrangements may be subject to change at short notice. Advanced booking required for groups. Viking Excavation currently not part of tour due to upgrade works."
+      },
+
+      "features": {
+        "highlights": [
+          "State Apartments",
+          "Throne Room",
+          "St. Patrick's Hall",
+          "State Drawing Room",
+          "Battleaxe Staircase",
+          "State Corridor",
+          "Chapel Royal",
+          "Medieval Undercroft",
+          "Viking excavations",
+          "Dubh Linn Gardens",
+          "Coach House Gallery"
+        ],
+
+        "facilities": [
+          "Guided Tours",
+          "Brochures",
+          "Toilets",
+          "Wheelchair Accessible Toilets",
+          "Card Payments Accepted"
+        ],
+
+        "accessibility": {
+          "wheelchairAccessible": "Mostly",
+          "accessibilityLevel": "Good - Most areas accessible",
+          "restrictions": [
+            "Limited access to some areas",
+            "Uneven surfaces in Upper Courtyard",
+            "Uneven walkways in some areas",
+            "Viking Excavation only accessible via stairs"
+          ],
+          "accessibilityNotes": "All areas in the State Apartments and Chapel Royal are universally accessible. The Coach House Gallery and Dubh Linn Gardens are also universally accessible. The Viking Excavation is only accessible via stairs."
+        }
+      },
+
+      "images": {
+        "heroImage": {
+          "url": "https://heritageireland.ie/assets/uploads/2020/03/The-Upper-Courtyard-Dublin-Castle.jpg",
+          "alt": "The Upper Courtyard Dublin Castle",
+          "caption": "The Georgian courtyard of Dublin Castle"
+        },
+        "gallery": [
+          {
+            "url": "https://heritageireland.ie/assets/uploads/2020/03/Dublin-Castle-throne-room.jpg",
+            "alt": "A throne positioned in the centre of a grand room lit in a golden hue",
+            "caption": "The magnificent Throne Room"
+          },
+          {
+            "url": "https://heritageireland.ie/assets/uploads/2023/05/Dublin-Castle-The-State-Drawing-Room.jpg",
+            "alt": "A large room with extravagant furniture and chandeliers",
+            "caption": "The State Drawing Room"
+          },
+          {
+            "url": "https://heritageireland.ie/assets/uploads/2023/05/Dublin-Castle-St-Patricks-Hall.jpg",
+            "alt": "St. Patrick's Hall with flags and chandeliers",
+            "caption": "St. Patrick's Hall - venue for presidential inaugurations"
+          }
+        ]
+      },
+
+      "nearbyAttractions": [
+        {
+          "name": "St Audoen's Church",
+          "distance": "0.4 km",
+          "type": "religious-site"
+        },
+        {
+          "name": "St. Mary's Abbey",
+          "distance": "0.5 km",
+          "type": "religious-site"
+        },
+        {
+          "name": "St Stephen's Green",
+          "distance": "0.6 km",
+          "type": "park"
+        },
+        {
+          "name": "Trinity College",
+          "distance": "0.6 km",
+          "type": "university"
+        },
+        {
+          "name": "Christchurch Cathedral",
+          "distance": "0.4 km",
+          "type": "cathedral"
+        }
+      ],
+
+      "resources": {
+        "socialGuides": [
+          {
+            "type": "General",
+            "url": "https://heritageireland.ie/assets/uploads/2020/11/dublin-castle-social-guide.pdf"
+          }
+        ],
+        "educationalResources": [
+          {
+            "count": 5,
+            "url": "https://heritageireland.ie/?post_type=downloads&p=4401"
+          }
+        ]
+      },
+
+      "tags": ["castle", "state-apartments", "government", "georgian", "medieval", "viking", "dublin", "city-centre", "british-rule", "irish-independence"],
+      "suitableFor": ["history-enthusiasts", "architecture-lovers", "tourists", "school-groups", "political-history-buffs"],
+      "weatherDependent": false,
+      "indoorActivities": true,
+      "outdoorActivities": true
+    }
+  ],
+
+  "metadata": {
+    "schemaVersion": "1.0",
+    "lastUpdated": "2025-11-22",
+    "totalSites": 5,
+    "dataSource": "Heritage Ireland, official castle websites, Jina AI research",
+    "purpose": "Comprehensive Irish heritage sites directory for Next.js application",
+    "notes": "This schema includes extensive data points to create a truly useful resource. Each site includes location data, visitor information, pricing, opening times, facilities, accessibility information, images, nearby attractions, and rich historical context."
+  }
+}

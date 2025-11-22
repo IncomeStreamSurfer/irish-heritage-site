@@ -1,0 +1,347 @@
+{
+  "id": "dun-aonghasa",
+  "name": "Dún Aonghasa",
+  "tagline": "One of western Europe's most magnificent stone forts",
+  "type": "prehistoric-fort",
+  "categories": ["prehistoric-site", "cliff-fort", "stone-fort", "archaeological-site", "promontory-fort"],
+  "era": "bronze-age-iron-age",
+  "dateBuilt": "1100 BC - 500 BC",
+  "unescoWorldHeritageSite": false,
+  "managedBy": "Office of Public Works - Heritage Ireland",
+
+  "description": {
+    "short": "Perilously perched on a sheer sea-cliff, Dún Aonghasa defiantly faces the Atlantic Ocean. It is the largest of the prehistoric stone forts of the Aran Islands.",
+    "full": "Perilously perched on a sheer 100-metre sea-cliff, Dún Aonghasa is one of western Europe's most magnificent stone forts and the largest of the prehistoric forts on the Aran Islands. The fort consists of three massive drystone defence walls built in concentric circles. Outside them is a chevaux-de-frise - a dense band of jagged, upright stones, thousands in number, creating a devastatingly effective way to impede intruders. This remarkable defensive system surrounds the entire fort from cliff to cliff. The fort is approached over rising ground and rough, natural rock, with the final approach offering spectacular views across the karst landscape of Inis Mór. At the cliff edge, there is no fence or barrier at the 87-metre drop, adding to the dramatic and somewhat perilous atmosphere of this ancient site.",
+    "history": "Dún Aonghasa is over 3,000 years old, with construction dating back to approximately 1100 BC when rubble was first piled against large upright stones to form the initial enclosure. Excavations have revealed significant evidence of prehistoric metalworking, including bronze casting moulds dated to around 900 BC, as well as several houses and burials. Around 500 BC, the triple wall defenses were constructed along the fort's western side. The whole complex was refortified in AD 700-800 during the early Medieval period. An early Iron Age bird-head fibula (brooch) was discovered in a wall of the site in 1839. The fort's name, meaning 'Fort of Aonghas', may refer to the pre-Christian god Aengus described in Irish mythology, or the mythical king Aonghus mac Úmhór. It has traditionally been associated with the Fir Bolg, a legendary people in Irish mythology. At the time of construction, sea levels were considerably lower and the fort was originally approximately 1000 metres from the sea, though parts of the cliff and fort have since collapsed into the Atlantic.",
+    "significance": "Dún Aonghasa is recognized as one of the finest examples of prehistoric military architecture in Western Europe. The outermost wall encloses approximately 6 hectares (14 acres), making it impressively large among prehistoric ruins. It represents an extraordinary achievement of Bronze Age and Iron Age construction, with its massive drystone walls, sophisticated defensive chevaux-de-frise system, and dramatic clifftop setting. The site is a National Monument of Ireland and one of the country's most popular and iconic archaeological attractions, drawing visitors from around the world to experience its ancient power and breathtaking location on the edge of the Atlantic."
+  },
+
+  "location": {
+    "address": {
+      "street": "Cill Mhuirbhigh",
+      "town": "Inis Mór",
+      "county": "Galway",
+      "region": "Wild Atlantic Way",
+      "country": "Ireland",
+      "postcode": "H91 YT20",
+      "island": "Inis Mór (Inishmore), Aran Islands"
+    },
+    "coordinates": {
+      "latitude": 53.1255535,
+      "longitude": -9.7668478
+    },
+    "directions": {
+      "general": "Located 7 km west of Kilronan (Cill Rónáin), the main village on Inis Mór. The fort is approximately 1km from the Visitor Centre and is approached over rising ground with the last section over rough, natural rock",
+      "byFerry": "Ferry services operate from Rossaveal (Ros a' Mhíl) in Connemara to Kilronan on Inis Mór (40 minutes). Also available from Doolin, Co. Clare to Inis Mór (35 minutes seasonal service). Ferries run year-round from Rossaveal, seasonally from Galway City and Doolin",
+      "byAir": "Air service available from Inverin (Indreabhán) to Kilronan Airport on Inis Mór (8-minute flight)",
+      "onIsland": "From Kilronan pier, visitors can hire bicycles, take minibus tours, hire pony and traps, or walk. The journey to Dún Aonghasa from Kilronan is approximately 7km",
+      "parking": "Limited parking at Visitor Centre"
+    }
+  },
+
+  "contact": {
+    "phone": "099 61008",
+    "email": "dunaonghasa@opw.ie",
+    "website": "https://heritageireland.ie/visit/places-to-visit/dun-aonghasa/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/heritageireland/",
+      "twitter": "https://twitter.com/heritageireopw",
+      "instagram": "https://www.instagram.com/heritageirelandopw/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year round",
+      "seasonal": [
+        {
+          "season": "January - March",
+          "days": "Daily",
+          "hours": "09:30 - 16:00"
+        },
+        {
+          "season": "April - October",
+          "days": "Daily",
+          "hours": "09:30 - 18:00"
+        },
+        {
+          "season": "November - December",
+          "days": "Daily",
+          "hours": "09:30 - 16:00"
+        }
+      ],
+      "specialClosures": ["Closed 24-30 December"],
+      "specialNotes": "Visitor Centre closed for refurbishment since August 2024. Visitors can still access Dún Aonghasa via the path and OPW Guides are on duty on site. Temporary bathrooms available on site. Visitor Centre expected to reopen with new exhibition in Summer 2025"
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "adult": 5.00,
+        "groupSenior": 4.00,
+        "childStudent": 3.00,
+        "family": 13.00
+      },
+      "notes": "Currently FREE admission during Visitor Centre refurbishment (as of August 2024 - Summer 2025). Free admission when staying overnight on Inis Mór in participating accommodation"
+    },
+
+    "tourOptions": [
+      {
+        "type": "Self-Guided",
+        "duration": "1-1.5 hours",
+        "included": ["Fort walls and ramparts", "Chevaux-de-frise defensive stones", "Cliff-edge views", "Information panels", "OPW guides on duty"],
+        "bookingRequired": false,
+        "notes": "The site is about 1km from the Visitor Centre. The last section of the path is over rough, natural rock and care is needed"
+      }
+    ],
+
+    "averageVisitDuration": "1-1.5 hours",
+    "busyPeriods": ["Summer months (June-August)", "Weekends", "Bank holidays"],
+    "adviceForVisitors": "Boots or strong walking shoes are ESSENTIAL as the approach involves rough, natural rock surfaces. There is NO fence or barrier at the edge of the 87-metre cliff - extreme caution required. Weather can change quickly on the island - bring layers and waterproofs. Drones are NOT permitted at Dún Aonghasa for the safety and comfort of visitors and staff. Allow sufficient time for the 1km walk from the Visitor Centre over rising ground. The site is vulnerable - visitors are asked to not interfere with the monument in any way."
+  },
+
+  "features": {
+    "highlights": [
+      "Three massive concentric drystone defensive walls",
+      "Chevaux-de-frise - thousands of jagged upright defensive stones",
+      "Perched on 100-metre (330 ft) sheer cliff edge",
+      "Spectacular Atlantic Ocean views",
+      "Prehistoric Bronze Age and Iron Age construction",
+      "6 hectares enclosed by outermost wall",
+      "Evidence of prehistoric metalworking and habitation",
+      "Dramatic karst landscape setting on Inis Mór",
+      "No barrier at cliff edge - thrilling and perilous experience",
+      "One of the finest prehistoric forts in Western Europe"
+    ],
+
+    "facilities": [
+      "Temporary toilets (during Visitor Centre refurbishment)",
+      "Bicycle parking",
+      "Interpretive exhibit (when Visitor Centre reopens)",
+      "Guided interpretation from OPW guides on site",
+      "Walking paths",
+      "Information panels"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "accessibilityLevel": "Very Difficult - Multiple restrictions",
+      "restrictions": [
+        "1km walk from Visitor Centre over rising ground",
+        "Rough, natural rock surfaces - uneven walkways",
+        "Steep sections",
+        "No fence at cliff edge - extreme caution required",
+        "Not suitable for those with mobility issues",
+        "Dogs must be on lead",
+        "Limited access for wheelchairs",
+        "Strong footwear essential"
+      ],
+      "accessibilityNotes": "This is a challenging site to access due to the rough terrain and steep approaches over natural rock. The final approach to the fort involves walking over uneven karst limestone. The site is not wheelchair accessible. Visitors with mobility issues should carefully consider whether this site is suitable. There is no barrier at the cliff edge, requiring extreme caution."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2020/03/Dun-Aonghasa-directly-above.jpg",
+      "alt": "Aerial view of Dún Aonghasa perched dramatically on the cliff edge",
+      "caption": "Dún Aonghasa - one of western Europe's most magnificent prehistoric stone forts"
+    },
+    "gallery": [
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Dun-Aonghasa-cliffs.jpg",
+        "alt": "The dramatic 100-metre cliffs at Dún Aonghasa",
+        "caption": "The sheer cliff face drops 100 metres to the Atlantic Ocean"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Dun-Aonghasa-exterior-walls.jpg",
+        "alt": "The massive exterior drystone walls of Dún Aonghasa",
+        "caption": "Three concentric rings of defensive walls"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Dun-Aonghasa-interior-walls.jpg",
+        "alt": "Interior view of the drystone walls at Dún Aonghasa",
+        "caption": "The interior walls showcasing Bronze Age construction"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Dun-Aonghasa-sunset.jpg",
+        "alt": "Sunset at Dún Aonghasa",
+        "caption": "Golden hour at the ancient fort"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Dun-Aonghasa-view-back-across-inis-mor.jpg",
+        "alt": "View back across the karst landscape of Inis Mór from Dún Aonghasa",
+        "caption": "The unique limestone karst landscape of Inis Mór"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Dun_Aonghasa_waves.jpg",
+        "alt": "Waves crashing at the base of Dún Aonghasa cliffs",
+        "caption": "The Atlantic Ocean pounds the cliffs below the fort"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "The Worm Hole (Poll na bPéist)",
+      "distance": "1.5 km",
+      "type": "natural-feature",
+      "description": "Natural rectangular pool at the base of cliffs, famous for Red Bull Cliff Diving"
+    },
+    {
+      "name": "Dún Eochla",
+      "distance": "3.5 km",
+      "type": "prehistoric-fort",
+      "description": "Circular stone fort on highest point of Inis Mór"
+    },
+    {
+      "name": "Dún Dúchathair (Black Fort)",
+      "distance": "4 km",
+      "type": "prehistoric-fort",
+      "description": "Dramatic cliff-edge stone fort with spectacular Atlantic views"
+    },
+    {
+      "name": "Seven Churches (Na Seacht dTeampaill)",
+      "distance": "3 km",
+      "type": "religious-site",
+      "description": "Early Christian monastic settlement with churches and high crosses"
+    },
+    {
+      "name": "Teampall Bheanáin (St. Benan's Church)",
+      "distance": "2.5 km",
+      "type": "religious-site",
+      "description": "Tiny 10th-century church, one of Ireland's smallest"
+    },
+    {
+      "name": "Kilmurvey Beach",
+      "distance": "1 km",
+      "type": "beach",
+      "description": "Beautiful sandy beach near Dún Aonghasa"
+    },
+    {
+      "name": "Seal Colony",
+      "distance": "5 km",
+      "type": "wildlife",
+      "description": "Colony of grey seals on the western coast of Inis Mór"
+    },
+    {
+      "name": "Kilronan (Cill Rónáin)",
+      "distance": "7 km",
+      "type": "village",
+      "description": "Main village and ferry port on Inis Mór"
+    }
+  ],
+
+  "resources": {
+    "visitorsGuides": [
+      {
+        "language": "English",
+        "url": "https://heritageireland.ie/visit/places-to-visit/dun-aonghasa/"
+      },
+      {
+        "language": "Irish",
+        "url": "https://heritageireland.ie/ga/tabhair-cuairt/ar-suiomhanna/dun-aonghasa-seandun-cloiche"
+      }
+    ],
+    "educationalResources": [
+      {
+        "name": "Archaeological Information",
+        "url": "https://en.wikipedia.org/wiki/Dún_Aonghasa"
+      },
+      {
+        "name": "Aran Islands Official Website",
+        "url": "https://www.aranislands.ie/aran-islands/Dun-Aonghasa"
+      }
+    ]
+  },
+
+  "tags": [
+    "prehistoric-fort",
+    "bronze-age",
+    "iron-age",
+    "stone-fort",
+    "cliff-fort",
+    "aran-islands",
+    "inis-mor",
+    "galway",
+    "wild-atlantic-way",
+    "archaeological-site",
+    "chevaux-de-frise",
+    "drystone-walls",
+    "promontory-fort",
+    "fir-bolg",
+    "atlantic-ocean",
+    "karst-landscape",
+    "national-monument",
+    "spectacular-views"
+  ],
+
+  "suitableFor": [
+    "archaeology-enthusiasts",
+    "history-buffs",
+    "photographers",
+    "adventure-seekers",
+    "hikers",
+    "nature-lovers",
+    "cultural-tourists",
+    "outdoor-enthusiasts"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+
+  "additionalInformation": {
+    "islandContext": {
+      "islandName": "Inis Mór (Inishmore)",
+      "islandSize": "Largest of the Aran Islands - 31 km²",
+      "population": "Approximately 800 residents",
+      "language": "Irish (Gaelic) and English - Gaeltacht area",
+      "gettingToIsland": {
+        "ferryFromRossaveal": "40 minutes from Rossaveal (Ros a' Mhíl), Connemara - year-round service",
+        "ferryFromDoolin": "35 minutes from Doolin, Co. Clare - seasonal service",
+        "ferryFromGalway": "90 minutes from Galway City - seasonal service",
+        "flight": "8 minutes from Inverin (Indreabhán) Airport to Kilronan",
+        "ferryOperators": [
+          "Aran Island Ferries - www.aranislandferries.com",
+          "Doolin Ferry Co - www.doolinferry.com"
+        ]
+      },
+      "gettingAroundIsland": [
+        "Bicycle hire (most popular option)",
+        "E-bike hire",
+        "Minibus tours",
+        "Pony and trap tours",
+        "Walking",
+        "Private car hire (limited)"
+      ],
+      "otherAttractions": [
+        "Traditional thatched cottages",
+        "Aran sweater shops and craft stores",
+        "Traditional Irish music sessions",
+        "Man of Aran film heritage",
+        "The Banshees of Inisherin filming locations",
+        "Unique karst limestone landscape",
+        "Stone wall network",
+        "Traditional currachs (boats)",
+        "Wild flowers and rare flora"
+      ]
+    },
+    "safetyWarnings": [
+      "NO barrier at cliff edge - extreme caution required at all times",
+      "Keep well back from cliff edge - sudden wind gusts can occur",
+      "Supervise children closely at all times",
+      "Weather can change rapidly - be prepared",
+      "Rough terrain requires appropriate footwear",
+      "Mobile phone coverage may be limited in some areas",
+      "Bring water and sun protection in summer months"
+    ],
+    "bestTimeToVisit": "April to October for best weather, though open year-round. Early morning or late afternoon offers best light for photography and fewer crowds. Summer months (June-August) are busiest. Spring (April-May) offers wildflowers, autumn (September-October) often has clearer views and fewer visitors.",
+    "culturalSignificance": "Dún Aonghasa is deeply embedded in Irish mythology and folklore, associated with the legendary Fir Bolg people who, according to myth, were driven to the Aran Islands by the Tuatha Dé Danann. The fort represents the pinnacle of prehistoric Irish military architecture and stands as a testament to the sophisticated engineering capabilities of Bronze Age and Iron Age peoples.",
+    "filmAndMedia": [
+      "Featured in numerous documentaries about prehistoric Ireland",
+      "RTÉ documentaries on the Aran Islands",
+      "Location near filming sites for 'The Banshees of Inisherin' (2022)",
+      "Historic connection to 'Man of Aran' (1934) documentary"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "kylemore-abbey",
+  "name": "Kylemore Abbey & Victorian Walled Garden",
+  "tagline": "A Cathedral in Miniature nestled in the Heart of Connemara",
+  "type": "abbey",
+  "categories": ["abbey", "monastery", "castle", "victorian-garden", "religious-site"],
+  "era": "Victorian",
+  "dateBuilt": "1868-1871",
+  "unescoWorldHeritageSite": false,
+  "managedBy": "The Kylemore Trust",
+
+  "description": {
+    "short": "A stunning Victorian castle and Benedictine monastery set on 1,000 acres of mountainside in Connemara, featuring a neo-Gothic church and 6-acre Victorian walled garden.",
+    "full": "Nestled in the heart of Connemara on the Wild Atlantic Way, Kylemore Abbey is a haven of history, beauty, and serenity. Originally built as a romantic Victorian castle by Mitchell Henry for his beloved wife Margaret between 1868-1871, this magnificent estate has been home to a Benedictine order of nuns for over 100 years. The Abbey welcomes visitors from around the world to embrace the magic of the 1,000-acre estate, which includes beautifully restored period rooms, a stunning neo-Gothic church, and one of Ireland's finest Victorian walled gardens.",
+    "history": "Mitchell Henry, a wealthy Manchester cotton merchant, first visited Connemara on his honeymoon in 1862 and was enchanted by the landscape. He purchased the Kylemore estate and built the castle (1868-1871) as a romantic gesture for his wife Margaret. Tragedy struck in 1874 when Margaret died suddenly in Egypt. Heartbroken, Mitchell built the neo-Gothic church (1877-1881) as a testament to his love. After Mitchell's death, the estate passed through the Duke of Manchester's ownership before being purchased by the Irish Benedictine Nuns in 1920, who had fled Ypres, Belgium during World War One.",
+    "significance": "Kylemore Abbey stands as Ireland's oldest Benedictine abbey and represents one of the most iconic landmarks on the Wild Atlantic Way. It is significant as a testament to Victorian innovation and romantic love, featuring advanced engineering and architecture. The restored Victorian walled garden is one of the last such gardens built in Ireland and serves as an important heritage site."
+  },
+
+  "location": {
+    "address": {
+      "street": "Kylemore",
+      "town": "Letterfrack",
+      "county": "County Galway",
+      "region": "Connemara",
+      "country": "Ireland",
+      "postcode": "H91 VR90"
+    },
+    "coordinates": {
+      "latitude": 53.561749,
+      "longitude": -9.889245
+    },
+    "directions": {
+      "general": "Located on the N59 between Clifden and Westport in Connemara. 80km from Galway City, 20km from Clifden, and 50km from Westport.",
+      "publicTransport": "Bus Eireann and Citylink operate regional bus services. Several day tour operators run Connemara tours from Galway City.",
+      "parking": "On-site parking available at the visitor center. Separate entrance for Victorian Walled Garden with shuttle bus service."
+    }
+  },
+
+  "contact": {
+    "phone": "+353 95 52001",
+    "email": "info@kylemoreabbey.com",
+    "website": "https://www.kylemoreabbey.com",
+    "bookingUrl": "https://kylemore.retailint-tickets.com/Home",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/KylemoreAbbeyandGarden",
+      "instagram": "https://www.instagram.com/kylemoreabbey/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "7 days per week",
+          "hours": "10:00 AM - 5:00 PM",
+          "lastAdmission": "4:00 PM"
+        }
+      ],
+      "specialClosures": ["November 19th", "December 24th", "December 25th", "December 26th"]
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "adult": 15.00,
+        "senior": 12.00,
+        "child": 8.00,
+        "family": 40.00
+      },
+      "notes": "Ticket includes access to Abbey rooms, Victorian Walled Garden, neo-Gothic Church, Mausoleum, woodland walks, and shuttle bus."
+    },
+
+    "tourOptions": [
+      {
+        "type": "Self-guided tour",
+        "duration": "3-4 hours",
+        "included": ["Abbey rooms", "Victorian Walled Garden", "neo-Gothic Church", "Mausoleum", "Woodland walks"],
+        "bookingRequired": false
+      }
+    ],
+
+    "averageVisitDuration": "3-4 hours for full estate experience",
+    "busyPeriods": ["Summer months (June-August)", "Weekend afternoons", "School holidays"],
+    "adviceForVisitors": "Arrive early to avoid crowds. Wear comfortable walking shoes. The neo-Gothic Church is a 5-minute walk from the main abbey. Allow time for both the abbey and the garden."
+  },
+
+  "features": {
+    "highlights": [
+      "Victorian Castle with 33 restored period rooms",
+      "6-acre Victorian Walled Garden with heritage plants",
+      "Neo-Gothic Church (1878-1881)",
+      "Mitchell and Margaret Henry Mausoleum",
+      "Working Benedictine Monastery (since 1920)",
+      "1,000-acre estate with mountain and lakeside setting"
+    ],
+
+    "facilities": [
+      "Visitor Center",
+      "The Kylemore Kitchen café",
+      "Gift shop",
+      "Shuttle bus",
+      "Free WiFi",
+      "Restrooms"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "accessibilityLevel": "Moderate",
+      "restrictions": [
+        "Only ground floor of Abbey accessible to wheelchairs",
+        "Some garden paths may be challenging"
+      ],
+      "accessibilityNotes": "Ground floor rooms accessible. Accessible shuttle bus available."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://www.kylemoreabbey.com/images/abbey.jpg",
+      "alt": "Kylemore Abbey",
+      "caption": "Kylemore Abbey in Connemara"
+    },
+    "gallery": []
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Connemara National Park",
+      "distance": "2 km",
+      "type": "national-park"
+    }
+  ],
+
+  "resources": {
+    "socialGuides": [],
+    "educationalResources": []
+  },
+
+  "tags": ["victorian-castle", "monastery", "connemara", "wild-atlantic-way"],
+  "suitableFor": ["families", "couples", "history-enthusiasts", "garden-lovers"],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true
+}

@@ -1,0 +1,216 @@
+{
+  "id": "ballinderry-park",
+  "name": "Ballinderry Park",
+  "tagline": "Permission to unwind amongst 700 years of history",
+  "type": "historic-house",
+  "categories": ["Historic House", "Georgian Architecture", "Bed & Breakfast", "Wedding Venue", "Heritage Site", "Event Venue"],
+  "era": "Georgian",
+  "dateBuilt": "c.1740",
+  "unescoWorldHeritageSite": false,
+  "managedBy": "Private ownership - Rowan and Laoise",
+
+  "description": {
+    "short": "Ballinderry Park is a beautifully restored Georgian house dating back to c.1740, offering luxurious accommodation, weddings, and events in the heart of East Galway, with over 700 years of documented history.",
+    "full": "Ballinderry Park is a small yet exquisitely proportioned Georgian house of c.1740, rising from the plains of East Galway like a Palladian dollhouse. This architectural gem represents the golden age of Irish country houses, with its symmetrical design, elegant proportions, and authentic 18th-century features carefully preserved through meticulous restoration. Originally connected to Kilconnell Friary, a Franciscan foundation of 1280, the property carries seven centuries of rich Irish history within its walls. The house passed through various hands including the Diocese of Clonfert and Henry Stanford before being leased to the Comyn family, who farmed the land and were closely involved with horses and hunting, eventually purchasing the freehold in 1871. After falling into dereliction in 1945, the house was rescued from ruin by George and Susie Gossip in 2000, who undertook a careful restoration that authentically preserved the hall, staircase, landings, and principal rooms with early 18th-century style paneling and chimneypieces. The house was purchased in 2024 by Rowan and Laoise, who are breathing new life into the property while honoring its remarkable heritage. Today, Ballinderry Park offers guests the perfect blend of heritage and modern elegance, whether you're seeking a luxurious stay, an unforgettable wedding, or a versatile event space. Surrounded by fine specimen trees including a large and remarkable London plane rarely found in parkland settings, the estate provides a tranquil escape where visitors can truly disconnect from the chaos of daily life and immerse themselves in Irish history, culture, and natural beauty.",
+    "history": "The story of Ballinderry Park spans over 700 years, beginning with its original connection to Kilconnell Friary, a Franciscan foundation established in 1280. The name 'Ballinderry' derives from the Irish 'Baile an Daoire,' meaning 'townland of the oak trees,' reflecting the ancient forest that once covered these lands. In the late 17th century, following the dissolution of monasteries, the land passed to the Diocese of Clonfert and was leased to Henry Stanford, who 'discovered' Catholic landowners in return for a portion of their sequestered estates. Stanford's tenancy was short-lived, and he soon leased the property to Lawrence Ward, a member of an ancient Irish family long resident in the locality. Ward's tenancy was inherited by his sister and passed to her son Nicholas Comyn, whose descendants would become the longest owners of Ballinderry. The current Georgian house was built around 1740, a perfectly proportioned Palladian-influenced structure that exemplifies the architectural refinement of the period. The Comyn family farmed this small property for generations, sandwiched between some of County Galway's largest estates, and were closely involved with horses and hunting. They purchased the freehold after the Church of Ireland was disestablished in 1871. An intriguing connection to Irish history came when Andrew Comyn married Mary, granddaughter of Daniel O'Connell 'The Liberator,' bringing a hint of revolutionary fervor to the estate. Andrew Nugent Comyn was appointed High Sheriff of County Galway in 1917. The family left Ballinderry after the death of their son in 1945, when the Land Commission subdivided the property and the house became derelict. For over fifty years, the house stood empty, gradually falling into disrepair - roof timbers rotted, plasterwork crumbled, and the once-proud Georgian residence faced the fate of many Irish country houses. In 2000, George and Susie Gossip purchased Ballinderry and began a meticulous restoration that would take five years before they could move in. They reversed Victorian changes to the facade and authentically restored the hall, staircase, and landings, while the principal rooms were paneled in early 18th-century style with period chimneypieces. The house was filled with their collection of furniture, pictures, porcelain, and objects, much of it passed down from Susie's ancestors, the Dillon family from nearby Clonbrock, so that it is, in effect, returning home. In 2024, Rowan and Laoise purchased the property with a vision to breathe new life into Ballinderry Park, documenting their restoration journey on their YouTube channel 'Call of the Curlew.' They are creating a space that gives busy people permission to unwind, offering luxurious stays, weddings, events, and community engagement while honoring the property's remarkable 700-year heritage.",
+    "significance": "Ballinderry Park holds exceptional significance as one of the most intact examples of provincial Georgian architecture remaining in western Ireland. As a remarkably well-preserved 18th-century country house, it offers invaluable insights into Georgian building techniques, design principles, and the social history of rural Ireland. The house demonstrates the widespread influence of Palladian principles beyond major urban centers, showing how classical design ideals were adapted to suit practical needs and local materials of rural estates. Its survival through centuries of political upheaval, economic hardship, and the 20th-century decline that claimed over 500 Irish country houses makes it an increasingly rare architectural treasure. The property's connection to Kilconnell Friary provides a tangible link to medieval Ireland and the Franciscan presence that shaped the region's spiritual and agricultural development for centuries. The Comyn family's stewardship through the tumultuous 19th century, including the Great Famine, and their connection to Daniel O'Connell through marriage, weaves the house into the broader narrative of Irish political and social history. The careful restoration undertaken by the Gossips, using traditional techniques and materials, serves as an exemplary model of heritage conservation and adaptive reuse. Today, Ballinderry Park functions as a living museum where guests can experience authentic Georgian architecture and Irish heritage while enjoying modern comforts, demonstrating how historic buildings can find meaningful purpose in contemporary society without sacrificing their cultural significance or architectural integrity."
+  },
+
+  "location": {
+    "address": {
+      "street": "Ballinderry Park, Kilconnell",
+      "town": "Ballinasloe",
+      "county": "County Galway",
+      "region": "West of Ireland",
+      "country": "Ireland",
+      "postcode": "H53 XP26"
+    },
+    "coordinates": {
+      "latitude": 53.328053,
+      "longitude": -8.224597
+    },
+    "directions": {
+      "general": "Ballinderry Park is located approximately 1 mile south of the village of Kilconnell, 7 miles west of Ballinasloe in East Galway. The village of Aughrim (site of the only battle of European significance fought on Irish soil) is about 3 miles to the south-east. Access is via a small lane with grass growing down the middle - there is no prominent signage, so GPS coordinates are recommended.",
+      "publicTransport": "The nearest major town with public transport connections is Ballinasloe, approximately 13km (15 minutes drive) from Ballinderry Park. Bus Éireann services connect Ballinasloe to Galway City and Dublin. From Ballinasloe, taxi services or car rental is recommended to reach Ballinderry Park.",
+      "parking": "Free on-site parking is available at Ballinderry Park for all guests and visitors."
+    }
+  },
+
+  "contact": {
+    "phone": "+353 90 96 86796",
+    "email": "hello@ballinderry.com",
+    "website": "https://ballinderrypark.com",
+    "bookingUrl": "https://ballinderrypark.guestybookings.com/en/properties",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/p/Ballinderry-Park-100071968344219/",
+      "instagram": "https://www.instagram.com/ballinderrypark/",
+      "twitter": "",
+      "youtube": "https://www.youtube.com/@CalloftheCurlew"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open",
+      "seasonal": [
+        {
+          "season": "April - September",
+          "days": "Daily (by arrangement)",
+          "hours": "Flexible - contact for specific times",
+          "lastAdmission": "Contact property for details"
+        },
+        {
+          "season": "October - March",
+          "days": "By arrangement only",
+          "hours": "Flexible - contact for specific times",
+          "lastAdmission": "Contact property for details"
+        }
+      ],
+      "specialClosures": []
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "adult": 0.00,
+        "senior": 0.00,
+        "child": 0.00,
+        "family": 0.00
+      },
+      "notes": "Admission prices vary based on service - accommodation rates, wedding packages, and event bookings are available upon request. Contact the property directly or visit the booking website for current pricing. Day visits and tours may be arranged by special appointment."
+    },
+
+    "tourOptions": [
+      {
+        "type": "Overnight Stay with Dinner",
+        "duration": "Flexible - overnight or multiple nights",
+        "included": ["Luxury accommodation in authentically restored Georgian rooms", "Access to estate grounds and gardens", "Optional dinner featuring fresh local ingredients"],
+        "bookingRequired": true
+      },
+      {
+        "type": "Educational Visits",
+        "duration": "Variable - by arrangement",
+        "included": ["Guided tour of the Georgian house", "History of the property and architecture", "Irish heritage and cultural insights"],
+        "bookingRequired": true
+      },
+      {
+        "type": "Wedding & Event Packages",
+        "duration": "Full day or multiple days",
+        "included": ["Exclusive use of historic venue", "Beautiful Georgian architecture and grounds", "Customizable packages for ceremonies and receptions"],
+        "bookingRequired": true
+      }
+    ],
+
+    "averageVisitDuration": "For overnight stays: 1-3 nights recommended. For day visits and tours: 2-3 hours. For weddings and events: Full day exclusive use.",
+    "busyPeriods": ["Wedding season (May-September)", "Summer months (July-August)", "Holiday periods (Christmas, Easter)", "Weekend breaks year-round"],
+    "adviceForVisitors": "Ballinderry Park is located in rural East Galway, so a car is highly recommended for access and exploring the surrounding area. The house is best experienced as an overnight stay to fully appreciate the Georgian atmosphere and peaceful countryside setting. Book well in advance for weddings and special events. The property offers a unique opportunity to experience authentic Irish country house living, so embrace the slower pace and historic ambiance. Suitable footwear is recommended for exploring the estate grounds. The nearby village of Kilconnell and town of Ballinasloe offer limited dining options, so guests may wish to arrange dinner at the property. Photography is welcome throughout the property. The current owners Rowan and Laoise are documenting their restoration journey on YouTube (@CalloftheCurlew), offering fascinating insights into the ongoing preservation work."
+  },
+
+  "features": {
+    "highlights": [
+      "Perfectly proportioned Georgian house of c.1740 with authentic Palladian architecture",
+      "Over 700 years of documented Irish history connected to Kilconnell Friary",
+      "Authentically restored 18th-century interiors with original staircase and period woodwork",
+      "Connection to Daniel O'Connell 'The Liberator' through the Comyn family",
+      "Rare London plane tree in parkland setting",
+      "Luxurious accommodation in individually designed period rooms",
+      "Stunning wedding and event venue with Georgian elegance",
+      "Peaceful rural setting in the heart of East Galway",
+      "Featured in Historic Houses of Ireland",
+      "Active restoration project documented on YouTube",
+      "Beautiful specimen trees and mature gardens",
+      "Original 18th-century architectural features including paneling and chimneypieces"
+    ],
+
+    "facilities": [
+      "Luxury guest accommodation",
+      "Private terraces with cedar hot tub",
+      "Drawing room with fireplace",
+      "Formal dining room",
+      "Library with family mementos",
+      "Multiple guest bedrooms (Yellow Room, Grey Room Suite, additional accommodations)",
+      "Period bathrooms with modern amenities",
+      "Coach House with kitchen/bar area and 4 bedrooms",
+      "Estate grounds and gardens",
+      "Event spaces for weddings and gatherings",
+      "Free on-site parking",
+      "Shared kitchen facilities",
+      "Picnic areas and outdoor spaces",
+      "Meeting and banquet facilities",
+      "Children's play area",
+      "Film location services available"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "accessibilityLevel": "Limited - Historic building with original features",
+      "restrictions": [
+        "Original Georgian staircases (not wheelchair accessible)",
+        "Period doorways and room layouts",
+        "Uneven ground on estate pathways",
+        "No elevator/lift access to upper floors",
+        "Historic building constraints limit modern accessibility modifications"
+      ],
+      "accessibilityNotes": "As an authentic Georgian house dating to 1740, Ballinderry Park retains its original architectural features including staircases, doorways, and room layouts, which limits accessibility modifications. The property is best suited for visitors with good mobility. Ground floor areas may be more accessible - please contact the property in advance to discuss specific accessibility needs and accommodations that may be available. The estate grounds offer easier access with some uneven terrain."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://ballinderrypark.com/wp-content/uploads/2025/05/assets_task_01jvyb1macerxvmamkeszs2342_1747996262_img_2.webp",
+      "alt": "Ballinderry Park Georgian House exterior",
+      "caption": "Ballinderry Park - A beautifully restored Georgian house of c.1740 in East Galway"
+    },
+    "gallery": [
+      {
+        "url": "https://ballinderrypark.com/wp-content/uploads/2025/05/assets_task_01jvyb6tc9efwrbjw6mrkt3z3h_1747996429_img_1.webp",
+        "alt": "Ballinderry Park Georgian house view",
+        "caption": "The elegant proportions of Ballinderry's Palladian architecture"
+      },
+      {
+        "url": "https://ballinderrypark.com/wp-content/uploads/2025/05/assets_task_01jvybvedhejq9e766ypyeke0k_1747997103_img_1.webp",
+        "alt": "Ballinderry Park event space",
+        "caption": "Historic event spaces perfect for weddings and gatherings"
+      },
+      {
+        "url": "https://ballinderrypark.com/wp-content/uploads/2025/05/assets_task_01jvybzjdpfqar5nk8212mbhpb_1747997244_img_1.webp",
+        "alt": "Ballinderry Park community space",
+        "caption": "Creating shared spaces where great food and nature bring people together"
+      },
+      {
+        "url": "https://ballinderrypark.com/wp-content/uploads/2025/02/The-Grey-Room-Suite-at-Ballinderry-House-scaled.jpg",
+        "alt": "The Grey Room Suite at Ballinderry Park",
+        "caption": "The Grey Room Suite - elegant period features with modern luxury"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Kilconnell Friary",
+      "distance": "1.6 km",
+      "type": "religious-site"
+    },
+    {
+      "name": "Clonfert Cathedral",
+      "distance": "13 km",
+      "type": "religious-site"
+    },
+    {
+      "name": "Portumna Castle and Gardens",
+      "distance": "24 km",
+      "type": "castle"
+    }
+  ],
+
+  "resources": {
+    "socialGuides": [],
+    "educationalResources": []
+  },
+
+  "tags": ["georgian-architecture", "historic-house", "bed-and-breakfast", "wedding-venue", "east-galway", "palladian", "heritage", "restoration"],
+  "suitableFor": ["couples", "history-enthusiasts", "architecture-lovers", "wedding-parties", "heritage-tourists"],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true
+}

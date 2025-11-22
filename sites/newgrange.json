@@ -1,0 +1,160 @@
+{
+  "id": "newgrange",
+  "name": "Newgrange",
+  "tagline": "Older than Stonehenge and the Pyramids",
+  "type": "passage-tomb",
+  "categories": ["prehistoric-monument", "passage-tomb", "unesco-world-heritage", "archaeological-site"],
+  "era": "Neolithic",
+  "dateBuilt": "c. 3200 BC",
+  "unescoWorldHeritageSite": true,
+  "managedBy": "Office of Public Works - Heritage Ireland",
+
+  "description": {
+    "short": "Built around 3200 BC, Newgrange is a 5,200-year-old passage tomb famous for its winter solstice illumination and spectacular prehistoric art.",
+    "full": "Newgrange, also known as Brú na Bóinne, is Ireland's most famous prehistoric monument and a UNESCO World Heritage Site. This massive passage tomb predates both Stonehenge and the Egyptian Pyramids by several centuries. Built around 3200 BC, the monument consists of a large circular mound covering an acre, with an inner stone passageway leading to a cruciform chamber. The tomb is most famous for its winter solstice phenomenon - for 17 minutes at dawn on the shortest days of the year (December 19-23), sunlight penetrates the roof-box and illuminates the inner chamber.",
+    "history": "Constructed over 5,200 years ago by Stone Age farmers, Newgrange required an estimated 200,000 tonnes of stone and earth. The builders demonstrated sophisticated knowledge of astronomy, engineering, and art. The monument fell into disuse and became covered by earth, appearing as a large mound. It was rediscovered in 1699 and excavated in the 1960s-70s under Professor M.J. O'Kelly, who discovered the winter solstice alignment.",
+    "significance": "Newgrange is one of the most important megalithic structures in Europe. Its winter solstice alignment demonstrates the astronomical knowledge of Neolithic people. The site contains the finest collection of megalithic art in Europe, including the famous triple spiral carvings. As a UNESCO World Heritage Site, it represents an outstanding example of prehistoric achievement."
+  },
+
+  "location": {
+    "address": {
+      "street": "Brú na Bóinne Visitor Centre",
+      "town": "Donore",
+      "county": "County Meath",
+      "region": "Ireland's Ancient East",
+      "country": "Ireland",
+      "postcode": "A92 EH5C"
+    },
+    "coordinates": {
+      "latitude": 53.6948,
+      "longitude": -6.4675
+    },
+    "directions": {
+      "general": "Located 8km west of Drogheda in County Meath. Access is only via the Brú na Bóinne Visitor Centre - you cannot drive directly to Newgrange.",
+      "publicTransport": "Bus Éireann operates services to Drogheda. From there, taxi or organized tour to the visitor center. Limited direct public transport to the site.",
+      "parking": "Free parking at Brú na Bóinne Visitor Centre. Shuttle bus provided to Newgrange monument."
+    }
+  },
+
+  "contact": {
+    "phone": "+353 41 988 0300",
+    "email": "brunaboinne@opw.ie",
+    "website": "https://heritageireland.ie/visit/places-to-visit/bru-na-boinne-newgrange/",
+    "bookingUrl": "https://brunaboinne.admit-one.eu/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/BrunaBoinneVisitorCentre",
+      "instagram": "https://www.instagram.com/heritageireland/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open",
+      "seasonal": [
+        {
+          "season": "Year-round",
+          "days": "Daily",
+          "hours": "Variable - check website",
+          "lastAdmission": "Check website for details"
+        }
+      ],
+      "specialClosures": ["December 24-27"]
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "adult": 10.00,
+        "senior": 8.00,
+        "child": 5.00,
+        "family": 25.00
+      },
+      "notes": "Pre-booking essential. Tickets very limited. Heritage Card holders receive free admission."
+    },
+
+    "tourOptions": [
+      {
+        "type": "Guided Tour of Newgrange",
+        "duration": "1.5 hours including shuttle bus",
+        "included": ["Visitor center exhibition", "Shuttle bus to monument", "Guided tour", "Chamber access"],
+        "bookingRequired": true
+      }
+    ],
+
+    "averageVisitDuration": "2-3 hours including visitor center and tour",
+    "busyPeriods": ["Summer months", "Winter solstice period", "Weekends", "School holidays"],
+    "adviceForVisitors": "Book well in advance - tickets sell out quickly. Visit the visitor center exhibition first. The passage into the chamber is narrow and low - not suitable for those with claustrophobia or mobility issues."
+  },
+
+  "features": {
+    "highlights": [
+      "5,200-year-old passage tomb - older than Stonehenge and the Pyramids",
+      "Winter solstice illumination phenomenon (December 19-23)",
+      "Europe's finest megalithic art including triple spiral carvings",
+      "97 decorated kerbstones",
+      "UNESCO World Heritage Site",
+      "Sophisticated astronomical alignment",
+      "Cruciform burial chamber"
+    ],
+
+    "facilities": [
+      "State-of-the-art visitor center",
+      "Exhibition spaces",
+      "Café",
+      "Gift shop",
+      "Toilets",
+      "Free parking",
+      "Shuttle bus to monument"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "accessibilityLevel": "Limited",
+      "restrictions": [
+        "Visitor center fully accessible",
+        "Monument interior not wheelchair accessible",
+        "Narrow, low passage into chamber",
+        "Not suitable for claustrophobia sufferers"
+      ],
+      "accessibilityNotes": "The visitor center is fully wheelchair accessible. However, the passage tomb interior requires navigating a narrow, low passage and is not accessible to wheelchair users."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2020/03/Newgrange-Entrance-Stone.jpg",
+      "alt": "Newgrange entrance stone with spiral carvings",
+      "caption": "The famous entrance stone at Newgrange with megalithic art"
+    },
+    "gallery": []
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Knowth",
+      "distance": "2 km",
+      "type": "passage-tomb"
+    },
+    {
+      "name": "Dowth",
+      "distance": "3 km",
+      "type": "passage-tomb"
+    },
+    {
+      "name": "Hill of Tara",
+      "distance": "15 km",
+      "type": "prehistoric-monument"
+    }
+  ],
+
+  "resources": {
+    "socialGuides": [],
+    "educationalResources": []
+  },
+
+  "tags": ["unesco-world-heritage", "neolithic", "passage-tomb", "winter-solstice", "megalithic-art", "prehistoric", "astronomy"],
+  "suitableFor": ["history-enthusiasts", "archaeology-fans", "photographers", "school-groups", "international-visitors"],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true
+}
