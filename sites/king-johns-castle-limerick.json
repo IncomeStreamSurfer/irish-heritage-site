@@ -245,38 +245,8 @@
   ],
 
   "resources": {
-    "educationalResources": [
-      {
-        "name": "Primary School Tours Programme",
-        "description": "Curriculum-linked educational tours for primary schools",
-        "url": "https://kingjohnscastle.ie/en_us/primary-school-tours-2/"
-      },
-      {
-        "name": "Secondary School Tours Programme",
-        "description": "Historical education programmes for secondary students",
-        "url": "https://kingjohnscastle.ie/en_us/secondary-school-tours-2/"
-      },
-      {
-        "name": "Teachers Resources",
-        "description": "Downloadable educational materials for teachers",
-        "url": "https://kingjohnscastle.ie/en_us/teachers-resources-2/"
-      }
-    ],
-    "visitorsGuides": [
-      {
-        "language": "English",
-        "format": "Interactive digital displays throughout castle"
-      },
-      {
-        "language": "Irish",
-        "format": "Available on request"
-      }
-    ],
-    "languageResources": {
-      "available": true,
-      "url": "https://kingjohnscastle.ie/en_us/language-resources/",
-      "note": "Multi-language support available"
-    }
+    "educationalResources": [],
+    "socialGuides": []
   },
 
   "specialExperiences": {
