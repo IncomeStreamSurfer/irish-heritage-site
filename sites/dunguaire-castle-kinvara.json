@@ -1,0 +1,264 @@
+{
+  "id": "dunguaire-castle-kinvara",
+  "name": "Dunguaire Castle",
+  "tagline": "Restored 16th century tower house on the shores of Galway Bay",
+  "type": "castle",
+  "categories": ["castle", "tower-house", "medieval-banquet", "literary-heritage", "coastal-landmark"],
+  "era": "medieval-early-modern",
+  "dateBuilt": "1520",
+  "unescoWorldHeritageSite": false,
+  "managedBy": "Shannon Heritage",
+
+  "description": {
+    "short": "Dunguaire Castle is a beautifully restored 16th century tower house perched on a rocky outcrop on the shores of Galway Bay, just outside the picturesque village of Kinvara.",
+    "full": "Built in 1520 by the O'Hynes clan, Dunguaire Castle stands as one of Ireland's most photographed castles on the southeastern shore of Galway Bay. This restored 16th century tower house sits on a rocky outcrop near the village of Kinvara, its simple yet magnificent architecture creating perfect reflections in the tidal waters below. The castle's history is deeply intertwined with Ireland's literary revival in the early 20th century, when it became a meeting place for luminaries such as W.B. Yeats, George Bernard Shaw, Lady Gregory, and J.M. Synge. From April to October, visitors can enjoy traditional Irish medieval banquets featuring locally sourced food and entertainment rooted in the Celtic Bardic tradition. The castle is located along the Wild Atlantic Way, making it an iconic stop for travelers exploring Ireland's stunning western coastline.",
+    "history": "The site where Dunguaire Castle stands was originally the location of the 6th century royal palace of King Guaire Aidhne, the legendary King of Connacht. The current tower house was built in 1520 by the O'Hynes clan on the picturesque shores of Galway Bay. In the early 17th century, the castle passed into the hands of the Martyn family of Galway. Richard Martyn, Mayor of Galway, lived here until 1642, and the Martyns of Tulira Castle owned the castle until the 20th century. In 1924, Dunguaire was purchased and repaired by Oliver St. John Gogarty, a famous surgeon and literary figure, marking the beginning of its association with Ireland's Celtic literary revival. During this period, the castle became a gathering place for some of Ireland's most celebrated writers including W.B. Yeats, George Bernard Shaw, Edward Martyn, and J.M. Synge. Yeats believed strongly in the Celtic Bardic Tradition and worked to revive ancient oral customs, incorporating them into his plays and poetry. In 1954, the castle was acquired by Christobel Lady Ampthill, who completed the restoration work started by Gogarty. Subsequently, the castle became the property of Shannon Heritage, which operates it today as a visitor attraction and medieval banquet venue.",
+    "significance": "One of Ireland's most photographed castles, Dunguaire represents the confluence of medieval Irish architecture and 20th century literary heritage. The castle played a central role in Ireland's Celtic revival movement and the bardic tradition championed by W.B. Yeats. Its stunning location on Galway Bay makes it an iconic landmark along the Wild Atlantic Way."
+  },
+
+  "location": {
+    "address": {
+      "street": "N67",
+      "town": "Kinvara",
+      "county": "Galway",
+      "region": "West - Wild Atlantic Way",
+      "country": "Ireland",
+      "postcode": ""
+    },
+    "coordinates": {
+      "latitude": 53.1430,
+      "longitude": -8.9390
+    },
+    "directions": {
+      "general": "Located on the N67 just south of Kinvara village (approximately 300 yards), on the southeastern shore of Galway Bay",
+      "byCar": "Kinvara is accessible via the N67 from Galway (30 minutes, 40km). The castle is well signposted along the Wild Atlantic Way. Roadside parking available near the castle",
+      "byBus": "Bus Éireann route 350 connects Galway to Kinvara. From Kinvara village, the castle is a 10-minute walk (300 yards)",
+      "byTrain": "The nearest train station is Galway (approximately 40km away). From Galway, take Bus Éireann route 350 to Kinvara",
+      "parking": "Small roadside parking area available near the castle for cars. Coach parking can be arranged for tour groups"
+    }
+  },
+
+  "contact": {
+    "phone": "+353 61 711222",
+    "email": "",
+    "website": "https://www.dunguairecastle.com",
+    "bookingUrl": "https://www.dunguairecastle.com/book-tickets/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/Dunguaire-Castle-298415520829206/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Temporarily Closed - Please check website for current status",
+      "seasonal": [
+        {
+          "season": "Summer Season (April - mid September)",
+          "days": "7 days a week",
+          "hours": "10:00 - 17:00",
+          "lastAdmission": "16:30"
+        }
+      ],
+      "specialClosures": ["Check website for current status and seasonal closures. Castle typically operates April to mid-September"]
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "adult": 7.20,
+        "senior": 6.00,
+        "student": 6.00,
+        "child": 5.00,
+        "family": 20.00
+      },
+      "notes": "Prices may vary. Medieval banquets are separately priced. School tours from €3 per student. Advance booking recommended, especially for banquets"
+    },
+
+    "tourOptions": [
+      {
+        "type": "Self-Guided Castle Tour",
+        "duration": "30-45 minutes",
+        "included": ["Access to tower house rooms", "Views from castle top over Galway Bay", "Historical interpretation displays", "Exploration of castle courtyard"],
+        "bookingRequired": true,
+        "notes": "Admission included in standard ticket price. Views from the top of the castle are spectacular on clear days"
+      },
+      {
+        "type": "Medieval Banquet",
+        "duration": "2.5-3 hours",
+        "included": ["Four-course dinner with locally sourced food", "Fine wines", "Celtic Bardic entertainment", "Traditional Irish music and storytelling", "Excerpts from Irish literary works"],
+        "bookingRequired": true,
+        "notes": "Available April to October. Held in the tradition of medieval King Guaire. Must be pre-booked. Separate pricing from castle admission"
+      },
+      {
+        "type": "School Tours Programme",
+        "duration": "1-1.5 hours",
+        "included": ["Guided tour of medieval castle", "Stories of past inhabitants", "Irish history from medieval to literary revival periods", "Educational materials about sieges and warring clans"],
+        "bookingRequired": true,
+        "notes": "Prices start at €3 per student. Curriculum-linked educational content available"
+      }
+    ],
+
+    "averageVisitDuration": "30-45 minutes for castle tour (2.5-3 hours for medieval banquet)",
+    "busyPeriods": ["Summer months (June-August)", "Weekends", "Bank holidays", "Tour bus schedule times"],
+    "adviceForVisitors": "Book tickets and especially medieval banquets well in advance. The castle is particularly photogenic during golden hour and at sunset when reflections appear in Galway Bay. Best visited on clear days for spectacular views from the top. Combine your visit with exploring the charming village of Kinvara. The castle is only 300 yards from Kinvara village center. Wear appropriate footwear for climbing steep medieval stairs to reach the top of the tower."
+  },
+
+  "features": {
+    "highlights": [
+      "Beautifully restored 16th century tower house",
+      "Stunning location on rocky outcrop on Galway Bay shores",
+      "Perfect reflections in tidal waters - one of Ireland's most photographed castles",
+      "Views from castle top across Galway Bay",
+      "Association with 6th century King Guaire Aidhne of Connacht",
+      "Connection to Ireland's Celtic literary revival",
+      "Meeting place of W.B. Yeats, George Bernard Shaw, Lady Gregory, and J.M. Synge",
+      "Traditional medieval banquets with Celtic Bardic entertainment",
+      "Simple yet magnificent medieval architecture",
+      "Located on the Wild Atlantic Way scenic route",
+      "Proximity to picturesque Kinvara village",
+      "Stone courtyard and castle walls",
+      "Historical interpretation of medieval life",
+      "Literary heritage displays"
+    ],
+
+    "facilities": [
+      "Visitor reception area",
+      "Medieval banquet hall",
+      "Parking area",
+      "Interpretive displays",
+      "Views from castle top",
+      "Stone courtyard",
+      "Nearby village facilities in Kinvara (cafés, pubs, shops)"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": "No",
+      "accessibilityLevel": "Not accessible - Medieval tower house with steep stairs",
+      "restrictions": [
+        "Castle accessed via steep medieval spiral staircases",
+        "No elevator or ramp access",
+        "Multiple narrow stairs to reach upper levels and castle top",
+        "Not suitable for visitors with mobility issues",
+        "Ground level viewing only for wheelchair users"
+      ],
+      "accessibilityNotes": "Due to the authentic medieval nature of the tower house, the castle is not wheelchair accessible. Access to upper levels and the castle top requires climbing steep, narrow spiral staircases typical of 16th century construction. The castle can be viewed and photographed from the exterior and roadside. Please contact in advance to discuss accessibility options."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://www.dunguairecastle.com/App_Themes/dunguaire/img/layout/castle-hero.jpg",
+      "alt": "Dunguaire Castle tower house on the shores of Galway Bay at sunset",
+      "caption": "Dunguaire Castle - Ireland's most photographed castle on Galway Bay"
+    },
+    "gallery": [
+      {
+        "url": "https://images.locationscout.net/2021/06/dunguaire-castle-ireland.jpg",
+        "alt": "Dunguaire Castle reflected in the calm waters of Galway Bay",
+        "caption": "Perfect reflections during calm tidal conditions"
+      },
+      {
+        "url": "https://www.historyhit.com/app/uploads/2021/04/dunguaire-castle.jpg",
+        "alt": "Aerial view of Dunguaire Castle on rocky outcrop",
+        "caption": "16th century tower house on the southeastern shore of Galway Bay"
+      },
+      {
+        "url": "https://www.galwaytourism.ie/wp-content/uploads/dunguaire-castle-kinvara.jpg",
+        "alt": "Dunguaire Castle with Galway Bay in background",
+        "caption": "Simple yet magnificent medieval architecture on the Wild Atlantic Way"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Kinvara Village",
+      "distance": "0.3 km",
+      "type": "village"
+    },
+    {
+      "name": "The Burren",
+      "distance": "15 km",
+      "type": "natural-landscape"
+    },
+    {
+      "name": "Ailwee Cave",
+      "distance": "20 km",
+      "type": "cave"
+    },
+    {
+      "name": "Galway City",
+      "distance": "30 km",
+      "type": "city"
+    },
+    {
+      "name": "Cliffs of Moher",
+      "distance": "45 km",
+      "type": "natural-landmark"
+    },
+    {
+      "name": "Doorus Peninsula",
+      "distance": "5 km",
+      "type": "coastal-area"
+    },
+    {
+      "name": "Thoor Ballylee (Yeats Tower)",
+      "distance": "15 km",
+      "type": "historic-building"
+    },
+    {
+      "name": "Coole Park",
+      "distance": "18 km",
+      "type": "historic-park"
+    }
+  ],
+
+  "resources": {
+    "educationalResources": [],
+    "socialGuides": []
+  },
+
+  "specialExperiences": {
+    "medievalBanquet": {
+      "available": true,
+      "description": "In the tradition of the medieval King Guaire, guests are welcomed to savour a delicious four-course dinner featuring locally sourced food, fine wines, stories, and excerpts from Irish literature selected to lift the soul and lighten the heart. Entertainment rooted in the Celtic Bardic Tradition.",
+      "season": "April to October",
+      "notes": "Pre-booking essential. Separate pricing from castle admission. One of Ireland's most authentic medieval banquet experiences"
+    },
+    "literaryHeritage": {
+      "available": true,
+      "description": "The castle served as a meeting place for Ireland's literary revival figures including W.B. Yeats, George Bernard Shaw, Lady Gregory, Edward Martyn, and J.M. Synge during the early 20th century",
+      "notes": "W.B. Yeats championed the Celtic Bardic Tradition here, reviving ancient oral customs and incorporating them into plays and poetry"
+    }
+  },
+
+  "historicalSignificance": {
+    "earlyMedieval": "The site originally held the 6th century royal palace of King Guaire Aidhne, the legendary King of Connacht, from whom the castle derives its name (Dún Guaire - Fort of Guaire).",
+    "16thCentury": "Built in 1520 by the O'Hynes clan as a tower house fortification on the strategic shores of Galway Bay.",
+    "17thCentury": "Passed to the Martyn family of Galway. Richard Martyn, Mayor of Galway, resided here until 1642. The Martyns of Tulira Castle owned it for centuries.",
+    "20thCenturyLiteraryRevival": "Purchased in 1924 by Oliver St. John Gogarty, famous surgeon and literary figure. Became the gathering place for Ireland's Celtic literary revival movement, hosting W.B. Yeats, George Bernard Shaw, Lady Gregory, Edward Martyn, and J.M. Synge.",
+    "restoration": "In 1954, acquired by Christobel Lady Ampthill who completed restoration work. Later passed to Shannon Heritage, which operates it as a heritage attraction and medieval banquet venue.",
+    "modernEra": "Now one of Ireland's most photographed castles and an iconic stop along the Wild Atlantic Way."
+  },
+
+  "tags": ["castle", "tower-house", "medieval", "16th-century", "galway-bay", "kinvara", "wild-atlantic-way", "literary-heritage", "yeats", "george-bernard-shaw", "celtic-revival", "medieval-banquet", "coastal-castle", "photographable", "shannon-heritage"],
+  "suitableFor": ["history-enthusiasts", "photographers", "literature-lovers", "tourists", "couples", "castle-enthusiasts", "wild-atlantic-way-travelers", "cultural-visitors", "banquet-diners"],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "uniqueFeatures": [
+    "One of Ireland's most photographed castles",
+    "Stunning reflections in Galway Bay tidal waters",
+    "Associated with 6th century King Guaire Aidhne of Connacht",
+    "Central to Ireland's 20th century Celtic literary revival",
+    "Meeting place of W.B. Yeats, George Bernard Shaw, and other literary luminaries",
+    "Authentic medieval banquets with Celtic Bardic entertainment",
+    "Iconic Wild Atlantic Way landmark",
+    "Simple yet magnificent 16th century tower house architecture",
+    "Rocky outcrop location on Galway Bay shores",
+    "Just 300 yards from charming Kinvara village",
+    "Restored by Oliver St. John Gogarty in 1924",
+    "Spectacular views from castle top across Galway Bay"
+  ]
+}

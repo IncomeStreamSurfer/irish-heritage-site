@@ -1,0 +1,373 @@
+{
+  "id": "malahide-castle",
+  "name": "Malahide Castle",
+  "tagline": "800 years of Irish history in the heart of County Dublin",
+  "type": "castle",
+  "categories": ["castle", "historic-house", "botanical-gardens", "family-attraction", "heritage-site"],
+  "era": "medieval-georgian",
+  "dateBuilt": "1185",
+  "unescoWorldHeritageSite": false,
+  "managedBy": "Fingal County Council - Shannon Heritage",
+
+  "description": {
+    "short": "Step back in time and explore the magnificent Malahide Castle, home to the Talbot family for over 800 years. Discover opulent state rooms, exquisite art collections, botanical wonders, and fascinating tales of the past.",
+    "full": "Malahide Castle is one of Ireland's most iconic landmarks and oldest inhabited castles, with a dramatic 800-year heritage. Located just 14 km north of Dublin city centre, the castle was home to the Talbot family from 1185 until 1975, making it one of the longest continuous occupancies of any Irish castle. The magnificent medieval fortress was continually expanded and embellished over the centuries, featuring everything from 12th-century tower houses to Georgian drawing rooms and Edwardian bedrooms. Today, visitors can explore the castle's opulent state rooms, admire one of Ireland's most important collections of Jacobite portraits, and wander through the breathtaking 260-acre demesne featuring botanical gardens, a butterfly house, and enchanting fairy trail. The castle showcases exceptional Irish craftsmanship across multiple eras, from Flemish 17th-century carvings in the Oak Room to the spectacular Great Hall dating from 1475, making it a rare example of a Gaelic feasting room.",
+    "history": "In 1185, King Henry II granted Richard Talbot, a Norman knight who had served him during the invasion of Ireland in 1174, the lands and harbour of Malahide. Richard built the earliest stone fortress, an Anglo-Norman tower house, which the Talbot family continuously expanded over the next eight centuries. The Talbots held many roles of power in church and state, becoming Hereditary Lords Admiral of Malahide when the port was historically booming. Their tenure was broken only once, between 1649 and 1660, when Cromwellian soldiers seized their lands and the castle was occupied by Miles Corbet, a regicide and Lord Chief Baron of Ireland. Following the restoration of King Charles II, the castle was returned to the Talbots, with Lady Talbot ordering the castle's defenses be stripped to make it less attractive to future invaders. The Great Hall was extensively remodeled in 1825 in neo-gothic revival style by the 2nd Baron Talbot. The drawing rooms were redecorated in 1833 in the distinctive 'Malahide Orange' colour after Margaret Talbot (née O'Reilly) was created Baroness Talbot of Malahide. The 7th Baron Talbot, Milo, died suddenly in 1973, and his sister Rose was forced to sell the castle and lands to meet substantial death duties. Fingal County Council acquired Malahide Castle, Gardens and Demesne in 1976 and opened it to the public shortly after.",
+    "significance": "One of Ireland's oldest inhabited castles with 800 years of continuous occupation by a single family (with one 11-year exception). Features one of the most important collections of Jacobite portraits in Ireland displayed in their original setting, and showcases exceptional Irish craftsmanship from medieval times through to the Edwardian era. The castle and its 260-acre demesne represent one of few surviving examples of 18th-century landscaped parks in Ireland."
+  },
+
+  "location": {
+    "address": {
+      "street": "Back Road, Malahide Demesne",
+      "town": "Malahide",
+      "county": "Dublin",
+      "region": "East Coast - Dublin Bay",
+      "country": "Ireland",
+      "postcode": "K36 YP65"
+    },
+    "coordinates": {
+      "latitude": 53.4458,
+      "longitude": -6.1639
+    },
+    "directions": {
+      "general": "Located in Malahide village, 14 km north of Dublin city centre and 10 minutes from Dublin Airport",
+      "byCar": "25-minute drive from Dublin city centre via M1/M50. Free parking available on-site with 7 coach bays for group tours. Accessible from Belfast (2 hours) via M1",
+      "byBus": "Dublin Bus routes 32 and 42 connect Dublin city center with Malahide village. Route 102 provides direct service from Dublin Airport to Malahide. Castle is approximately 10-minute walk from village",
+      "byTrain": "DART (Dublin Area Rapid Transit) serves Malahide from multiple city centre stations. Malahide Railway Station is a 10-minute walk from the castle. Journey time approximately 30-35 minutes from Dublin city centre",
+      "parking": "Ample free car parking on-site. 7 designated coach bays available for group tours. Designated disabled parking spaces available"
+    }
+  },
+
+  "contact": {
+    "phone": "+353 1 816 9538",
+    "email": "reservations@malahidecastleandgardens.ie",
+    "website": "https://malahidecastleandgardens.ie",
+    "bookingUrl": "https://bookings.malahidecastleandgardens.ie/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/MalahideCastleAndGardens/",
+      "instagram": "https://www.instagram.com/malahide_castle/",
+      "tiktok": "https://www.tiktok.com/@malahide_castle"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open daily year round",
+      "seasonal": [
+        {
+          "season": "Year Round",
+          "days": "Daily",
+          "hours": "09:30 - 17:30",
+          "lastAdmission": "16:30"
+        }
+      ],
+      "specialClosures": ["Check website for special event closures and Christmas period variations"]
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "castleTourAdult": 14.50,
+        "castleTourChild": 7.00,
+        "castleTourSeniorStudent": 9.50,
+        "castleTourFamily2Plus3": 42.00,
+        "fairyTrailAdult": 10.00,
+        "fairyTrailChild": 8.00,
+        "fairyTrailSeniorStudent": 9.50,
+        "fairyTrailFamily2Plus3": 34.00,
+        "fairyTrailChild0to3": 0.00
+      },
+      "notes": "Castle tour is approximately 40 minutes and includes entry to Walled Garden. Fairy Trail ticket includes Walled Garden and Butterfly House. Advance booking recommended. Family tickets offer significant savings. Children 0-3 years free. Annual membership passes available for unlimited access to Malahide Castle, Casino Model Railway Museum, and Newbridge House & Farm"
+    },
+
+    "tourOptions": [
+      {
+        "type": "Classic Guided Castle Tour",
+        "duration": "40 minutes",
+        "included": ["Guided tour of castle state rooms", "Great Hall with Jacobite portraits", "Oak Room with Flemish carvings", "Georgian drawing rooms", "Edwardian bedrooms", "Access to Walled Garden and Botanical Gardens"],
+        "bookingRequired": true,
+        "notes": "Expert guides provide fascinating insights into 800 years of Talbot family history and castle architecture"
+      },
+      {
+        "type": "Fairy Trail & Butterfly House",
+        "duration": "1-2 hours",
+        "included": ["1.8km enchanted woodland trail", "Hidden fairy houses and sculptures", "Walled Garden access", "Ireland's only exotic Butterfly House", "Victorian conservatory"],
+        "bookingRequired": true,
+        "notes": "Perfect for families with young children. Booklet with clues and questions available. Last entry 30 minutes before closing"
+      },
+      {
+        "type": "Castle & Casino Railway Combo",
+        "duration": "Half day",
+        "included": ["Malahide Castle guided tour", "Casino Model Railway Museum tour", "Access to gardens"],
+        "bookingRequired": true,
+        "notes": "Combines two attractions for a full heritage experience"
+      },
+      {
+        "type": "The Whiskey Connoisseur Evening",
+        "duration": "Evening experience",
+        "included": ["Exclusive evening guided tour", "Beautifully decorated castle", "Whiskey pairing experience", "Festive seasonal offerings"],
+        "bookingRequired": true,
+        "notes": "Special premium experience combining history, whiskey, and luxury. Check website for seasonal availability"
+      }
+    ],
+
+    "averageVisitDuration": "2-3 hours minimum recommended (half day to fully explore all attractions)",
+    "busyPeriods": ["Summer months (June-August)", "School holidays", "Weekends", "Public holidays", "Concert event days"],
+    "adviceForVisitors": "Book tickets online in advance to guarantee entry. Allow minimum 2-3 hours to explore castle, gardens, butterfly house and fairy trail. Wear comfortable walking shoes for extensive grounds. The grounds are free to access for walks and picnics. Avoca café and restaurant available on-site. Perfect for combining with a visit to nearby Malahide village and beach. Accessible by DART making it an easy day trip from Dublin."
+  },
+
+  "features": {
+    "highlights": [
+      "800 years of continuous Talbot family occupation (1185-1975)",
+      "One of Ireland's oldest inhabited castles",
+      "Magnificent Great Hall dating from 1475 - rare example of Gaelic feasting room",
+      "Important collection of Jacobite portraits displayed in original setting",
+      "Flemish 17th-century carvings in the Oak Room",
+      "Georgian drawing rooms in distinctive 'Malahide Orange'",
+      "Edwardian bedrooms preserving period authenticity",
+      "260-acre demesne with 18th-century landscaped parkland",
+      "Talbot Botanic Gardens featuring plants from southern hemisphere",
+      "Ireland's only exotic Butterfly House with tropical species",
+      "Enchanting 1.8km Fairy Trail through woodland",
+      "Walled Garden spanning 1.6 hectares",
+      "Seven glasshouses including Victorian conservatory",
+      "Free access to extensive parkland and walking trails",
+      "Sports facilities including cricket pitch and golf courses",
+      "Children's playground",
+      "Avoca store, café and restaurant",
+      "Venue for major outdoor concerts featuring international artists",
+      "Casino Model Railway Museum nearby"
+    ],
+
+    "facilities": [
+      "Visitor Centre",
+      "Guided Tours",
+      "Avoca Café and Restaurant",
+      "Avoca Gift Shop selling Irish crafts and food",
+      "Free WiFi",
+      "Toilets",
+      "Baby Changing Facilities",
+      "Wheelchair Accessible Toilets",
+      "Free Parking (car and coach)",
+      "Coach Bays (7 designated spaces)",
+      "Disabled Parking Spaces",
+      "Children's Playground",
+      "Picnic Areas throughout grounds",
+      "Educational Resources for schools",
+      "Event Venue spaces (Great Hall, Nugent's Hall, Marquee)",
+      "Cricket pitch",
+      "9-hole par-3 golf course",
+      "18-hole pitch-and-putt course",
+      "Tennis courts",
+      "Boules area",
+      "Sports pavilion with café",
+      "Bike racks for sustainable travel",
+      "Card Payments Accepted"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "accessibilityLevel": "Mixed - Majority of castle and all gardens accessible, some historic areas have limitations",
+      "restrictions": [
+        "Some historic castle areas may have steps or narrow passages",
+        "Uneven medieval surfaces in some interior spaces",
+        "Not all upper floors accessible by elevator",
+        "Assistance dogs welcome throughout"
+      ],
+      "accessibilityNotes": "Malahide Castle and Gardens is committed to providing an inclusive experience for all visitors. Wheelchair-accessible routes available throughout most of castle and all gardens, including ramps and elevators. Ground floor exhibition areas fully accessible. Visitor centre, café, shop, and toilets all accessible. Assistive devices such as wheelchairs and hearing aids available upon request. Accessible parking with designated spaces. Tailored tours can accommodate visitors with disabilities or specific interests. Sensory-friendly experiences available. For detailed accessibility information or specific concerns, contact reservations team in advance: reservations@malahidecastleandgardens.ie"
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2020/07/Malahide-Castle-aerial-view.jpg",
+      "alt": "Aerial view of Malahide Castle surrounded by lush green parkland with multiple towers and extensive grounds",
+      "caption": "Malahide Castle - 800 years of Irish heritage in County Dublin"
+    },
+    "gallery": [
+      {
+        "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2022/01/great-hall-malahide.jpg",
+        "alt": "The Great Hall at Malahide Castle featuring long dining table, chandelier, and Jacobite portrait collection",
+        "caption": "The Great Hall - a rare example of a Gaelic feasting room dating from 1475"
+      },
+      {
+        "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2022/01/oak-room-interior.jpg",
+        "alt": "Ornate Oak Room with Flemish 17th-century wood carvings and period furniture",
+        "caption": "The Oak Room featuring exquisite Flemish 17th-century carvings"
+      },
+      {
+        "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2022/01/georgian-drawing-room.jpg",
+        "alt": "Georgian drawing room in distinctive Malahide Orange with period furnishings",
+        "caption": "Georgian drawing room in the idiosyncratic 'Malahide Orange' colour"
+      },
+      {
+        "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2022/01/walled-garden.jpg",
+        "alt": "Lush Talbot Botanic Gardens with winding paths and diverse plant collections",
+        "caption": "The Talbot Botanic Gardens featuring rare plants from around the world"
+      },
+      {
+        "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2022/01/butterfly-house.jpg",
+        "alt": "Tropical Butterfly House interior with exotic butterflies and lush plants",
+        "caption": "Ireland's only exotic Butterfly House - home to hundreds of tropical species"
+      },
+      {
+        "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2022/01/fairy-trail.jpg",
+        "alt": "Enchanted Fairy Trail with miniature fairy houses nestled among trees",
+        "caption": "The magical Fairy Trail - perfect for families with young children"
+      },
+      {
+        "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2022/01/castle-exterior-grounds.jpg",
+        "alt": "Malahide Castle exterior showing stone towers and turrets with manicured lawns",
+        "caption": "The castle's impressive exterior within 260 acres of parkland"
+      },
+      {
+        "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2022/01/victorian-conservatory.jpg",
+        "alt": "Victorian conservatory greenhouse filled with exotic plants",
+        "caption": "Victorian conservatory - one of seven glasshouses in the botanical gardens"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Malahide Village",
+      "distance": "1.0 km",
+      "type": "village"
+    },
+    {
+      "name": "Malahide Beach",
+      "distance": "2.5 km",
+      "type": "beach"
+    },
+    {
+      "name": "Casino Model Railway Museum",
+      "distance": "0.5 km",
+      "type": "museum"
+    },
+    {
+      "name": "Newbridge House & Farm",
+      "distance": "8 km",
+      "type": "historic-house"
+    },
+    {
+      "name": "Howth",
+      "distance": "12 km",
+      "type": "coastal-village"
+    },
+    {
+      "name": "Dublin City Centre",
+      "distance": "14 km",
+      "type": "city"
+    },
+    {
+      "name": "Portmarnock Beach",
+      "distance": "4 km",
+      "type": "beach"
+    },
+    {
+      "name": "Dublin Airport",
+      "distance": "6 km",
+      "type": "airport"
+    }
+  ],
+
+  "resources": {
+    "educationalResources": [],
+    "socialGuides": []
+  },
+
+  "specialExperiences": {
+    "butterflyHouse": {
+      "available": true,
+      "description": "Ireland's only exotic Butterfly House featuring hundreds of butterflies from around the world in a tropical paradise setting within the Victorian conservatory",
+      "species": "Approximately 20 varieties of exotic Lepidoptera",
+      "notes": "Visitors can observe all life cycle stages from chrysalis to butterfly. Educational leaflets available for species identification"
+    },
+    "fairyTrail": {
+      "available": true,
+      "description": "Enchanting 1.8km woodland trail featuring hidden fairy houses, whimsical sculptures, and magical surprises perfect for families",
+      "notes": "Interactive booklet with clues and questions available. Consistently rated as one of Ireland's best fairy trails"
+    },
+    "concerts": {
+      "available": true,
+      "description": "The castle grounds host major outdoor concerts with capacity for 20,000+ people",
+      "pastArtists": ["Arctic Monkeys", "Pink", "Radiohead", "Neil Young", "Prince", "Eric Clapton", "The Killers", "Depeche Mode", "Arcade Fire", "LCD Soundsystem", "Mumford & Sons", "The Cure", "Florence and the Machine", "Hozier"],
+      "notes": "One of Ireland's premier concert venues for international touring artists"
+    },
+    "botanicalGardens": {
+      "available": true,
+      "description": "The Talbot Botanic Gardens showcase the plant-collecting passion of the 7th Lord Talbot in the mid-20th century, featuring plants from Chile, Australia and around the world",
+      "features": ["Walled garden (1.6 hectares)", "Seven glasshouses", "Victorian conservatory", "Rare and exotic species", "Southern hemisphere plants"],
+      "notes": "Free to access with castle admission or Fairy Trail ticket"
+    },
+    "venueHire": {
+      "available": true,
+      "description": "The Great Hall and other castle spaces available for private banquets, corporate events, and special occasions",
+      "spaces": ["The Great Hall", "Nugent's Hall", "Private rooms", "Marquee events on grounds"],
+      "notes": "Famously Gothic Great Hall creates unforgettable atmosphere for events"
+    }
+  },
+
+  "historicalSignificance": {
+    "normanEra": "Built 1185 when Richard Talbot received lands from King Henry II after accompanying him to Ireland in 1174. Earliest stone fortress was an Anglo-Norman tower house on site of former Danish king's lands.",
+    "medievalPeriod": "Continuously expanded by Talbot family from 12th century onwards. Great Hall constructed 1475 as hub of medieval castle and Gaelic feasting room. Talbots held powerful positions including Hereditary Lords Admiral of Malahide.",
+    "cromwellianPeriod": "Only interruption in Talbot ownership 1649-1660 when Miles Corbet, a regicide who signed Charles I's death warrant, seized castle during Cromwellian conquest. Corbet was executed at Restoration and castle returned to Talbots. Lady Talbot ordered defenses stripped to prevent future occupation.",
+    "georgianEra": "Drawing rooms redecorated 1833 in distinctive 'Malahide Orange' after Margaret O'Reilly created Baroness Talbot of Malahide. Great Hall remodeled 1825 in neo-gothic revival style by 2nd Baron Talbot.",
+    "literarySignificance": "In the 1920s, private papers of James Boswell (biographer of Samuel Johnson) discovered in castle and sold to American collector. Collection now at Yale University providing invaluable historical primary source.",
+    "modernEra": "Passed to Irish State in 1975 after 7th Baron Milo Talbot's death. Sister Rose Talbot sold to meet death duties. Acquired by Dublin County Council (now Fingal County Council) in 1976 and opened to public. Continues to host international leaders and summits."
+  },
+
+  "tags": ["castle", "medieval", "georgian", "historic-house", "botanical-gardens", "butterfly-house", "fairy-trail", "talbot-family", "norman", "dublin", "malahide", "heritage-site", "family-friendly", "gardens", "outdoor-concerts", "parkland", "educational", "day-trip"],
+  "suitableFor": ["families", "history-enthusiasts", "garden-lovers", "school-groups", "tourists", "photographers", "nature-lovers", "architecture-lovers", "day-trippers", "concert-goers", "children"],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "uniqueFeatures": [
+    "One of Ireland's oldest inhabited castles with 800 years of continuous family occupation",
+    "Longest single family ownership of any Irish castle (Talbot family 1185-1975)",
+    "Only interruption was 11-year Cromwellian occupation by regicide Miles Corbet",
+    "Ireland's only exotic Butterfly House with tropical species",
+    "One of Ireland's most important collections of Jacobite portraits in original setting",
+    "Rare surviving example of Gaelic feasting room (Great Hall from 1475)",
+    "260-acre demesne representing rare 18th-century landscaped park",
+    "Distinctive 'Malahide Orange' Georgian drawing rooms",
+    "Talbot Botanic Gardens featuring rare southern hemisphere plants",
+    "Major international concert venue hosting 20,000+ capacity events",
+    "Enchanting Fairy Trail rated among Ireland's best",
+    "Easy accessibility from Dublin via DART making it perfect day trip",
+    "Free access to extensive parkland for public enjoyment",
+    "James Boswell papers discovered here in 1920s",
+    "Combines medieval, Georgian, and Edwardian architectural periods",
+    "Home to multiple reported ghosts including Miles Corbet and White Lady"
+  ],
+
+  "ghostStories": [
+    {
+      "name": "Miles Corbet",
+      "description": "The regicide who occupied castle 1649-1660 appears in military garb before collapsing into four parts, reflecting his execution by being hung, drawn and quartered",
+      "location": "Throughout castle"
+    },
+    {
+      "name": "The White Lady",
+      "description": "Extraordinarily beautiful woman in white dress whose painting once hung in Great Hall. Leaves painting to drift through halls at night. Painting now missing but sightings continue",
+      "location": "Castle grounds and halls"
+    },
+    {
+      "name": "Sir Walter Hussey",
+      "description": "Rival of Talbot for Lady Maud Plunkett's affections, killed in battle on his wedding day. Haunts halls in resentment of her marrying Talbot instead",
+      "location": "Castle halls"
+    },
+    {
+      "name": "Puck the Jester",
+      "description": "Tudor-era Talbot family jester who fell in love with female hostage and was stabbed helping her escape. Found in winter snow. Seen during 1970s restoration",
+      "location": "Castle grounds"
+    }
+  ],
+
+  "culturalEvents": {
+    "concerts": "Major outdoor concert venue since 2007 hosting international artists including Neil Young, Prince, Radiohead, Arctic Monkeys, The Killers, Depeche Mode, and more. Capacity 20,000+",
+    "seasonalEvents": "Christmas Experience featuring Santa visits, Wonderlights winter illumination trail, special whiskey connoisseur evenings",
+    "privateHire": "Great Hall and other spaces available for weddings, corporate events, and banquets"
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "id": "connemara-national-park",
+  "name": "Connemara National Park",
+  "tagline": "Ireland's wild western wonderland of mountains, bogs, and heaths",
+  "type": "national-park",
+  "categories": ["national-park", "nature-reserve", "mountain-range", "bog-ecosystem", "visitor-centre", "hiking-trails"],
+  "era": "modern-conservation",
+  "dateBuilt": "1980",
+  "unescoWorldHeritageSite": false,
+  "managedBy": "National Parks and Wildlife Service (NPWS) - Department of Housing, Local Government and Heritage",
+
+  "description": {
+    "short": "Connemara National Park covers 2,000 hectares of scenic mountains, expanses of bogs, heaths, grasslands and woodlands in County Galway. Part of the famous Twelve Bens mountain range, this wild Atlantic landscape showcases Ireland's unique blanket bog ecosystem and diverse wildlife.",
+    "full": "Connemara National Park is one of Ireland's eight national parks, located in the northwest of Connemara in County Galway on the west coast. Covering 2,000 hectares (7.7 square miles), the park features dramatic mountains, expansive blanket bogs, heathlands, grasslands and woodlands. The park includes parts of the famous Twelve Bens mountain range, including Benbaun (the highest peak in County Galway at 729 metres), Bencullagh, Benbrack and Muckanaght. Opened to the public in 1980, the park preserves lands that once formed part of the Kylemore Abbey Estate, the Letterfrack Industrial School, and the private property of Richard 'Humanity Dick' Martin, who helped found the Society for the Prevention of Cruelty to Animals. The park offers four well-maintained walking trails ranging from easy nature walks to challenging mountain ascents, a modern visitor centre with exhibitions, and opportunities to encounter the renowned Connemara pony. With free admission and stunning panoramic views across mountains, lakes, and the Atlantic coastline, Connemara National Park represents the very essence of Ireland's wild west.",
+    "history": "The lands that now comprise Connemara National Park have been inhabited for thousands of years. Archaeological evidence includes 4,000-year-old megalithic court tombs and a 19th-century graveyard within the park boundaries. For centuries, the landscape supported traditional ways of life including bog cutting, sheep grazing, and smallholder farming. Much of the land was once part of the extensive Kylemore Abbey estate, where Victorian gentlemen hunted red deer across heather-covered hills. The park also includes lands from the Letterfrack Industrial School and the private property of Richard 'Humanity Dick' Martin (1754-1834), an Irish politician and humanitarian who was instrumental in founding the Society for the Prevention of Cruelty to Animals in 1824. Red deer, once common in the area, were extirpated about 150 years ago. When the Irish government designated the area as Ireland's second national park in 1980, the vision was to preserve this unique landscape for nature conservation while educating visitors about its ecological importance. The park has since become a living museum of Irish natural heritage, where traditional land use practices inform modern conservation efforts. In 2025, the National Parks and Wildlife Service opened the new Connemara Pony Heritage Centre within the park, celebrating the cultural and natural heritage of the famous Connemara pony breed.",
+    "significance": "Connemara National Park protects one of Ireland's finest examples of blanket bog ecosystem, a habitat type that once covered much of the country but has largely disappeared elsewhere. The park's 2,000 hectares preserve diverse landscapes including mountains, bogs, heaths, grasslands and woodlands, providing vital habitat for numerous plant and animal species. The park serves as an important educational resource for understanding Ireland's unique Atlantic ecology and the relationship between humans and the landscape over millennia. It is also a key site for the conservation of the Connemara pony, Ireland's only native horse breed."
+  },
+
+  "location": {
+    "address": {
+      "street": "Letterfrack",
+      "town": "Letterfrack",
+      "county": "Galway",
+      "region": "Connemara - Wild Atlantic Way",
+      "country": "Ireland",
+      "postcode": "H91 K2Y1"
+    },
+    "coordinates": {
+      "latitude": 53.5311,
+      "longitude": -9.8803
+    },
+    "directions": {
+      "general": "Located near the village of Letterfrack in Connemara, County Galway. The Visitor Centre and main entrance are situated along the N59 road",
+      "byCar": "From Galway (93km via Clifden): Travel along N59 to Clifden, then continue on N59 towards Letterfrack. From Galway (82km via Inagh Valley): Take N59 to Recess, turn right down Inagh Valley, turn left at end for Letterfrack. From Westport (53km): Follow N59 towards Leenane, continue to Letterfrack. From Clifden (15km): Take N59 towards Letterfrack. The park entrance is clearly signposted on the right before entering Letterfrack village. From Leenane (20km): Follow N59 to Letterfrack, entrance is 200m past the village on left. Free parking available at visitor centre",
+      "byBus": "Bus Éireann Route 419 and Citylink Route 923 operate services to Letterfrack from Galway and Clifden. The park is a short walk from the bus stop in Letterfrack village",
+      "parking": "Free parking available at the National Park Visitor Centre. Coach parking available. No overnight parking or camping permitted in car park"
+    }
+  },
+
+  "contact": {
+    "phone": "+353 95 41054",
+    "email": "connemaranationalpark@ahg.gov.ie",
+    "website": "https://www.nationalparks.ie/connemara/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/ConnemaraNationalPark/",
+      "twitter": null,
+      "instagram": "https://www.instagram.com/connemaranationalpark/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year round",
+      "seasonal": [
+        {
+          "season": "Year Round",
+          "days": "7 days a week",
+          "hours": "Park grounds open all year during daylight hours",
+          "notes": "Visitor Centre open 9:00am - 5:30pm daily"
+        }
+      ],
+      "specialClosures": ["Visitor Centre closed Christmas Day and St. Stephen's Day", "Park grounds may close during Orange and Red weather warnings"]
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "standard": {
+        "adult": 0.00,
+        "senior": 0.00,
+        "student": 0.00,
+        "child": 0.00,
+        "family": 0.00
+      },
+      "notes": "FREE admission to the National Park, Visitor Centre, exhibitions, audiovisual show, and all walking trails. No booking required for individual visitors. Groups requiring guided tours should contact the park in advance"
+    },
+
+    "tourOptions": [
+      {
+        "type": "Self-Guided Walking Trails",
+        "duration": "15 minutes to 2.5 hours depending on trail",
+        "included": ["Four marked trails with color-coded routes", "Trail maps available", "Interpretive signage", "Stunning mountain and bog views"],
+        "bookingRequired": false,
+        "notes": "All trails start from or near the Visitor Centre except the Upper Diamond Trail (red trail). Free to use. Trail maps available at Visitor Centre for €1"
+      },
+      {
+        "type": "Guided Tours for Groups",
+        "duration": "Varies",
+        "included": ["Expert park guide", "Educational interpretation", "Customized for group interests"],
+        "bookingRequired": true,
+        "notes": "Free guided tours available for groups by advance arrangement. Cannot guarantee availability but park tries to accommodate all requests. School groups must complete special booking form and adhere to Child Protection Guidelines"
+      },
+      {
+        "type": "Visitor Centre Experience",
+        "duration": "30-60 minutes",
+        "included": ["Interactive exhibitions on park ecology and history", "Multi-lingual audiovisual show 'Man and the Landscape'", "Information on flora, fauna and geology", "Connemara Pony Heritage Centre"],
+        "bookingRequired": false,
+        "notes": "Free admission. Exhibitions on two levels, both accessible from exterior. Café available (seasonal)"
+      },
+      {
+        "type": "Summer Events Programme",
+        "duration": "Varies",
+        "included": ["Guided walks with park rangers", "Special events for children", "Seasonal activities and workshops", "Educational programs"],
+        "bookingRequired": false,
+        "notes": "Free programme of events runs during summer months. Check website for current schedule"
+      }
+    ],
+
+    "averageVisitDuration": "2-4 hours (2 hours for Visitor Centre and short trail, full day for longer mountain hikes)",
+    "busyPeriods": ["Summer months (June-August)", "Weekends and public holidays", "School holiday periods", "Fine weather days"],
+    "adviceForVisitors": "Weather in Connemara can change rapidly - bring waterproof clothing and layers even on sunny days. Wear sturdy waterproof hiking boots as terrain can be wet and rocky. Bring plenty of water and snacks for mountain hikes. Check weather forecast before visiting - park closes during severe weather warnings. Dogs welcome but must be kept on leads at all times. No fires permitted anywhere in park. Take all litter home as there are no outdoor bins. For mountain hikes, inform someone of your plans. Only experienced hikers should venture into the hills beyond marked trails. Best time to visit is April to September for weather and to see heather in bloom (July-August)"
+  },
+
+  "features": {
+    "highlights": [
+      "Part of the Twelve Bens (Beanna Beola) mountain range",
+      "Benbaun - highest peak in County Galway at 729 metres (2,392 feet)",
+      "2,000 hectares of protected wilderness",
+      "Extensive blanket bog ecosystem - one of Ireland's finest examples",
+      "Diamond Hill with panoramic views of Connemara",
+      "Purple moor grass creating stunning purple landscapes in bloom",
+      "Four well-marked hiking trails from easy to challenging",
+      "Connemara Pony Heritage Centre",
+      "Free admission to park and all facilities",
+      "Modern Visitor Centre with interactive exhibitions",
+      "Multi-lingual audiovisual show",
+      "Panoramic views of Twelve Bens, Kylemore Abbey, and Atlantic coastline",
+      "Rich birdlife including birds of prey",
+      "Carnivorous plants (sundew and butterwort)",
+      "Heathland flora including rare St. Dabeoc's Heath",
+      "Wild camping permitted in designated remote areas",
+      "4,000-year-old megalithic tombs",
+      "Red deer reintroduction program",
+      "Electric vehicle charging station"
+    ],
+
+    "facilities": [
+      "Visitor Centre (open 9am-5:30pm daily)",
+      "Free Admission",
+      "Café (seasonal)",
+      "Toilets",
+      "Baby Changing Facilities",
+      "Picnic Areas",
+      "Playground",
+      "Education Centre",
+      "Free Parking",
+      "Coach Parking",
+      "Disabled Parking Spaces",
+      "Electric Vehicle Charging Station",
+      "Gift Items Available at Reception",
+      "Trail Maps (€1)",
+      "Free WiFi"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "accessibilityLevel": "Visitor Centre fully accessible - mountain trails not accessible",
+      "restrictions": [
+        "Mountain trails not suitable for wheelchair users",
+        "Part of Sruffaunboy (yellow trail) is wheelchair accessible - ask at reception for details",
+        "Steep, rocky, and uneven terrain on most trails",
+        "Wet and boggy conditions throughout park",
+        "Visitor Centre on two levels but both accessible from exterior (no internal elevator needed)"
+      ],
+      "accessibilityNotes": "Designated disabled parking spaces near Visitor Centre. Visitor Centre, café, toilets, and exhibitions are fully accessible. Part of the Sruffaunboy nature trail is wheelchair accessible - speak to staff at reception desk for detailed information. Visitors with disabilities requiring parking adjacent to Visitor Centre can phone ahead (+353 95 41054) for special arrangements. Assistance dogs welcome throughout park"
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://www.nationalparks.ie/app/uploads/2022/09/Parallax-Image-29.png",
+      "alt": "Connemara National Park with Visitor Centre and mountain backdrop",
+      "caption": "The National Park Visitor Centre set against the dramatic Twelve Bens mountain range"
+    },
+    "gallery": [
+      {
+        "url": "https://www.nationalparks.ie/app/uploads/2022/09/Rectangle-71.png",
+        "alt": "Connemara National Park landscape with mountains and bog",
+        "caption": "The distinctive blanket bog and mountain landscape of Connemara"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Connemara12Bens.jpg/800px-Connemara12Bens.jpg",
+        "alt": "View of the Twelve Bens from Diamond Hill",
+        "caption": "Panoramic view of the Twelve Bens mountain range from Diamond Hill summit"
+      },
+      {
+        "url": "https://www.nationalparks.ie/app/uploads/2022/09/ConnemaraBoundaryMap.png",
+        "alt": "Map of Connemara National Park showing boundaries and trails",
+        "caption": "Connemara National Park covers 2,000 hectares in northwest Connemara"
+      },
+      {
+        "url": "https://nationalparks-15bc7.kxcdn.com/images/parks/connemara/Connemara%20National%20Park.jpg",
+        "alt": "Purple moorland with mountains in background",
+        "caption": "Purple moor grass in bloom creates stunning landscapes across the park"
+      },
+      {
+        "url": "https://nationalparks-15bc7.kxcdn.com/images/parks/connemara/Connemara%20National%20Park%20lake%20landscape.jpg",
+        "alt": "Lake and mountain landscape in Connemara",
+        "caption": "Lakes and mountains create dramatic vistas throughout the park"
+      },
+      {
+        "url": "https://nationalparks-15bc7.kxcdn.com/images/parks/connemara/Connemara%20National%20Park%20boarded%20trail.jpg",
+        "alt": "Boardwalk trail through blanket bog",
+        "caption": "Boardwalk trails protect the fragile bog ecosystem while allowing visitor access"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Kylemore Abbey",
+      "distance": "3.5 km",
+      "type": "abbey-castle"
+    },
+    {
+      "name": "Letterfrack Village",
+      "distance": "0.5 km",
+      "type": "village"
+    },
+    {
+      "name": "Clifden Town",
+      "distance": "15 km",
+      "type": "town"
+    },
+    {
+      "name": "Diamond Hill Summit",
+      "distance": "3.7 km hike from Visitor Centre",
+      "type": "mountain-peak"
+    },
+    {
+      "name": "Benbaun Peak",
+      "distance": "Within park (10.3 km hiking route)",
+      "type": "mountain-peak"
+    },
+    {
+      "name": "Killary Harbour",
+      "distance": "20 km",
+      "type": "fjord"
+    },
+    {
+      "name": "Connemara Heritage & History Centre",
+      "distance": "28 km",
+      "type": "heritage-centre"
+    },
+    {
+      "name": "Leenane Village",
+      "distance": "20 km",
+      "type": "village"
+    }
+  ],
+
+  "resources": {
+    "educationalResources": [],
+    "socialGuides": []
+  },
+
+  "walkingTrails": {
+    "trails": [
+      {
+        "name": "Ellis Wood Nature Trail",
+        "color": "Green",
+        "distance": "0.5 km",
+        "duration": "15 minutes",
+        "difficulty": "Easy",
+        "description": "Short loop through native woodland, perfect for families and wildlife spotting"
+      },
+      {
+        "name": "Sruffaunboy Nature Trail",
+        "color": "Yellow",
+        "distance": "1.5 km",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "description": "Gentle trail through bog and heath. Part of this trail is wheelchair accessible - ask at reception for details"
+      },
+      {
+        "name": "Lower Diamond Hill Trail",
+        "color": "Blue",
+        "distance": "3 km",
+        "duration": "60 minutes",
+        "difficulty": "Moderate",
+        "description": "Loop around base of Diamond Hill with views of Twelve Bens and opportunities for wildlife watching"
+      },
+      {
+        "name": "Upper Diamond Hill Trail",
+        "color": "Red",
+        "distance": "3.7 km",
+        "duration": "90-120 minutes",
+        "difficulty": "Moderate to Challenging",
+        "elevation": "445 metres elevation gain",
+        "description": "Ascent to Diamond Hill summit with panoramic views of Kylemore Abbey, Twelve Bens, and Atlantic coastline. Return trip approximately 2.5 hours"
+      }
+    ],
+    "mountainRoutes": [
+      {
+        "name": "Benbaun Route",
+        "distance": "10.3 km",
+        "duration": "6 hours",
+        "difficulty": "Challenging",
+        "elevation": "725 metres (highest peak in County Galway)",
+        "description": "Demanding route to highest point in the Twelve Bens. For experienced hikers only"
+      },
+      {
+        "name": "Glencoaghan Horseshoe",
+        "distance": "16 km",
+        "duration": "7-9 hours",
+        "difficulty": "Very Challenging",
+        "description": "Classic ridge walk across multiple peaks of the Twelve Bens. Expert navigation skills required"
+      }
+    ]
+  },
+
+  "naturalHistory": {
+    "geology": "The park's dramatic landscape was shaped by glaciation during the last Ice Age. The Twelve Bens are composed of quartzite rock over 500 million years old, creating distinctive white and silver peaks. Blanket bog formed over thousands of years as layers of partially decomposed plant material accumulated in the cool, wet climate",
+    "blanketBog": "Western blanket bog is the most common vegetation type in the park. The bogs store carbon, filter water, and support unique plant communities. Sphagnum moss forms the foundation of the bog ecosystem, creating acidic conditions that preserve organic matter and create peat",
+    "flora": "Purple moor grass dominates the landscape, creating spectacular purple displays when in bloom. The park supports three heather species (common heather, cross-leaved heath, and bell heather), carnivorous plants (sundew and butterwort), bog cotton, bog asphodel, milkwort, orchids, bog myrtle, and diverse lichens and mosses. Rare species include St. Dabeoc's Heath",
+    "fauna": "Rich birdlife includes meadow pipits, skylarks, European stonechats, common chaffinches, European robins, Eurasian wrens, kestrels, Eurasian sparrowhawks, merlins, and peregrine falcons. Winter migrants include woodcock, snipe, redwing, and fieldfare. Mammals include red deer (reintroduced), Connemara ponies, otters, pine martens, badgers, foxes, Irish hares, stoats, pygmy shrews, and field mice. Bats can be observed at night"
+  },
+
+  "culturalHeritage": {
+    "humanHistory": "Archaeological evidence of human habitation spans 4,000 years, including megalithic court tombs. Traditional land uses shaped the landscape through bog cutting, sheep grazing, and smallholder farming",
+    "richardMartin": "Much of the park land once belonged to Richard 'Humanity Dick' Martin (1754-1834), who helped found the Society for the Prevention of Cruelty to Animals in 1824",
+    "connemaraPony": "The park is home to Connemara ponies, Ireland's only native horse breed. The new Connemara Pony Heritage Centre opened in 2025 celebrates this cultural heritage",
+    "kylemmoreEstate": "Lands once formed part of the extensive Kylemore Abbey estate, where Victorian hunting parties pursued red deer"
+  },
+
+  "tags": ["national-park", "connemara", "twelve-bens", "blanket-bog", "mountains", "hiking", "nature-reserve", "wildlife", "free-admission", "visitor-centre", "connemara-pony", "wild-atlantic-way", "galway", "diamond-hill", "benbaun", "conservation", "ecology", "trails"],
+  "suitableFor": ["families", "hikers", "nature-lovers", "photographers", "birdwatchers", "school-groups", "adventure-seekers", "walkers", "wildlife-enthusiasts", "geology-enthusiasts", "botanists", "outdoor-education"],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "uniqueFeatures": [
+    "Ireland's finest example of blanket bog ecosystem",
+    "Part of the iconic Twelve Bens mountain range",
+    "Completely free admission to all facilities and trails",
+    "Benbaun - highest peak in County Galway at 729 metres",
+    "Four well-maintained hiking trails plus mountain routes",
+    "Home to the famous Connemara pony breed",
+    "New Connemara Pony Heritage Centre (opened 2025)",
+    "Wild camping permitted in designated remote areas",
+    "Purple moor grass creating spectacular seasonal displays",
+    "Carnivorous plants thriving in nutrient-poor bogs",
+    "4,000-year-old megalithic archaeological sites",
+    "Red deer reintroduction conservation program",
+    "Panoramic views from Diamond Hill across Connemara to the Atlantic",
+    "Multi-lingual visitor centre with interactive exhibitions",
+    "Year-round access to park grounds",
+    "Electric vehicle charging facilities"
+  ],
+
+  "photographyTips": "Early morning and late afternoon provide soft golden lighting ideal for capturing the dramatic mountain landscapes. The purple moor grass is most photogenic when in bloom (July-August). Diamond Hill summit offers spectacular 360-degree panoramic views. Weather changes rapidly providing opportunities for dramatic moody skies. Focus on details like carnivorous plants, bog cotton, and heather up close. Connemara ponies make excellent subjects. Boardwalk trails create leading lines through bog landscapes. Winter light can be particularly beautiful despite shorter days",
+
+  "seasonalHighlights": {
+    "spring": "Bog asphodel blooms, migrant birds return, fresh green growth, lambing season",
+    "summer": "Heather in full purple bloom (July-August), warmest weather, longest days, best hiking conditions",
+    "autumn": "Changing colors of bilberry and crowberry, dramatic light, fewer crowds",
+    "winter": "Dramatic light and moody skies, migrant birds (woodcock, snipe, redwing, fieldfare), fewer visitors, shorter days"
+  },
+
+  "importantNotes": [
+    "Weather can change very rapidly - always bring waterproof clothing and layers",
+    "Park may close during Orange and Red weather warnings for safety",
+    "No fires permitted anywhere in the park",
+    "Dogs must be kept on leads at all times",
+    "Take all litter home - no outdoor bins provided",
+    "No overnight parking or camping in car park",
+    "Wild camping only in designated remote areas - check guidelines",
+    "Only experienced hikers should venture beyond marked trails",
+    "Mobile phone coverage may be limited in mountains",
+    "Inform someone of your route and expected return time before mountain hikes",
+    "Trail maps available for purchase (€1) at Visitor Centre"
+  ]
+}

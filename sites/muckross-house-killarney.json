@@ -1,0 +1,461 @@
+{
+  "id": "muckross-house-killarney",
+  "name": "Muckross House and Gardens",
+  "tagline": "Victorian elegance in the heart of Killarney National Park",
+  "type": "historic-house",
+  "categories": ["historic-house", "victorian-mansion", "gardens", "museum", "traditional-farms", "craft-centre", "national-park"],
+  "era": "victorian",
+  "dateBuilt": "1839-1843",
+  "unescoWorldHeritageSite": false,
+  "unesco BiosphereReserve": true,
+  "managedBy": "Trustees of Muckross House (Killarney) CLG - National Parks and Wildlife Service",
+
+  "description": {
+    "short": "A magnificent Victorian mansion set in the heart of Killarney National Park, with stunning gardens, traditional farms and craft workshops showcasing Ireland's cultural heritage.",
+    "full": "Muckross House, Gardens and Traditional Farms is Kerry's premier visitor attraction. This spectacular 19th century Victorian mansion stands close to the shores of Muckross Lake, one of Killarney's three lakes, famed worldwide for their splendour and beauty. As a focal point within Killarney National Park, Muckross House is the ideal base from which to explore this landscape. Built for Henry Arthur Herbert and his wife, the water-colourist Mary Balfour Herbert, the house was designed by renowned Scottish architect William Burn. Today the principal rooms are furnished in period style and portray the elegant lifestyle of the nineteenth century landowning class. In the basement, visitors can imagine the busy bustle of the servants as they went about their daily chores. The estate features spectacular gardens including the Sunken Garden, Rock Garden, and Stream Garden, developed in preparation for Queen Victoria's visit in 1861. The Traditional Farms offer a unique step back in time to 1930s and 1940s rural Ireland, with three working farms and traditional craft workshops.",
+    "history": "The Herbert family completed the building of Muckross House in 1843, though this was actually the fourth house that successive generations of the Herbert family had occupied at Muckross over a period of almost two hundred years. The family originally from Wales moved to Ireland in 1665, acquiring the lands around the current Muckross estate. William Burn, the well-known Scottish architect, was responsible for the design of the current house. Building commenced in 1839 and was completed in 1843. Originally it was intended that Muckross House should be a larger, more ornate structure, but plans were altered at Mary Herbert's request. During the 1850s, the Herberts undertook extensive garden works in preparation for Queen Victoria's visit in 1861. Paths were opened through the woods, viewing platforms and seating were provided, and the variety of late-summer-flowering shrubs and flowers was increased. In 1899, after financial difficulties, Lord Ardilaun (a member of the Guinness family) purchased the Estate. In 1910, wealthy American William Bowers Bourn leased Muckross, and his daughter Maud married Arthur Rose Vincent. Her father purchased the property as a wedding gift. Between 1911 and 1932, over £110,000 was lavished on improvements to the estate. In 1932, Muckross House and its surrounding lands were generously donated to the Irish nation by Arthur Vincent, becoming Ireland's first National Park.",
+    "significance": "Muckross House represents one of Ireland's finest examples of Victorian architecture and is a centerpiece of Killarney National Park, Ireland's first National Park and a UNESCO Biosphere Reserve. The estate is fully accredited by the Museum Standards Programme of Ireland and combines historic architecture, horticultural excellence, and living history interpretation through its Traditional Farms and Craft Centre."
+  },
+
+  "location": {
+    "address": {
+      "street": "Muckross House, Gardens & Traditional Farms, The National Park",
+      "town": "Killarney",
+      "county": "Kerry",
+      "region": "South-West - Ring of Kerry & Wild Atlantic Way",
+      "country": "Ireland",
+      "postcode": "V93 KNH6"
+    },
+    "coordinates": {
+      "latitude": 52.0199,
+      "longitude": -9.5133
+    },
+    "directions": {
+      "general": "Located approximately 6km (3.6 miles) from Killarney town centre in Killarney National Park, on the shores of Muckross Lake",
+      "byCar": "From Killarney town centre, take the main Kenmare road (N71) for approximately 6km. The entrance gate is on the right, a short distance beyond the Muckross Park Hotel. Free parking available on site. From Dublin: 333km (3.5 hours via M7/N20/N22). From Cork: 83km (1 hour via N22). From Galway: 250km (2.5 hours via N18/N21/N22)",
+      "byBus": "Bus Éireann services from Killarney town to Kenmare stop near Muckross entrance. Local bus services available from Killarney town centre",
+      "byTrain": "Killarney Railway Station is approximately 7km from Muckross House. Regular services from Dublin, Cork and Tralee. Taxi or local bus from station to Muckross",
+      "byAir": "Kerry Airport is located 15km (9 miles) from Killarney town. Cork Airport 88km. Shannon Airport 120km",
+      "parking": "Multiple free car parks including large coach parking area. Accessible parking available. No overnight parking or camping permitted"
+    }
+  },
+
+  "contact": {
+    "phone": "+353 64 663 1440",
+    "guidingService": "+353 64 6670144",
+    "traditionalFarms": "+353 64 6630804",
+    "email": "info@muckross-house.ie",
+    "website": "https://muckross-house.ie",
+    "bookingUrl": "https://muckross-house.ie/plan-your-visit/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/muckross.ie/",
+      "twitter": "https://twitter.com/muckrosshouse",
+      "instagram": "https://www.instagram.com/muckross.house.killarney/",
+      "tripadvisor": "https://www.tripadvisor.ie/Attraction_Review-g186612-d190062-Reviews-Muckross_House_Gardens_Traditional_Farms-Killarney_County_Kerry.html"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open year round, 7 days a week with seasonal hours",
+      "seasonal": [
+        {
+          "season": "January-March",
+          "days": "7 days a week",
+          "hours": "09:15 - 17:30",
+          "lastAdmission": "16:00"
+        },
+        {
+          "season": "April-June",
+          "days": "7 days a week",
+          "hours": "09:15 - 18:00",
+          "lastAdmission": "16:40"
+        },
+        {
+          "season": "July-August",
+          "days": "7 days a week",
+          "hours": "09:15 - 19:00",
+          "lastAdmission": "17:40"
+        },
+        {
+          "season": "September-October",
+          "days": "7 days a week",
+          "hours": "09:15 - 18:00",
+          "lastAdmission": "16:40"
+        },
+        {
+          "season": "November-December",
+          "days": "7 days a week",
+          "hours": "09:15 - 17:30",
+          "lastAdmission": "16:00"
+        }
+      ],
+      "traditionalFarmsTimes": [
+        {
+          "season": "Mid-March",
+          "days": "Saturday & Sunday",
+          "hours": "13:00 - 18:00"
+        },
+        {
+          "season": "April & October",
+          "days": "Saturday, Sunday & Bank Holidays",
+          "hours": "13:00 - 18:00"
+        },
+        {
+          "season": "May & September",
+          "days": "7 days a week",
+          "hours": "13:00 - 18:00"
+        },
+        {
+          "season": "June-August",
+          "days": "7 days a week",
+          "hours": "10:00 - 18:00"
+        },
+        {
+          "season": "November-February",
+          "days": "Closed",
+          "hours": "Closed"
+        }
+      ],
+      "gardensAccess": "Gardens are free to access and open daily during daylight hours",
+      "specialClosures": ["Christmas Day", "Check website for special event closures"]
+    },
+
+    "admissionPrices": {
+      "currency": "EUR",
+      "house": {
+        "adult": 9.00,
+        "senior": 7.50,
+        "student": 7.50,
+        "child3to5": 0.00,
+        "child6to18": 6.00,
+        "family2plus2": 26.00,
+        "family2plus3": 30.00
+      },
+      "farms": {
+        "adult": 9.00,
+        "senior": 7.50,
+        "student": 7.50,
+        "child3to5": 6.00,
+        "child6to18": 6.00,
+        "family2plus2": 26.00,
+        "family2plus3": 30.00
+      },
+      "jointTicket": {
+        "adult": 16.00,
+        "senior": 13.00,
+        "student": 13.00,
+        "child3to5": 6.00,
+        "child6to18": 10.00,
+        "family2plus2": 33.00,
+        "family2plus3": 37.00
+      },
+      "notes": "No pre-booking required - purchase tickets on arrival. Group rates available for 20+ visitors. Student rate requires valid ID. Children 0-2 years free. Family tickets offer significant savings. Gardens are free to access. Group bookings must be made in advance."
+    },
+
+    "tourOptions": [
+      {
+        "type": "Self-Guided House Tour",
+        "duration": "1-1.5 hours",
+        "included": ["Access to all principal rooms", "Period furnished rooms", "Victorian kitchen and servants' quarters", "Art collection", "Historical displays", "Information panels"],
+        "bookingRequired": false,
+        "notes": "All visitors explore at their own pace using information provided throughout the house"
+      },
+      {
+        "type": "Garden Exploration",
+        "duration": "1-2 hours",
+        "included": ["Sunken Garden", "Rock Garden", "Stream Garden", "Rhododendron and Azalea displays", "Hydrangea border", "Arboretum", "Victorian walled garden parterre", "Woodland walks"],
+        "bookingRequired": false,
+        "notes": "Gardens are free to access. Best viewing April-July for rhododendrons and azaleas"
+      },
+      {
+        "type": "Traditional Farms Experience",
+        "duration": "2-3 hours",
+        "included": ["Three working farms (small, medium, large)", "1930s-1940s furnished cottages", "Traditional farm animals", "Labourers cottage", "Carpenters workshop", "Blacksmith's forge", "Schoolhouse", "Animal petting area", "Woodland playground"],
+        "bookingRequired": false,
+        "notes": "Seasonal opening. Last admission 1 hour before closing. Interactive living history experience"
+      },
+      {
+        "type": "Craft Centre Workshops",
+        "duration": "30-60 minutes per workshop",
+        "included": ["Mucros Weavers demonstrations", "Muckross Pottery studio", "Muckross Bookbindery tours", "Craft shop"],
+        "bookingRequired": false,
+        "notes": "Watch traditional craftspeople at work. Free to visit. Some craft items available for purchase"
+      },
+      {
+        "type": "Group Tours",
+        "duration": "Flexible",
+        "included": ["Tailored experiences", "Educational programmes", "Advance planning support"],
+        "bookingRequired": true,
+        "notes": "Special rates and programmes available for pre-booked groups of 20+"
+      }
+    ],
+
+    "averageVisitDuration": "3-4 hours to experience House, Gardens and Traditional Farms. Allow 1.5-2 hours for House only, 1-2 hours for Gardens, 2-3 hours for Traditional Farms",
+    "busyPeriods": ["Summer months (June-August)", "Easter holidays", "Weekends", "Public holidays", "July-August peak season"],
+    "adviceForVisitors": "Allow a full day to fully explore Muckross House, Gardens and Traditional Farms. Wear comfortable walking shoes as there is extensive outdoor walking. The gardens are particularly spectacular from April to July for rhododendron and azalea displays. Visit early in the day during peak summer months to avoid crowds. The Garden Restaurant offers excellent views and refreshments. Free Wi-Fi available. No smoking, vaping, food or drink permitted inside the house. Photography allowed but no video. Buggies must be left at entrance. The Traditional Farms offer an authentic experience of 1930s-1940s rural Ireland - particularly engaging for families with children."
+  },
+
+  "features": {
+    "highlights": [
+      "Magnificent Victorian mansion designed by William Burn (1839-1843)",
+      "Period-furnished principal rooms showcasing 19th century elegance",
+      "Victorian basement with servants' quarters and working kitchen",
+      "Queen Victoria's State Apartments - she visited in 1861",
+      "Spectacular gardens with Sunken Garden, Rock Garden and Stream Garden",
+      "Rhododendron and Azalea displays (April-July)",
+      "Hydrangea border with blue blooms",
+      "100+ varieties of Camellias in Old Woodland area",
+      "Arboretum with Southern Hemisphere tree collections",
+      "Mary Balfour Herbert's watercolour paintings",
+      "Historic art collection and period furnishings",
+      "Traditional Farms recreating 1930s-1940s rural Ireland",
+      "Three working farms: small, medium and large holdings",
+      "Traditional thatched cottages with period furnishings",
+      "Working Blacksmith's Forge with demonstrations",
+      "Carpenter's Workshop",
+      "1910 Schoolhouse with period classroom",
+      "Traditional farm animals and poultry",
+      "Craft Centre with Weavers, Pottery and Bookbindery",
+      "Live craft demonstrations",
+      "Set within Killarney National Park - Ireland's first National Park",
+      "UNESCO Biosphere Reserve location",
+      "Views over Muckross Lake and surrounding mountains",
+      "Garden Restaurant with mountain views",
+      "Research Library (specialist access)",
+      "Fully accredited museum status"
+    ],
+
+    "facilities": [
+      "Garden Restaurant with indoor and outdoor seating",
+      "Cafe serving hot meals, snacks and refreshments",
+      "Craft Shop featuring local artisan products",
+      "Sweet Shop at Traditional Farms",
+      "Mucros Weavers retail outlet",
+      "Muckross Pottery shop",
+      "Bookbindery products",
+      "Multiple free car parks",
+      "Coach parking",
+      "Public toilets",
+      "Accessible toilets",
+      "Baby changing facilities",
+      "Woodland Playground at Traditional Farms",
+      "Animal petting area",
+      "Picnic areas (outdoor only)",
+      "Free Wi-Fi",
+      "Gift shops",
+      "Information kiosks",
+      "Sheltered picnic area at Traditional Farms"
+    ],
+
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "accessibilityLevel": "Ground floor and gardens accessible, upper floors have stairs",
+      "restrictions": [
+        "House has multiple levels with stairs - no elevator",
+        "Upper floors not accessible for wheelchair users",
+        "Some garden paths have slopes and uneven surfaces",
+        "Traditional Farms has grass paths which may be difficult in wet weather",
+        "Courtesy wheelchair available for use within house only"
+      ],
+      "accessibilityNotes": "Ground floor rooms of Muckross House and most garden areas are accessible to wheelchair users. A courtesy wheelchair is available for use within the house interior - please ask staff. The Garden Restaurant, craft centre, toilets and main facilities are all accessible. Accessible parking available close to entrances. The Traditional Farms has some accessible areas but grass paths may be challenging. Assistance dogs welcome throughout. Please contact in advance to discuss specific accessibility requirements."
+    }
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://muckross-house.ie/wp-content/uploads/2023/11/house-2.jpg",
+      "alt": "Muckross House - magnificent Victorian mansion with manicured lawns",
+      "caption": "Muckross House - Victorian elegance in Killarney National Park"
+    },
+    "gallery": [
+      {
+        "url": "https://muckross-house.ie/wp-content/uploads/2023/11/muckross-house-dining-room-1.jpg",
+        "alt": "Elegant Victorian dining room with period furnishings",
+        "caption": "The Dining Room - furnished in authentic Victorian style"
+      },
+      {
+        "url": "https://muckross-house.ie/wp-content/uploads/2023/11/billiards-room.jpg",
+        "alt": "Victorian billiards room with period table and decor",
+        "caption": "The Billiards Room - 19th century leisure and entertainment"
+      },
+      {
+        "url": "https://muckross-house.ie/wp-content/uploads/2023/11/boudoir.jpg",
+        "alt": "Victorian lady's boudoir with elegant furnishings",
+        "caption": "The Boudoir - Mary Balfour Herbert's private sitting room"
+      },
+      {
+        "url": "https://muckross-house.ie/wp-content/uploads/2023/11/hallway.jpg",
+        "alt": "Grand entrance hallway with period features",
+        "caption": "The Grand Hallway - welcoming visitors since 1843"
+      },
+      {
+        "url": "https://muckross-house.ie/wp-content/uploads/2023/11/the-kitchen.jpg",
+        "alt": "Victorian kitchen with copper pots and period equipment",
+        "caption": "The Victorian Kitchen - servants' domain"
+      },
+      {
+        "url": "https://muckross-house.ie/wp-content/uploads/2023/11/gardens.jpg",
+        "alt": "Visitors enjoying the garden parterre at Muckross",
+        "caption": "The Garden Parterre with mountain views"
+      },
+      {
+        "url": "https://muckross-house.ie/wp-content/uploads/2023/11/house-1.jpg",
+        "alt": "Muckross House with sunken garden in foreground",
+        "caption": "The Sunken Garden - created for Queen Victoria's visit"
+      },
+      {
+        "url": "https://muckross-house.ie/wp-content/uploads/2024/01/Muckross-Traditional-Farms-1.jpg",
+        "alt": "Traditional thatched farmhouse with rural setting",
+        "caption": "Traditional Farms - experience 1930s rural Ireland"
+      },
+      {
+        "url": "https://muckross-house.ie/wp-content/uploads/2024/01/Ploughing-at-Muckross-Traditional-Farms.jpg",
+        "alt": "Horse ploughing demonstration at traditional farms",
+        "caption": "Traditional farming methods using horsepower"
+      },
+      {
+        "url": "https://muckross-house.ie/wp-content/uploads/2024/01/Mucros-Weavers-1.jpg",
+        "alt": "Weaver working at traditional loom",
+        "caption": "Mucros Weavers - traditional craft demonstrations"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Killarney National Park",
+      "distance": "0 km (on site)",
+      "type": "national-park"
+    },
+    {
+      "name": "Torc Waterfall",
+      "distance": "2.5 km",
+      "type": "natural-attraction"
+    },
+    {
+      "name": "Ross Castle",
+      "distance": "4 km",
+      "type": "castle"
+    },
+    {
+      "name": "Muckross Abbey",
+      "distance": "1.5 km",
+      "type": "abbey-ruins"
+    },
+    {
+      "name": "Killarney House and Gardens",
+      "distance": "6 km",
+      "type": "historic-house"
+    },
+    {
+      "name": "Ladies View",
+      "distance": "11 km",
+      "type": "scenic-viewpoint"
+    },
+    {
+      "name": "Gap of Dunloe",
+      "distance": "15 km",
+      "type": "scenic-route"
+    },
+    {
+      "name": "Innisfallen Island",
+      "distance": "5 km",
+      "type": "historic-site"
+    },
+    {
+      "name": "Killarney Town",
+      "distance": "6 km",
+      "type": "town"
+    },
+    {
+      "name": "Ring of Kerry",
+      "distance": "0 km (on route)",
+      "type": "scenic-route"
+    },
+    {
+      "name": "MacGillycuddy Reeks",
+      "distance": "8 km",
+      "type": "mountain-range"
+    }
+  ],
+
+  "resources": {
+    "educationalResources": [],
+    "socialGuides": []
+  },
+
+  "specialExperiences": {
+    "craftDemonstrations": {
+      "available": true,
+      "description": "Watch traditional craftspeople at work in weaving, pottery and bookbinding",
+      "workshops": ["Mucros Weavers", "Muckross Pottery", "Muckross Bookbindery"],
+      "notes": "Free to observe. Handcrafted items available for purchase"
+    },
+    "traditionalFarms": {
+      "available": true,
+      "description": "Authentic recreation of 1930s-1940s rural Irish farm life with working farms, traditional cottages, and period furnishings",
+      "experiences": ["Three working farms", "Traditional farm animals", "Blacksmith demonstrations", "Period schoolhouse", "Animal petting", "Woodland playground"],
+      "notes": "Seasonal opening. Particularly engaging for families and children"
+    },
+    "gardenTours": {
+      "available": true,
+      "description": "Free access to spectacular Victorian gardens with seasonal displays",
+      "highlights": ["Rhododendron and Azalea displays (April-July)", "Sunken Garden", "Rock Garden", "Stream Garden", "Arboretum"],
+      "notes": "Gardens free to access during daylight hours"
+    },
+    "events": {
+      "available": true,
+      "description": "Special events throughout the year including cultural celebrations",
+      "notes": "Check website and social media for event schedules"
+    }
+  },
+
+  "historicalSignificance": {
+    "herbertFamily": "The Herbert family, originally from Wales, moved to Ireland in 1665 and occupied Muckross for almost 200 years. Henry Arthur Herbert and Mary Balfour Herbert built the current house between 1839-1843.",
+    "victorianEra": "Muckross House represents the pinnacle of Victorian architecture and lifestyle in Ireland. The house was extensively renovated in preparation for Queen Victoria's visit in 1861.",
+    "queenVictoriaVisit": "Queen Victoria stayed at Muckross for two nights in August 1861 during her visit to Ireland with Prince Albert. The gardens were specially groomed and enhanced for the royal visit.",
+    "bournVincentEra": "William Bowers Bourn, a wealthy American gold miner, leased and later purchased Muckross in 1910 as a wedding gift for his daughter Maud and her husband Arthur Rose Vincent. Between 1911-1932, over £110,000 was invested in estate improvements.",
+    "nationalParkGift": "In 1932, Arthur Vincent gifted Muckross House and estate to the Irish nation, creating Ireland's first National Park - a 'very remarkable gift, a very generous gift and a very princely gift' according to William T. Cosgrave, Taoiseach at the time.",
+    "unescoDesignation": "Killarney National Park, which encompasses Muckross, was designated as a UNESCO Biosphere Reserve, recognizing its international importance for conservation and sustainable development.",
+    "museumAccreditation": "Muckross House is a fully accredited museum under the Museum Standards Programme of Ireland, ensuring professional standards in conservation, interpretation and visitor experience."
+  },
+
+  "tags": ["victorian-mansion", "historic-house", "gardens", "traditional-farms", "crafts", "killarney", "national-park", "unesco-biosphere", "queen-victoria", "living-history", "family-friendly", "museum", "heritage", "lakes-of-killarney", "ring-of-kerry", "wild-atlantic-way"],
+  "suitableFor": ["families", "history-enthusiasts", "garden-lovers", "photographers", "school-groups", "tourists", "couples", "architecture-lovers", "nature-lovers", "cultural-tourists", "multi-generational-groups"],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "uniqueFeatures": [
+    "Ireland's premier example of Victorian mansion and estate",
+    "Located within Ireland's first National Park (1932)",
+    "Part of UNESCO Biosphere Reserve",
+    "Queen Victoria visited and stayed here in 1861",
+    "Stunning gardens prepared for royal visit",
+    "Three separate working traditional farms recreating 1930s-1940s Ireland",
+    "Living craft demonstrations in weaving, pottery and bookbindery",
+    "Fully accredited museum status",
+    "Spectacular lakeside setting within Killarney National Park",
+    "Free access to world-class gardens",
+    "Over 100 varieties of Camellias",
+    "Extensive Rhododendron and Azalea collections",
+    "Victorian walled garden with elaborate parterre",
+    "Mary Balfour Herbert's watercolour collection",
+    "Authentic Victorian servants' quarters",
+    "Traditional schoolhouse from c.1910",
+    "Animal petting area for children",
+    "Woodland playground",
+    "On the Ring of Kerry and Wild Atlantic Way routes",
+    "Combines historic house, gardens, farms and crafts in one destination"
+  ],
+
+  "conservation": {
+    "status": "Fully accredited museum under Museum Standards Programme of Ireland",
+    "management": "Managed by Trustees of Muckross House (Killarney) CLG in partnership with National Parks and Wildlife Service",
+    "charityNumber": "20013387",
+    "biosphereReserve": "Part of Kerry UNESCO Biosphere Reserve, designated for conservation excellence",
+    "gardenConservation": "Historic garden restoration and maintenance ongoing. Original 1850s-1860s plantings preserved alongside 20th century additions",
+    "houseConservation": "Period room conservation maintains authentic Victorian interiors and furnishings"
+  }
+}
